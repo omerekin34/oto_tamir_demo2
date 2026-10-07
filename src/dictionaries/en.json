@@ -1,0 +1,2218 @@
+{
+  "meta": {
+    "siteName": "Demo Garaj",
+    "title": "Demo Garaj | Heavy Repair, Engines and Diagnostics",
+    "description": "Istanbul-based Demo Garaj runs engine rebuilds, transmissions, diagnostics and 24/7 towing across 14 provinces, on one work-order standard."
+  },
+  "topbar": {
+    "slogans": [
+      "Stranded? 24/7 towing",
+      "Night shift open in Maslak",
+      "Fault codes read in 30 minutes",
+      "Same-day slots for fleet vehicles"
+    ]
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "about": "About",
+    "blog": "Blog",
+    "contact": "Contact",
+    "vehicleStatus": "Vehicle Status",
+    "cta": "Book a bay",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "corporate": "Company",
+    "megaServicesTitle": "Work on the bench",
+    "megaCorporateTitle": "Demo Garaj",
+    "viewAll": "All services",
+    "viewCorporate": "Company page",
+    "servicesMenu": [
+      {
+        "title": "Smart Repair",
+        "text": "Paintless dents, spot paint and bumpers. Jobs that close without stripping the panel.",
+        "href": "hizmetlerimiz/boyasiz-gocuk-duzeltme",
+        "icon": "Hammer"
+      },
+      {
+        "title": "Mobile Repair",
+        "text": "Radiator, lamp, wheel and climate. The crew comes to the car.",
+        "href": "hizmetlerimiz/radyator-onarimi",
+        "icon": "Truck"
+      },
+      {
+        "title": "Collision Repair",
+        "text": "Chassis measure, panel replacement and bake paint in one hall.",
+        "href": "hizmetlerimiz/hasar-onarimi",
+        "icon": "CarFront"
+      },
+      {
+        "title": "Hail Damage",
+        "text": "Multi-panel hail. Paintless and painted work open on the same card.",
+        "href": "hizmetlerimiz/dolu-hasar-onarimi",
+        "icon": "CloudRain"
+      },
+      {
+        "title": "Mechanical Service",
+        "text": "Scheduled service, brakes, clutch, timing and diagnostics.",
+        "href": "hizmetlerimiz/periyodik-bakim",
+        "icon": "Wrench"
+      },
+      {
+        "title": "Detailing",
+        "text": "Interior and exterior care, ceramic, paint protection and film.",
+        "href": "hizmetlerimiz/detayli-ic-ve-dis-temizlik",
+        "icon": "Sparkles"
+      }
+    ],
+    "corporateMenu": [
+      {
+        "title": "About",
+        "text": "A workshop network that grew from two lifts to fourteen provinces.",
+        "href": "hakkimizda",
+        "icon": "Building2"
+      },
+      {
+        "title": "Story and vision",
+        "text": "How the shop started, and why the job card stays plain.",
+        "href": "hakkimizda#hikaye",
+        "icon": "BookOpen"
+      },
+      {
+        "title": "Service points",
+        "text": "Bays in Istanbul, Ankara, Izmir and the other provinces.",
+        "href": "hakkimizda#harita",
+        "icon": "MapPin"
+      },
+      {
+        "title": "Careers",
+        "text": "Technicians, advisors and the mobile crew.",
+        "href": "iletisim",
+        "icon": "Briefcase"
+      },
+      {
+        "title": "Customer notes",
+        "text": "Owners whose handover folder actually closed.",
+        "href": "hakkimizda#yorumlar",
+        "icon": "MessageSquareQuote"
+      }
+    ]
+  },
+  "lang": {
+    "label": "Language"
+  },
+  "emergency": {
+    "label": "Need Help!",
+    "hint": "24/7 tow line",
+    "phoneDisplay": "0850 440 27 27",
+    "phoneHref": "tel:+908504402727"
+  },
+  "footer": {
+    "aboutTitle": "About",
+    "about": "A premium vehicle-care network. Not a fault code — a closed work order.",
+    "linksTitle": "Quick Links",
+    "servicesTitle": "Services",
+    "corporateTitle": "Company",
+    "contactTitle": "Contact",
+    "address": "Maslak Mah. Ahi Evran Cad. No:6, Sariyer / Istanbul",
+    "email": "servis@demogaraj.com",
+    "phone": "0850 440 27 27",
+    "hours": "Weekdays 08:00–20:00 · Saturday 09:00–18:00 · Emergency line 24/7",
+    "rights": "All rights reserved.",
+    "emergencyLabel": "24/7 Emergency Line",
+    "newsletterText": "Leave your email for campaigns and winter-service reminders.",
+    "newsletterPlaceholder": "Your email",
+    "newsletterSubmit": "Subscribe to the newsletter",
+    "newsletterSuccess": "Address received. Winter-service notes will come to this inbox.",
+    "newsletterInvalid": "Enter a valid email.",
+    "services": [
+      { "label": "Periodic Service", "slug": "periyodik-bakim" },
+      { "label": "Collision Repair", "slug": "hasar-onarimi" },
+      { "label": "Computerized Diagnostics", "slug": "diagnostik" },
+      { "label": "Brakes", "slug": "fren" },
+      { "label": "Paintless Dent Repair", "slug": "boyasiz-gocuk-duzeltme" },
+      { "label": "Timing Belt / Chain", "slug": "triger-kayisi-zinciri" }
+    ],
+    "corporateLinks": [
+      { "label": "About", "href": "hakkimizda" },
+      { "label": "Vehicle Status", "href": "arac-sorgulama" },
+      { "label": "Blog (Notes from the Shop)", "href": "blog" },
+      { "label": "Careers", "href": "iletisim" },
+      { "label": "Contact", "href": "iletisim" }
+    ],
+    "legalLinks": [
+      { "label": "Privacy Policy", "href": "politikalar/gizlilik" },
+      { "label": "Cookie Policy", "href": "politikalar/cerez" },
+      { "label": "Terms of Use", "href": "politikalar/kullanim" }
+    ],
+    "social": [
+      { "id": "instagram", "label": "Instagram", "href": "https://www.instagram.com/demogaraj" },
+      { "id": "whatsapp", "label": "WhatsApp", "href": "https://wa.me/908504402727" },
+      { "id": "mail", "label": "Mail", "href": "mailto:servis@demogaraj.com" }
+    ]
+  },
+  "policies": {
+    "items": [
+      {
+        "slug": "gizlilik",
+        "title": "Privacy Policy",
+        "paragraphs": [
+          "The name, phone, email and plate you leave on the booking, contact and newsletter forms are used only to open the work order, call you back and send service reminders.",
+          "This information is not sold. It is not shared with third parties except for towing, parts supply, or a legal duty.",
+          "To correct or delete your record, write to servis@demogaraj.com."
+        ]
+      },
+      {
+        "slug": "cerez",
+        "title": "Cookie Policy",
+        "paragraphs": [
+          "The site uses required cookies to remember the language and to open the page correctly. No advertising profile is built.",
+          "You can delete cookies in your browser settings. If the required cookie is off, the language choice resets on the next visit."
+        ]
+      },
+      {
+        "slug": "kullanim",
+        "title": "Terms of Use",
+        "paragraphs": [
+          "Times and prices on the site are preliminary. The final scope is written on the work order after the car is seen.",
+          "A booking request is confirmed only after an advisor approves it. The emergency tow line is open 24/7. Workshop hours are listed on the contact page."
+        ]
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "Based in Istanbul · 14 provinces",
+      "title": "Not a fault code.",
+      "highlight": "A closed work order.",
+      "subtitle": "Engine rebuilds, transmission adaptations, fleet servicing and night towing share one bench. Parts, labor and the handoff time are written on the job card.",
+      "primary": "Book the workshop",
+      "secondary": "See the work",
+      "dragHint": "Drag the assembly to inspect it",
+      "chips": [
+        "OEM and original parts",
+        "Written job card",
+        "2-year labor warranty"
+      ]
+    },
+    "servicesEyebrow": "The bench",
+    "servicesTitle": "What the shop actually does",
+    "servicesSubtitle": "From diagnostics to paint, every card is a real line item. Duration, parts grade and the handoff are agreed before the key is turned.",
+    "servicesCta": "All services",
+    "servicesBenchTab": "The bench",
+    "servicesBenchContinued": "Rest of the bench",
+    "servicesPrev": "Previous",
+    "servicesNext": "Next",
+    "servicesProgress": "Bench sequence",
+    "servicesNextCue": "Up next",
+    "servicesRestart": "Back to start",
+    "why": {
+      "eyebrow": "Why Demo Garaj",
+      "title": "Craft you can measure",
+      "subtitle": "A handsome waiting room is not the product. We close the job with a compression test, an adaptation report and a photographed handover.",
+      "points": [
+        {
+          "title": "Scope in writing",
+          "text": "We do not invent a price before the inspection. Check, your approval, then the spanner."
+        },
+        {
+          "title": "Diagnosis the same day",
+          "text": "Warning lamps, leaks and gearbox behavior each get their own tool and technician."
+        },
+        {
+          "title": "A traceable part",
+          "text": "OEM, original or approved equivalent lands on the job card with its code."
+        },
+        {
+          "title": "Handoff discipline",
+          "text": "If the promised hour slips, we call you. The car leaves washed, with a report."
+        }
+      ],
+      "stats": [
+        {
+          "value": 18,
+          "suffix": "",
+          "label": "years on the bench"
+        },
+        {
+          "value": 42000,
+          "suffix": "+",
+          "label": "closed work orders"
+        },
+        {
+          "value": 14,
+          "suffix": "",
+          "label": "provinces with a bay"
+        },
+        {
+          "value": 98,
+          "suffix": "%",
+          "label": "fixed on the first visit"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Handover notes",
+      "title": "What owners say after the keys",
+      "prev": "Previous review",
+      "next": "Next review",
+      "items": [
+        {
+          "name": "Deniz Aksoy",
+          "role": "Passat 1.5 TSI",
+          "city": "Istanbul",
+          "text": "Three shops guessed at the chain rattle. Demo Garaj printed compression and timing the same day and fixed it without a full teardown.",
+          "stars": 5
+        },
+        {
+          "name": "Merve Kılıç",
+          "role": "Fleet lead, 40 vans",
+          "city": "Ankara",
+          "text": "They tied scheduled service to each plate. Tires, pads and oil land on one invoice. No surprise lines.",
+          "stars": 5
+        },
+        {
+          "name": "Hakan Yüce",
+          "role": "Sprinter 316",
+          "city": "Bursa",
+          "text": "Broke down on the TEM at night. The truck arrived in 40 minutes. By morning the gearbox adaptation was done.",
+          "stars": 5
+        },
+        {
+          "name": "Selin Arı",
+          "role": "RAV4 Hybrid",
+          "city": "Izmir",
+          "text": "Few shops will touch the high-voltage side. Insulation test and inverter check were explained in plain language.",
+          "stars": 5
+        },
+        {
+          "name": "Cemre Usta",
+          "role": "Focus ST",
+          "city": "Antalya",
+          "text": "Pads and discs together, and a road-test clip landed on my phone. Labor you can see is labor you can trust.",
+          "stars": 5
+        }
+      ]
+    },
+    "partners": {
+      "title": "Brands that live on the bench"
+    },
+    "cta": {
+      "title": "Bring the car. We’ll open the job card together.",
+      "text": "Leave the plate, the symptom and the hour you can spare. An advisor calls back the same day.",
+      "button": "Book an appointment"
+    }
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "Our Services",
+    "subtitle": "From mini repair to mechanical service, from collision work to mobile callouts. Choose a category and open the line item.",
+    "empty": "Nothing is booked in this group.",
+    "durationLabel": "Time",
+    "filters": [
+      {
+        "id": "all",
+        "label": "All"
+      },
+      {
+        "id": "engine",
+        "label": "Engine"
+      },
+      {
+        "id": "chassis",
+        "label": "Chassis"
+      },
+      {
+        "id": "electric",
+        "label": "Electrical"
+      },
+      {
+        "id": "body",
+        "label": "Body"
+      },
+      {
+        "id": "roadside",
+        "label": "Roadside"
+      }
+    ],
+    "items": [
+      {
+        "id": "engine-repair",
+        "category": "engine",
+        "title": "Engine Repair",
+        "summary": "Rings, valves, turbos and timing. Measured before the teardown, compression report at handover.",
+        "description": "Oil use, hard cold starts and metallic noise start with a leak-down and compression test. A head, piston or turbo is replaced on its own. A full rebuild opens only when the numbers demand it.",
+        "duration": "1–5 days",
+        "tag": "Measured rebuild",
+        "image": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Technician over an open engine and cylinder head"
+      },
+      {
+        "id": "heavy-service",
+        "category": "engine",
+        "title": "Heavy Maintenance",
+        "summary": "Timing kit, water pump, clutch and flywheel. Real wear, not a round mileage number.",
+        "description": "We do not recite the 75,000-mile rule. Belt cracks, pump play and clutch free play are measured. Parts changed as a set are photographed.",
+        "duration": "1–2 days",
+        "tag": "Kit replacement",
+        "image": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Mechanic carrying out heavy service in an engine bay"
+      },
+      {
+        "id": "diagnostics",
+        "category": "electric",
+        "title": "Computer Diagnostics",
+        "summary": "Dealer-level software, live data and a road test. A warning lamp is not a diagnosis.",
+        "description": "Module scans with VAG, ISTA, XENTRY and Toyota Techstream. A cleared code is not closed without hardware proof. The diagnostic fee is credited if you approve the repair.",
+        "duration": "45–90 min",
+        "tag": "Live data",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Steering wheel and instrument panel ready for diagnostics"
+      },
+      {
+        "id": "transmission",
+        "category": "engine",
+        "title": "Transmission",
+        "summary": "DSG, ZF and CVT. Fluid spec, mechatronics and adaptation in one file.",
+        "description": "Shunts, delayed engagement and hot neutral drop start with fluid and adaptation. Mechatronics or a clutch pack change only after a pressure test agrees.",
+        "duration": "1–3 days",
+        "tag": "Adaptation log",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Dark passenger car with headlights on at night"
+      },
+      {
+        "id": "brakes",
+        "category": "chassis",
+        "title": "Brake Systems",
+        "summary": "Discs, pads, calipers and hydraulics. Pull on the road test is not accepted.",
+        "description": "Front and rear wear are measured separately. ABS rings and sensor gap are checked. Fluid is changed by boiling point, not by a guessed interval.",
+        "duration": "Same day",
+        "tag": "Road test",
+        "image": "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Close view of an alloy wheel and brake disc"
+      },
+      {
+        "id": "electrical",
+        "category": "electric",
+        "title": "Electrical & Electronics",
+        "summary": "Parasitic draw, control units, sensors and looms. Repairs are soldered and heat-shrunk.",
+        "description": "A flat morning battery, random warnings and window or lock faults start with a draw test. No wire is cut without the diagram.",
+        "duration": "2 hrs–2 days",
+        "tag": "Parasitic draw",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Dark sports car with headlamp detail"
+      },
+      {
+        "id": "body",
+        "category": "body",
+        "title": "Body & Paint",
+        "summary": "Panel replacement, spot welds and bake paint. Filler thickness is measured in microns.",
+        "description": "Insurance files and private work share the same booth. Color is read with a spectrophotometer. You leave with a paint-depth map.",
+        "duration": "2–6 days",
+        "tag": "Bake booth",
+        "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Gloss sedan with a clean body line"
+      },
+      {
+        "id": "towing",
+        "category": "roadside",
+        "title": "24/7 Towing",
+        "summary": "Flatbed and recovery. Inside Istanbul, typical arrival is 35–50 minutes.",
+        "description": "Cars that cannot roll in neutral go on a flatbed. If the vehicle is coming to a Demo Garaj bay, the tow fee is credited on the job card.",
+        "duration": "24/7",
+        "tag": "Flatbed",
+        "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Driver at the wheel on a night road"
+      },
+      {
+        "id": "suspension",
+        "category": "chassis",
+        "title": "Suspension",
+        "summary": "Dampers, arms, tie rods and ball joints. Camber and toe are set before the car comes off the lift.",
+        "description": "Inner tire wear and steering shake start with bushing play. An alignment without the new parts is refused — it drifts again within a week.",
+        "duration": "Same day",
+        "tag": "Alignment included",
+        "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Low-angle sedan showing the chassis line"
+      },
+      {
+        "id": "climate",
+        "category": "electric",
+        "title": "Air Conditioning",
+        "summary": "Gas, leaks, compressor and cabin filter. A smelling cabin is its own line item.",
+        "description": "Pressures are logged before a refill. Leaks are found with dye and UV so gas is not wasted. Evaporator cleaning closes the same day.",
+        "duration": "2–6 hrs",
+        "tag": "Leak test",
+        "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Performance car photographed at night"
+      },
+      {
+        "id": "tires",
+        "category": "chassis",
+        "title": "Tires & Balancing",
+        "summary": "Mounting, balance, rotation and nitrogen. Bent rims are reported separately.",
+        "description": "Seasonal sets are stored in a cage tagged to the plate. Adhesive weights replace clip-on lead so the rim face stays clean.",
+        "duration": "40–70 min",
+        "tag": "Storage",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Silver car moving on an open road"
+      },
+      {
+        "id": "fleet",
+        "category": "roadside",
+        "title": "Fleet Service",
+        "summary": "Plate calendar, one account, a spare car. Contracts from ten vehicles.",
+        "description": "Oil, pads, tires and inspection sit on one board. A failed van is swapped the same day so the field crew keeps moving.",
+        "duration": "Contract",
+        "tag": "One invoice",
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1400&q=80",
+        "alt": "A row of service vehicles parked together"
+      }
+    ],
+    "tabsLabel": "Service categories",
+    "prev": "Previous",
+    "next": "Next",
+    "nextCue": "Up next",
+    "restart": "Back to start",
+    "progress": "Category sequence",
+    "seo": {
+      "title": "Auto Service",
+      "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&w=1800&q=80",
+      "imageAlt": "Demo Garaj technician working a panel in the body hall",
+      "paragraphs": [
+        "Since 2008 Demo Garaj has run mini repair, mobile callouts, collision work, mechanical service and detailing on one job-card system for passenger cars and light commercials. The Maslak shop and the bays in 14 provinces share the same measurement language.",
+        "Paintless dent repair leaves the finish alone, and local paint is mixed from a spectrophotometer reading. The mobile crew closes radiator, bumper, lamp and wheel work on site. Heavy collision damage and hail dents are planned in the body hall against chassis measurements.",
+        "Scheduled service, brakes, dampers, clutch and timing kits open with a diagnostic note. Labor cover is two years or 30,000 km, whichever comes first, at every Demo Garaj point in Turkey."
+      ]
+    },
+    "detail": {
+      "howTitle": "How it is done",
+      "whyTitle": "Why it matters",
+      "advantagesTitle": "Advantages",
+      "bookTitle": "Book this service now",
+      "bookText": "Leave the plate and a short note. An advisor calls back the same day with the window and the inspection, stated plainly.",
+      "bookCta": "Book a visit",
+      "whatsapp": "WhatsApp Support",
+      "whatsappHref": "https://wa.me/908504402727",
+      "whatsappText": "Hello, I would like to book {title}.",
+      "relatedTitle": "Other related services",
+      "back": "All services",
+      "stepsTitle": "How the job runs",
+      "includesTitle": "What the job card covers",
+      "signsTitle": "When to come in"
+    },
+    "categories": [
+      {
+        "id": "tezgah",
+        "label": "Bench",
+        "items": [
+          {
+            "slug": "motor-tamiri",
+            "title": "Engine Repair",
+            "description": "Oil use, hard cold starts and metallic noise start with a leak-down and compression test. A head, piston or turbo is replaced on its own. A full rebuild opens only when the numbers demand it.",
+            "iconName": "Cog",
+            "image": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Technician over an open engine and cylinder head",
+            "content": {
+              "duration": "1–5 days",
+              "overview": "Rings, valves, turbos and timing are measured before anything comes apart. A head, piston or turbo is replaced on its own when the numbers agree. A full rebuild opens only when compression and leak-down demand it.",
+              "how": "The job opens with compression and a leak-down test. Oil use, cold-start behavior and the rpm where the noise appears go on the job card. Rings, valves, turbo and timing are separate lines. No part is replaced without a measurement. A compression report is handed over with the car.",
+              "why": "Opening the whole engine inflates the bill for one failed part. Measure first, then tear down.",
+              "steps": [
+                "Compression and leak-down are measured.",
+                "Oil use, cold start and noise are written on the job card.",
+                "A head, piston or turbo is replaced only when the numbers agree.",
+                "A compression report is handed over."
+              ],
+              "includes": [
+                "Compression and leak-down test",
+                "Rings, valves, turbo and timing assessment",
+                "Replacement of the part the numbers support",
+                "Handover compression report"
+              ],
+              "signs": [
+                "Oil use or blue smoke from the exhaust.",
+                "Hard cold starts, or a noise that fades once warm.",
+                "Metallic knock or a turbo whistle."
+              ],
+              "advantages": [
+                "Measured before the teardown",
+                "A single part is considered before a full rebuild",
+                "A full rebuild opens only when the numbers demand it",
+                "Compression report at handover"
+              ]
+            }
+          },
+          {
+            "slug": "agir-bakim",
+            "title": "Heavy Maintenance",
+            "description": "Timing kit, water pump, clutch and flywheel. Real wear, not a round mileage number. Parts changed as a set are photographed.",
+            "iconName": "Wrench",
+            "image": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Mechanic carrying out heavy service in an engine bay",
+            "content": {
+              "duration": "1–2 days",
+              "overview": "The timing kit, water pump, clutch and flywheel are changed on measured wear, not a round mileage figure. Parts that leave as a set are photographed, and the part codes go on the job card.",
+              "how": "Belt cracks, water-pump play and clutch free play are measured separately. A mileage rule does not open the job on its own. Old parts from a set are photographed. Leaks and noise are checked after assembly, and an out-of-limit flywheel joins the set.",
+              "why": "A half-finished timing kit or clutch sends the customer back for a second teardown. A water-pump bearing can fail before the belt does.",
+              "steps": [
+                "Belt, pump play and clutch free play are measured.",
+                "Parts that change as a set are listed.",
+                "Old parts are photographed and codes go on the job card.",
+                "The car leaves after a leak and noise check."
+              ],
+              "includes": [
+                "Timing belt, tensioner and water pump assessment",
+                "Clutch free play and flywheel runout",
+                "Photo record of the set that came out",
+                "Post-assembly leak and noise check"
+              ],
+              "signs": [
+                "A belt past the maker interval, or a chain noise when cold.",
+                "A drone from the water pump or tensioner.",
+                "Clutch slip, or rpm rising on a hill."
+              ],
+              "advantages": [
+                "Parts are not changed on a mileage slogan",
+                "A set is not left half done",
+                "Old parts are photographed",
+                "The flywheel is measured before the job closes"
+              ]
+            }
+          },
+          {
+            "slug": "sanziman",
+            "title": "Transmission",
+            "description": "DSG, ZF and CVT. Fluid spec, mechatronics and adaptation in one file. A clutch pack changes only after a pressure test agrees.",
+            "iconName": "Settings2",
+            "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Closed workshop bay where transmission work is opened",
+            "content": {
+              "duration": "1–3 days",
+              "overview": "DSG, ZF and CVT work keeps the fluid spec, mechatronics and adaptation in one file. A shunt or delayed engagement does not become a parts order until a pressure test agrees.",
+              "how": "Hot neutral drop, shunt and delay are separated with fluid and adaptation first. Mechatronics or a clutch pack changes only when the pressure test points there. Fluid is written from the maker spec. The adaptation log is attached to the handover papers.",
+              "why": "The wrong fluid and a skipped adaptation will ruin a new clutch pack. Clearing a code does not close a pressure leak.",
+              "steps": [
+                "Fluid level and spec are recorded.",
+                "Adaptation and a pressure test are run.",
+                "Mechatronics or a clutch pack changes only if the test agrees.",
+                "The adaptation log is attached at handover."
+              ],
+              "includes": [
+                "Fluid specification record",
+                "Adaptation check",
+                "Pressure test",
+                "Adaptation log at handover"
+              ],
+              "signs": [
+                "A shunt or delayed engagement when pulling away.",
+                "The gear dropping to neutral once hot.",
+                "Rpm rising on a DSG or CVT without road speed following."
+              ],
+              "advantages": [
+                "Fluid spec stays in the file",
+                "No part is changed before the pressure test",
+                "Mechatronics and adaptation share one job card",
+                "The log is handed over with the car"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mini-onarim",
+        "label": "Mini Repair",
+        "items": [
+          {
+            "slug": "boyasiz-gocuk-duzeltme",
+            "title": "Paintless Dent Repair",
+            "description": "We lift small and mid-size dents quickly, without breaking the paint film.",
+            "iconName": "Hammer",
+            "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Gloss grey body panel kept intact for paintless dent repair",
+            "content": {
+              "duration": "Same day",
+              "overview": "Small and mid-size dents in doors, fenders and the hood are lifted from behind the panel, or with a glue system, when the paint film is still whole. The point is to leave the original coat where it is.",
+              "how": "The job opens with a paint-depth and panel-thickness reading. Rods push a dent from the inside. Where a rod cannot reach, glue and a bridge pull it out. Cracked paint, a sharp crease or thinned steel stops the paintless job and moves it to refinishing. The micron reading is written on the job card.",
+              "why": "Painting a whole panel for a small dent creates color shift and value loss. Paintless repair keeps the factory coat and finishes the same day on most passenger cars.",
+              "steps": [
+                "Dent size, depth and any paint crack are marked.",
+                "Paint depth and steel thickness are measured.",
+                "The dent is eased out with rods or glue.",
+                "The panel is checked under light and the reading is filed."
+              ],
+              "includes": [
+                "Paintless repair of the visible dents",
+                "Before and after paint-depth readings",
+                "Surface check under a light tunnel",
+                "Handoff to paint if the film cracks"
+              ],
+              "signs": [
+                "A parking or trolley mark with the paint still whole.",
+                "A door dent you can feel, with no broken color.",
+                "A few round marks on one panel after hail."
+              ],
+              "advantages": [
+                "Factory paint stays in place",
+                "Most jobs close the same day",
+                "Paint depth is written on the job card",
+                "Cracked paint is not forced through paintless repair"
+              ]
+            }
+          },
+          {
+            "slug": "boya-onarimi",
+            "title": "Paint Repair",
+            "description": "Scratches and surface damage are repaired locally, with color match as the target.",
+            "iconName": "Paintbrush",
+            "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Close red fender and bumper prepared for local paint",
+            "content": {
+              "duration": "1–3 days",
+              "overview": "Scratches, stone chips and limited panel damage are painted only where the damage sits. Color is read with a spectrophotometer, and clearcoat is not allowed to wander onto the next panel.",
+              "how": "The damage is masked and filler depth is tracked in microns. Primer, base and clear are cured in the booth. Color is mixed from the panel reading, not from a faded paint code alone. Previously painted or sun-faded areas are noted. You leave with a thickness map.",
+              "why": "Bare steel rusts quickly. Painting the whole door makes the color shift larger. Local paint stops corrosion and leaves most of the original panel alone.",
+              "steps": [
+                "Damage edge and existing paint depth are measured.",
+                "Color is read with a spectrophotometer.",
+                "Primer, base and clear are baked.",
+                "A thickness map goes on the handover sheet."
+              ],
+              "includes": [
+                "Local sanding, primer and paint",
+                "Spectrophotometer color reading",
+                "Booth cure",
+                "Thickness note at handover"
+              ],
+              "signs": [
+                "A door-edge scratch down to steel.",
+                "A cluster of stone chips on a bumper or fender.",
+                "Color drift or orange peel from an older respray."
+              ],
+              "advantages": [
+                "Color is read from the panel",
+                "The spray stays local",
+                "You get a thickness note after the booth",
+                "Clearcoat does not creep onto the next panel"
+              ]
+            }
+          },
+          {
+            "slug": "plastik-tampon-onarimi",
+            "title": "Plastic Bumper Repair",
+            "description": "Cracks, scuffs and deformation are inspected, then planned as a repair or a replacement.",
+            "iconName": "Puzzle",
+            "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Dark passenger car with the front bumper and grille in close view",
+            "content": {
+              "duration": "1–2 days",
+              "overview": "Cracks, scuffs and broken tabs are sorted by plastic type first. If a repair will not hold, the part is replaced without distorting the sensor pocket or clip seats.",
+              "how": "The PP, ABS or PUR mark inside the bumper is read. The crack is welded or bonded for that plastic. Parking sensors, the camera and washer jets come off so their seats can be checked. A tab that is out of shape is not buried in filler. If paint is required, the job moves to the booth.",
+              "why": "The bumper works with the sensors and the camera. Blind filler changes parking distance and the angle of the lane camera.",
+              "steps": [
+                "Plastic type and the sensor list are read.",
+                "The crack is welded or bonded.",
+                "Sensor, camera and clip seats are measured.",
+                "Paint, if needed, is booked into the booth."
+              ],
+              "includes": [
+                "Repair matched to the plastic",
+                "Sensor and camera seat check",
+                "Broken-clip assessment",
+                "A paint plan when required"
+              ],
+              "signs": [
+                "A parking scuff cracked through the paint.",
+                "A sensor that will not sit, or a loose pocket.",
+                "A broken mounting tab leaving one corner of the bumper proud."
+              ],
+              "advantages": [
+                "Repair follows the plastic type",
+                "Sensor seats are checked on their own",
+                "Replacement is decided by measurement",
+                "Paint is a separate line on the job card"
+              ]
+            }
+          },
+          {
+            "slug": "leke-cikarma",
+            "title": "Stain Removal",
+            "description": "Interior and exterior stains are read by material, then cleaned with a matching method.",
+            "iconName": "Droplets",
+            "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Cabin showing the console and trim surfaces that take stains",
+            "content": {
+              "duration": "2–6 hrs",
+              "overview": "Coffee, ink, tar, tree sap and iron fallout are not lifted with one chemical. The stain is identified against the material, the solvent is tried in a hidden corner, then it is used.",
+              "how": "Leather, cloth, Alcantara and piano-black plastic are separate lines inside. Outside, tar, sap, iron and water marks are separate steps too. Acid or a household solvent does not touch a panel before the test. The surface is neutralized after, and leather is fed.",
+              "why": "The wrong chemical cracks leather, flattens paint and clouds a screen. Name the stain, then choose the method.",
+              "steps": [
+                "Stain and surface are written down.",
+                "The solvent is tried in a hidden corner.",
+                "The stain is lifted in stages and the surface neutralized.",
+                "Leather feed or paint protection is offered only if it is needed."
+              ],
+              "includes": [
+                "Interior stain identification",
+                "Tar, sap and iron fallout outside",
+                "A test before the full pass",
+                "Neutral rinse"
+              ],
+              "signs": [
+                "A ring of coffee or ink on a seat or console.",
+                "Tar, sap or brake dust on the sill and hood.",
+                "A water ring on light leather."
+              ],
+              "advantages": [
+                "The chemical matches the material",
+                "A hidden test comes first",
+                "Interior and exterior stains share one job card",
+                "Leather is fed at the end"
+              ]
+            }
+          },
+          {
+            "slug": "on-cam-onarimi",
+            "title": "Windscreen Repair",
+            "description": "Stone chips and cracks are judged for repair or replacement, with visibility and safety first.",
+            "iconName": "AppWindow",
+            "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Wide windshield that is the subject of a stone-chip repair",
+            "content": {
+              "duration": "45 min – 1 day",
+              "overview": "A stone chip outside the driver’s sight line, and not run to the edge, is filled with resin. A crack in the sight line, a break that reaches the edge, or damage over the camera is not repaired. The glass is replaced.",
+              "how": "Diameter, position and the number of layers are measured. A suitable chip is vacuumed, filled and cured with UV. When the glass must change, removal, adhesive cure and calibration of lane, rain or sign cameras are separate lines. The car is not handed over without calibration when the car requires it.",
+              "why": "The windshield is the passenger airbag’s reaction surface and it carries the driver-assistance camera. A crack in the sight line fails inspection and night vision.",
+              "steps": [
+                "Size, layers and sight line are measured.",
+                "A suitable chip is filled and UV-cured.",
+                "A replacement waits out the adhesive cure.",
+                "Camera calibration closes the job."
+              ],
+              "includes": [
+                "Chip suitability check",
+                "Resin repair or a replacement decision",
+                "Adhesive cure record",
+                "Camera calibration when the car has one"
+              ],
+              "signs": [
+                "A star or bullseye chip.",
+                "A crack growing in the wiper path.",
+                "A break over the camera or rain sensor."
+              ],
+              "advantages": [
+                "A suitable chip closes the same day",
+                "The sight line is judged on its own",
+                "Calibration is on the plan when glass is replaced",
+                "The car is not released before the adhesive cures"
+              ]
+            }
+          },
+          {
+            "slug": "ic-doseme-onarimi",
+            "title": "Interior Trim Repair",
+            "description": "Seat and trim damage is renewed with a method that matches the material.",
+            "iconName": "Armchair",
+            "image": "https://images.unsplash.com/photo-1682858110563-3f609263d418?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Leather seat and center-console trim inside a cabin",
+            "content": {
+              "duration": "1–3 days",
+              "overview": "Torn leather, opened stitching, collapsed foam and a broken trim clip are separate lines. A new cover does not hide the foam under it.",
+              "how": "Leather, vinyl and cloth are separated. A tear is repaired locally and stitching is closed at the original pitch. A collapsed bolster is measured, then supported or replaced. Broken console and door clips go back on by part code. If the seat is heated, the circuit is tested before the trim closes.",
+              "why": "The side bolster holds the driving position. A broken clip also shifts an airbag cover and the trim gap.",
+              "steps": [
+                "Material and damage are listed line by line.",
+                "Leather or stitching is repaired locally.",
+                "Foam and the bolster are measured.",
+                "Clips close by code, and a heated seat is tested."
+              ],
+              "includes": [
+                "Leather, vinyl and cloth kept apart",
+                "Local tear and stitch repair",
+                "Foam check",
+                "Original clip code"
+              ],
+              "signs": [
+                "Door or console trim pushed inward.",
+                "A collapsed bolster with leather pulled tight.",
+                "Stitching opening along a seat edge."
+              ],
+              "advantages": [
+                "Repair follows the material",
+                "Foam is checked on its own",
+                "Clips are replaced by code",
+                "Heated-seat wiring is tested before close"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mobil-onarim",
+        "label": "Mobile Repair",
+        "items": [
+          {
+            "slug": "radyator-onarimi",
+            "title": "Radiator Repair",
+            "description": "Cooling faults that start at the radiator — leaks and lost performance — are closed on site.",
+            "iconName": "Thermometer",
+            "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Technician’s hands working on a radiator core",
+            "content": {
+              "duration": "Same day – 1 day",
+              "overview": "An overheating complaint starts with a pressure test that names the leak. Hose, tank, core and fan are separate lines. The radiator is not replaced before that note exists.",
+              "how": "The cooling system is pressurized cold. The leak may be the core, a plastic tank, a hose, or a cap that will not hold pressure. A blocked core, a fan that will not start and the thermostat are checked apart. If a radiator is required, the part is planned before a tow. Bleed and fan cut-in are the closing tests.",
+              "why": "Repeated overheating walks into the head gasket and the head face. An early call keeps the engine off the stand.",
+              "steps": [
+                "A cold pressure test is run.",
+                "Core, tank, hose and cap are separated.",
+                "Fan and thermostat are checked on their own.",
+                "After repair or replacement the system is bled and the fan is watched."
+              ],
+              "includes": [
+                "Pressure test on site or in the bay",
+                "Hose and core kept apart",
+                "Fan and cap check",
+                "Handover after a bleed"
+              ],
+              "signs": [
+                "The gauge climbs or the fan comes in late.",
+                "Green or pink fluid on the parking spot.",
+                "The heater is slow and the expansion tank keeps emptying."
+              ],
+              "advantages": [
+                "No part is changed before the leak is seen",
+                "Fan and cap sit in the same file",
+                "The part is planned before a tow",
+                "The bleed is a closing test"
+              ]
+            }
+          },
+          {
+            "slug": "tampon-ve-plastik-parca-onarimi",
+            "title": "Bumper and Plastic Part Repair",
+            "description": "Cracks and breaks in plastic parts are repaired in place when the mobile crew can close them properly.",
+            "iconName": "Puzzle",
+            "image": "https://images.unsplash.com/photo-1632823469850-2f77dd9c7f93?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Technician repairing the front bumper and lamp area on site",
+            "content": {
+              "duration": "Same day",
+              "overview": "The mobile crew judges cracks, broken tabs and scuffs that can close without a workshop visit. If the job needs paint or a reshape, the car comes in. It is not skimmed with filler in a car park.",
+              "how": "Plastic type and damage size are measured on site. A crack that will hold is welded or bonded there. A distorted sensor pocket becomes a parts plan. Lamp tabs, grille clips and the undertray are separated on the same visit. Paint leaves the mobile file and is booked into the booth.",
+              "why": "A small plastic crack does not need the car parked for days. The right job finishes where the car already is.",
+              "steps": [
+                "Damage and plastic type are written on site.",
+                "A crack that will hold is welded in place.",
+                "Sensor and clip seats are checked.",
+                "Paint moves onto the workshop plan."
+              ],
+              "includes": [
+                "On-site assessment",
+                "Plastic weld or bond in the field",
+                "Clip and sensor check",
+                "Paint split off to the booth"
+              ],
+              "signs": [
+                "A small crack, paint still whole, at a workplace or site.",
+                "A broken grille or undertray clip.",
+                "A bumper with a loose tab while the sensor still works."
+              ],
+              "advantages": [
+                "The right job finishes on site",
+                "Sensor seats are checked in the field too",
+                "Paint is not attempted on site",
+                "Only damage that will not hold comes to the workshop"
+              ]
+            }
+          },
+          {
+            "slug": "klima-kompresoru-onarimi",
+            "title": "A/C Compressor Repair",
+            "description": "Compressor faults that cut cooling performance are found quickly and put back into a proper repair.",
+            "iconName": "Fan",
+            "image": "https://images.unsplash.com/photo-1625047509248-ec889cbff17f?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Technician working the air-conditioning lines in an engine bay",
+            "content": {
+              "duration": "Same day – 2 days",
+              "overview": "A compressor is not replaced without a pressure log and a leak test. If the system is full of metal debris, the condenser and lines are flushed. Gas is not dumped in at a guess.",
+              "how": "Low side, high side, clutch noise and leaks are measured. The fault may be the clutch, the bearing, a valve or a line, not the compressor body. On replacement the system is flushed, and the dryer plus the correct gas charge are written down. Clutch air gap is set. Vent temperature is logged on the road test.",
+              "why": "Charging a leak leaves the compressor without oil. Debris from the old unit kills the new one the same day.",
+              "steps": [
+                "Pressure, noise and leaks are logged.",
+                "Clutch, bearing and lines are separated.",
+                "On replacement the system is flushed, filter and gas are recorded.",
+                "Vent temperature is measured on the road."
+              ],
+              "includes": [
+                "Pressure and leak log",
+                "Clutch and bearing check",
+                "System flush",
+                "The specified gas charge"
+              ],
+              "signs": [
+                "The clutch does not pull in with the A/C on.",
+                "A scrape or bearing noise from the engine bay.",
+                "Cold air that turns warm after a few minutes."
+              ],
+              "advantages": [
+                "No part changes before the pressures are seen",
+                "Debris means a flush",
+                "Gas follows the specification",
+                "Vent temperature is on the handover note"
+              ]
+            }
+          },
+          {
+            "slug": "far-onarimi-cam-ve-kasa-degisimi",
+            "title": "Headlamp Repair, Lens and Housing",
+            "description": "Headlamp damage is planned as a repair or a replacement, according to what the car actually needs.",
+            "iconName": "Lightbulb",
+            "image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Close headlamp detail for lens and housing replacement",
+            "content": {
+              "duration": "Same day – 1 day",
+              "overview": "A broken lens, a fogged housing, a dull surface and a snapped tab are not the same part. If a repair will not hold, the lamp is replaced by code. Aim, and adaptive calibration when the car has it, close the job.",
+              "how": "Water entry, socket oxide and a cracked tab are separated. If the lens is replaced, the housing seal and the inner reflector are checked. A dull lamp is corrected with measured polish. A cracked housing or broken tab is not glued and sent back on the road. LED and adaptive lamps are coded and aimed before handover.",
+              "why": "Scattered light blinds you and the oncoming lane. Moisture wets the socket and the lamp module.",
+              "steps": [
+                "Lens, housing, tab and fogging are separated.",
+                "A repair that will hold is done, or the part is replaced by code.",
+                "Socket and seal are checked.",
+                "Aim and calibration, if required, close the job."
+              ],
+              "includes": [
+                "Lens, housing and aim kept apart",
+                "Measured polish on a dull lens",
+                "Replacement by part code",
+                "Aim before handover"
+              ],
+              "signs": [
+                "Fog inside the lamp and a scattered low beam.",
+                "A lens pierced by a stone.",
+                "A corner of the lamp pushed in because a tab snapped."
+              ],
+              "advantages": [
+                "Lens and housing are not mixed up",
+                "A cracked housing is not glued and released",
+                "The part code is on the job card",
+                "Aim is set before handover"
+              ]
+            }
+          },
+          {
+            "slug": "jant-onarimi",
+            "title": "Wheel Repair",
+            "description": "Bend, kerb rash and impact damage are repaired in a way that keeps the car safe to drive.",
+            "iconName": "Disc",
+            "image": "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Blue coupe showing the alloy wheel that would be repaired",
+            "content": {
+              "duration": "Same day",
+              "overview": "Runout and curb rash are measured. Bend that can be saved is pulled on the bench. A cracked wheel is refused. The tire comes off and is balanced again.",
+              "how": "Runout and cracks are checked before the tire is condemned. A fracture into the inner bead, or any crack that wants a weld, is refused. A bend that can be saved is pulled on the hydraulic bench. Rash is primed and painted. The tire goes back on and balance uses adhesive weights so the face stays clean.",
+              "why": "A bent wheel shakes the steering, eats a tire shoulder and throws the alignment off. A cracked wheel opens on the road.",
+              "steps": [
+                "Runout and cracks are measured.",
+                "A crack is refused.",
+                "The bend is pulled and the rash is finished.",
+                "The tire is fitted and balanced."
+              ],
+              "includes": [
+                "Runout measurement",
+                "Crack check and a refusal when needed",
+                "Bench straightening",
+                "Balance at handover"
+              ],
+              "signs": [
+                "Steering shake at one speed.",
+                "A crushed lip after a curb.",
+                "One tire shoulder wearing faster than the other."
+              ],
+              "advantages": [
+                "A crack is not opened as a job",
+                "Runout is written as a number",
+                "Balance is part of handover",
+                "Clip-on lead is not hammered into the face"
+              ]
+            }
+          },
+          {
+            "slug": "cnc-ile-jant-yuzey-isleme",
+            "title": "CNC Wheel Refinishing",
+            "description": "A CNC pass brings the wheel face back to a finish and a thickness that still meet the rim.",
+            "iconName": "Gauge",
+            "image": "https://images.unsplash.com/photo-1616422285623-13ff0162193c?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "White sedan with alloy faces suited to diamond-cut machining",
+            "content": {
+              "duration": "1–2 days",
+              "overview": "The wheel face is cut on a CNC lathe with a diamond tool. Lip thickness and edge stock are measured first. If the stock is not there, the machine stays off.",
+              "how": "The wheel comes off and runout plus cracks are screened. Remaining section is written with a micrometer. The diamond tool only cuts a face that has stock. After the cut the face is cleaned and sealed with clear or powder as specified. The tire is balanced and fitted.",
+              "why": "Sanding a face throws the wheel out and ruins the bead seat. CNC keeps the cut to a measured depth.",
+              "steps": [
+                "Runout, cracks and section are measured.",
+                "No stock means no job.",
+                "The face is diamond cut.",
+                "A seal coat and balance close the handover."
+              ],
+              "includes": [
+                "Measurement before the cut",
+                "Diamond machining",
+                "A protective coat",
+                "Balance"
+              ],
+              "signs": [
+                "Scattered curb rash with the lip still thick.",
+                "Waves and dull rings from an earlier polish.",
+                "A crack-free wheel asked for a diamond face."
+              ],
+              "advantages": [
+                "No cut without measured stock",
+                "The depth removed is recorded",
+                "The lathe stays off when stock is short",
+                "Balance is part of handover"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "hasar-onarimi",
+        "label": "Collision Repair",
+        "items": [
+          {
+            "slug": "hasar-onarimi",
+            "title": "Collision Repair",
+            "description": "Body and panel damage after a crash is brought back through a measured process and made ready for handover.",
+            "iconName": "CarFront",
+            "image": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Car with the door open in a body hall, in for collision repair",
+            "content": {
+              "duration": "2–6 days",
+              "overview": "A collision body is not pulled without chassis measurements and a panel plan. Spot welds, panel replacement and paint run on one job card, with photos.",
+              "how": "Chassis points and panel gaps are measured. A pull opens only when the reference is off. Replacement panels close with spot welds, bond and rivets as the maker specifies. Paint finishes with a spectrophotometer reading and the booth. Handover includes gap photos, weld photos and a paint-depth note.",
+              "why": "A pull by eye ruins door gaps, the trunk lid and driving geometry. The damage file opens with numbers.",
+              "steps": [
+                "Chassis points and panel gaps are measured.",
+                "The pull and parts plan are written.",
+                "Welds, bond or rivets follow the specification.",
+                "Paint and a thickness note close the handover."
+              ],
+              "includes": [
+                "Chassis measurement",
+                "Panel and weld plan",
+                "Photographed teardown",
+                "Booth paint and a thickness note"
+              ],
+              "signs": [
+                "A door or trunk lid no longer closes on the same gap.",
+                "Lamp or bumper alignment lost after an impact.",
+                "Body damage already on an insurance file."
+              ],
+              "advantages": [
+                "The pull opens from measurement",
+                "Welds are photographed",
+                "Paint depth is a handover note",
+                "Geometry closes before paint"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "dolu-hasar-onarimi",
+        "label": "Hail Damage Repair",
+        "items": [
+          {
+            "slug": "dolu-hasar-onarimi",
+            "title": "Hail Damage Repair",
+            "description": "The many small dents a hailstorm leaves on panel skins are assessed before any paint is opened.",
+            "iconName": "CloudRain",
+            "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Orange car with multiple dents across the panels",
+            "content": {
+              "duration": "1–4 days",
+              "overview": "Hail leaves dozens of small dents on the hood, roof and trunk. Each mark is sorted by whether the paint cracked. Sound paint is lifted paintless. A cracked point goes to local paint.",
+              "how": "Panels are numbered under light. Diameter, depth and paint condition are written one by one. Marks that can be saved are finished with rods and glue. A sharp crease or cracked paint moves to the paint plan. Painting the whole roof is not the first choice, because it builds thickness.",
+              "why": "Painting every hail mark shifts the color and raises the microns. Sound paint should stay.",
+              "steps": [
+                "Dents are numbered panel by panel.",
+                "Cracked paint is split off.",
+                "Sound paint is repaired paintless.",
+                "Cracked points are booked for local paint."
+              ],
+              "includes": [
+                "Dent count under light",
+                "Paintless repair",
+                "A local-paint plan for cracked points",
+                "A panel depth note"
+              ],
+              "signs": [
+                "Tight round dents on the hood and roof.",
+                "Paint still whole, only the dents showing, after hail.",
+                "A few opened spots and the rest of the panel sound."
+              ],
+              "advantages": [
+                "Each dent is judged on its own",
+                "Paintless repair comes first",
+                "Cracked points are painted locally",
+                "A full-panel respray is not the opening move"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mekanik-bakim",
+        "label": "Mechanical Service",
+        "items": [
+          {
+            "slug": "periyodik-bakim",
+            "title": "Scheduled Service",
+            "description": "Checks follow the maker’s service plan so the car stays safe and the performance stays consistent.",
+            "iconName": "ClipboardCheck",
+            "image": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Technician pouring engine oil during scheduled service",
+            "content": {
+              "duration": "Same day",
+              "overview": "Oil, filters and fluids change against the maker’s interval and against what the fluid actually measures. If a fluid is finished, it is not left in because the odometer has not rolled over. The work is filed to the plate.",
+              "how": "Engine oil and filter, air filter, cabin filter, fuel filter and fluid levels go on a checklist. Brake fluid is judged by boiling point, coolant by freeze point. A wearing belt, the wipers and the lights are noted on the same visit. Part codes and the oil specification sit on the job card.",
+              "why": "Skipped oil and filters turn into an engine or gearbox bill. A calendar on the plate means the next visit is not a guess.",
+              "steps": [
+                "Mileage, the maker’s plan and fluid condition are read.",
+                "Oil and filters change to specification.",
+                "Hydraulic fluid and coolant are measured.",
+                "The next service is filed to the plate."
+              ],
+              "includes": [
+                "Engine oil and filter",
+                "Air, cabin and fuel filter when due",
+                "Fluid measurements",
+                "The next date filed to the plate"
+              ],
+              "signs": [
+                "A service lamp, or an oil-life monitor at zero.",
+                "A car kept on the same oil for too long.",
+                "A fluid and lighting check before inspection."
+              ],
+              "advantages": [
+                "The maker’s plan is the baseline",
+                "A failed fluid is not waiting on mileage",
+                "The oil specification is written down",
+                "The next visit is on a calendar"
+              ]
+            }
+          },
+          {
+            "slug": "fren",
+            "title": "Brakes",
+            "description": "Brake parts are checked, then serviced or repaired with stopping safety as the measure.",
+            "iconName": "Disc",
+            "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Alloy wheel with blue calipers and the brake line visible",
+            "content": {
+              "duration": "Same day",
+              "overview": "Disc thickness, pad material and hydraulic leaks are measured apart. A new pad is not put on a thin disc. Pull on the road test is not accepted.",
+              "how": "Front and rear wear are written separately. A disc under minimum thickness is replaced with the pads. Caliper pins, swollen hoses and the ABS ring are checked. Brake fluid changes when the boiling point drops. Pedal feel closes on a road test.",
+              "why": "A thin disc eats a new pad and lengthens the pedal. Wear on one side means a caliper is sticking.",
+              "steps": [
+                "Disc, pad and hydraulics are measured apart.",
+                "A disc under limit is replaced with the pads.",
+                "Caliper, hose and ABS ring are checked.",
+                "Pull is checked on the road."
+              ],
+              "includes": [
+                "Disc and pad measurement",
+                "Hydraulic and caliper check",
+                "Fluid change when the boiling point says so",
+                "Road test"
+              ],
+              "signs": [
+                "A pulsing or long brake pedal.",
+                "The car pulling to one side under braking.",
+                "A metallic noise thrown inside the wheel."
+              ],
+              "advantages": [
+                "Front and rear are measured apart",
+                "A new pad does not go on a thin disc",
+                "Fluid changes by boiling point",
+                "A pulling car is not handed over"
+              ]
+            }
+          },
+          {
+            "slug": "amortisor",
+            "title": "Shock Absorbers",
+            "description": "Ride and grip faults that start at the damper are found and repaired.",
+            "iconName": "Activity",
+            "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Low yellow sports car showing the stance the dampers hold",
+            "content": {
+              "duration": "Same day",
+              "overview": "Damper leaks, play and mount wear are checked on the lift. Replacement is in pairs. One side is not renewed alone, because the car dives under braking.",
+              "how": "The boot, shaft rust and a torn mount are separated by eye. Bounce is confirmed on the road. The damper, mount and boot are judged together. A new unit opposite a tired one is refused. Torque, and alignment when the geometry moved, close the job.",
+              "why": "A tired damper lengthens the stop, cups the tire and lets the body arrive late in a corner.",
+              "steps": [
+                "Leak, play and the mount are checked on the lift.",
+                "Bounce is confirmed on the road.",
+                "Dampers change as a pair, with the mounts.",
+                "Torque and alignment, if needed, close the job."
+              ],
+              "includes": [
+                "Leak and play check",
+                "Mount assessment",
+                "Pair replacement",
+                "A torque record"
+              ],
+              "signs": [
+                "Two or three bounces after a bump.",
+                "Oil wet on the damper shaft.",
+                "Cupped, saw-tooth tire wear."
+              ],
+              "advantages": [
+                "One-side replacement is refused",
+                "The mount is in the same decision",
+                "A road test confirms it",
+                "Torque is recorded"
+              ]
+            }
+          },
+          {
+            "slug": "suspansiyon-ve-direksiyon",
+            "title": "Suspension and Steering",
+            "description": "Faults in the suspension and steering are closed with safe handling as the target.",
+            "iconName": "Settings2",
+            "image": "https://images.unsplash.com/photo-1599256872237-5dcc0fbe9668?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Hands tightening a fastener on the underside of a car",
+            "content": {
+              "duration": "Same day",
+              "overview": "Arm bushings, tie rods, track-rod ends and ball joints are measured for play. Alignment is not done before the parts change. The setting closes before the car comes off the lift.",
+              "how": "Play is confirmed with a lever and with the noise on the road. A torn bush, a split boot and ball-joint play are separate lines. New parts are torqued, then camber and toe are set. Inner tire wear is explained before the alignment is closed.",
+              "why": "A loose bush eats the inner tire and shakes the wheel. An alignment done before the new parts drifts again within a week.",
+              "steps": [
+                "Bush, tie rod and ball-joint play are measured.",
+                "Parts to replace are written on the job card.",
+                "The fitting is torqued.",
+                "Alignment closes before the car comes down."
+              ],
+              "includes": [
+                "Play measurement",
+                "Bush, tie rod and ball-joint check",
+                "Alignment after the parts",
+                "A tire-wear note"
+              ],
+              "signs": [
+                "Knock or play in the steering over bumps.",
+                "The inner shoulder of a tire melting away.",
+                "The car drifting on a straight road."
+              ],
+              "advantages": [
+                "Alignment follows the new parts",
+                "Play is written as a number",
+                "The cause of tire wear is noted",
+                "The setting closes on the lift"
+              ]
+            }
+          },
+          {
+            "slug": "debriyaj",
+            "title": "Clutch",
+            "description": "Lost bite and worn clutch parts are handled as a planned service, not a roadside surprise.",
+            "iconName": "Cog",
+            "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Closed workshop hall where clutch and driveline jobs are opened",
+            "content": {
+              "duration": "1–2 days",
+              "overview": "The slip point and flywheel runout are measured. Pressure plate, disc and release bearing change as a set. Replacing only the disc leaves a bent flywheel in place.",
+              "how": "Slip, stiff shifts and a leaking hydraulic center are written apart. If flywheel runout is outside limit, the flywheel joins the set. Seals and the pilot bearing are checked while the gearbox is off. A hydraulic leak stays on the same job card. Slip point and shift feel are logged on the road.",
+              "why": "A half-changed clutch comes back early. A hydraulic leak leaves the pedal low even with a new set.",
+              "steps": [
+                "Slip point and flywheel runout are measured.",
+                "Pressure plate, disc and bearing are planned as a set.",
+                "Seals and hydraulics are checked during the same teardown.",
+                "The bite point is written on the road test."
+              ],
+              "includes": [
+                "Set replacement",
+                "Flywheel runout measurement",
+                "Hydraulic check",
+                "Road test"
+              ],
+              "signs": [
+                "Slip on a hill or at high rpm.",
+                "First and reverse going in hard.",
+                "The bite too high or too low in the pedal."
+              ],
+              "advantages": [
+                "The disc is not changed alone",
+                "The flywheel is measured",
+                "Hydraulics stay in the same file",
+                "The bite point is a handover note"
+              ]
+            }
+          },
+          {
+            "slug": "triger-kayisi-zinciri",
+            "title": "Timing Belt / Chain",
+            "description": "Belt and chain checks and replacements are run so the engine stays intact.",
+            "iconName": "Link2",
+            "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Close view of a timing belt, tensioner and pulleys",
+            "content": {
+              "duration": "1 day",
+              "overview": "Belt cracks, tensioner play and chain stretch are measured apart. A belt changes with the water pump and the tensioner as a set. A half set is refused.",
+              "how": "The maker’s interval and the part’s real condition are read together. Cracks, tensioner noise and chain stretch are written on the job card. The water pump changes in the same set, because its bearing can die before the belt. Timing is locked. Leaks and noise are checked after assembly.",
+              "why": "A snapped belt finishes the valves and the pistons together. Ignored chain stretch shifts cam timing.",
+              "steps": [
+                "Cracks, play or stretch are measured.",
+                "Belt, tensioner and water pump are written as a set.",
+                "Timing is locked for the build.",
+                "Leak and noise checks close the handover."
+              ],
+              "includes": [
+                "Set replacement",
+                "Water pump",
+                "A stretch or crack record",
+                "Timing check"
+              ],
+              "signs": [
+                "A belt past the maker’s distance.",
+                "A chain rattle for a second or two when cold.",
+                "A howl from the tensioner or water-pump bearing."
+              ],
+              "advantages": [
+                "The set is not split",
+                "The water pump is included",
+                "Stretch is recorded",
+                "Timing is locked before close"
+              ]
+            }
+          },
+          {
+            "slug": "klima",
+            "title": "Air Conditioning",
+            "description": "Cooling loss and failed air-conditioning parts are serviced and repaired on a plan.",
+            "iconName": "Snowflake",
+            "image": "https://images.unsplash.com/photo-1718629879709-35bebbf03212?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Dash with the air vents and climate controls in view",
+            "content": {
+              "duration": "2–6 hrs",
+              "overview": "Pressure, the cabin filter and evaporator smell are separate lines. Leaks are found with UV. Gas is not charged while a leak is still open.",
+              "how": "System pressure is logged before a refill. A blocked cabin filter is changed. The compressor is not blamed for it. Smell puts evaporator cleaning on the same day. Dye and a UV lamp mark the leak, then the system is charged. Vent temperature closes the job.",
+              "why": "A blocked filter and a smelling evaporator get a healthy compressor replaced. Filter and leak come first.",
+              "steps": [
+                "Pressure is written before the charge.",
+                "Cabin filter and evaporator are separated.",
+                "The leak is found with UV.",
+                "Vent temperature is measured after the charge."
+              ],
+              "includes": [
+                "Pressure log",
+                "Cabin filter check",
+                "UV leak test",
+                "Evaporator odor assessment"
+              ],
+              "signs": [
+                "Lukewarm air and an uneven compressor note.",
+                "A sour smell at first switch-on.",
+                "Slow demist and a filter that has not been changed."
+              ],
+              "advantages": [
+                "Gas is not wasted",
+                "The filter is checked before the compressor",
+                "Smell is its own line",
+                "Vent temperature is measured"
+              ]
+            }
+          },
+          {
+            "slug": "diagnostik",
+            "title": "Diagnostics",
+            "description": "Electronic faults are read with the proper tool, then turned into a repair plan that matches the data.",
+            "iconName": "ScanSearch",
+            "image": "https://images.unsplash.com/photo-1632733711679-529326f6db12?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Technician’s hands measuring inside a fuse box",
+            "content": {
+              "duration": "45–90 min",
+              "overview": "A warning lamp is not a diagnosis. Modules are scanned with the maker’s software and live data is confirmed on the road. A code is not cleared without hardware proof.",
+              "how": "Modules are read with brand software such as VAG, ISTA, XENTRY and Toyota Techstream. Freeze frame, live data and parasitic draw sit in one file. A part is not changed before the measurement holds. The diagnostic fee is credited against labor when the same job card turns into a repair.",
+              "why": "A memorized code replaces the wrong part. Live data shows the condition that set it.",
+              "steps": [
+                "Modules are scanned with brand software.",
+                "Live data and freeze frame are read.",
+                "The suspect circuit is measured and the car is road tested.",
+                "The code is cleared only with proof, and a report is written."
+              ],
+              "includes": [
+                "Brand-software scan",
+                "Live data",
+                "Road test",
+                "A written diagnostic note"
+              ],
+              "signs": [
+                "Engine, ABS or airbag lamp on.",
+                "A fault that is here one day and gone the next.",
+                "A flat morning battery and a suspected draw."
+              ],
+              "advantages": [
+                "A code is not a parts list",
+                "Live data is confirmed on the road",
+                "The diagnostic fee is credited against the repair",
+                "The report is attached to the job card"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "oto-bakim",
+        "label": "Car Care",
+        "items": [
+          {
+            "slug": "detayli-ic-ve-dis-temizlik",
+            "title": "Detailed Interior and Exterior Clean",
+            "description": "Interior and exterior surfaces are detailed back toward the way the car looked when it was new.",
+            "iconName": "Sparkles",
+            "image": "https://images.unsplash.com/photo-1607860108855-64acf2078ed9?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Technician hand-washing the paint",
+            "content": {
+              "duration": "3–6 hrs",
+              "overview": "Outside, the car is washed, iron fallout is lifted and the paint is clayed. Inside, brush, steam and extraction follow the material. The engine bay is not part of this line.",
+              "how": "Paint is rinsed, iron is dissolved and bonded dirt comes off with clay. Grille, sills, trunk seals and wheels are washed apart. Headliner, carpet, plastic and leather are not mixed. The job leaves the paint ready for a later protection step. Scratch removal and ceramic are a different job card.",
+              "why": "A rough wash leaves holograms and a flat shine. Detailing lifts dirt instead of dragging it through the paint.",
+              "steps": [
+                "The outside is rinsed and iron is dissolved.",
+                "Clay and wheel cleaning follow.",
+                "The cabin is cleaned material by material.",
+                "The car is dried, and protection is offered separately."
+              ],
+              "includes": [
+                "Hand wash outside",
+                "Iron fallout and clay",
+                "Plastic, carpet and leather kept apart",
+                "Glass and sill detail"
+              ],
+              "signs": [
+                "Paint that feels rough to the hand.",
+                "Dust and smell settled into carpet and seats.",
+                "A full clean before a sale or handover."
+              ],
+              "advantages": [
+                "No automatic brush",
+                "Interior and exterior materials stay apart",
+                "The engine bay is not bundled in",
+                "Protection is quoted separately from the clean"
+              ]
+            }
+          },
+          {
+            "slug": "seramik-kaplama",
+            "title": "Ceramic Coating",
+            "description": "A ceramic coating is applied for longer protection and a deeper gloss on the paint.",
+            "iconName": "Shield",
+            "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Deep-gloss dark body prepared for a ceramic coat",
+            "content": {
+              "duration": "1–2 days",
+              "overview": "Ceramic does not hide scratched paint. The surface is measured, corrected with polish if it needs it, wiped panel by panel and left to cure.",
+              "how": "Paint depth is written before any polish. Holograms and light scratches are removed only if clearcoat stock remains. Panels are degreased, the coat goes on in rows, and the car stays out of dust for the cure. Wheels, glass and trim join the file only if they are asked for. A dirty car is not coated.",
+              "why": "A coat over dirt and scratches locks the fault in. Surface first, then the layer.",
+              "steps": [
+                "Depth and surface faults are written down.",
+                "Polish is done if it is needed.",
+                "Ceramic goes on panel by panel.",
+                "The car is released when the cure is finished."
+              ],
+              "includes": [
+                "Surface measurement",
+                "Polish correction when required",
+                "Panel-by-panel ceramic",
+                "A cure record"
+              ],
+              "signs": [
+                "A new or freshly painted surface without scratches.",
+                "A request for lasting protection after polish.",
+                "A frequently washed car that no longer sheds water."
+              ],
+              "advantages": [
+                "Scratched paint is not coated directly",
+                "Depth is written before polish",
+                "No handover before the cure",
+                "Wheels and glass are written separately"
+              ]
+            }
+          },
+          {
+            "slug": "boya-koruma",
+            "title": "Paint Protection",
+            "description": "Films and sealants keep the paint looking right for longer against the road.",
+            "iconName": "SprayCan",
+            "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Gloss red body suited to paint protection",
+            "content": {
+              "duration": "Same day – 2 days",
+              "overview": "Protection is chosen as a sealant or a film according to how the panel is used. The nose of the hood, mirror bottoms, sills and lamps — the stone-chip zones — come first.",
+              "how": "The surface is cleaned and depth is written. Film is cut to the car, with no air or dust left under it. Sealant goes on after polish if polish is required. Film is not put on glass that would break a legal sight line. Edge lift is checked at the first inspection.",
+              "why": "A stone chip cuts the clear and opens the steel. Protection is a smaller job than the paint repair that follows.",
+              "steps": [
+                "Stone-chip zones are marked.",
+                "The surface is measured and cleaned.",
+                "Film or sealant is applied.",
+                "Edges and sight lines are checked at handover."
+              ],
+              "includes": [
+                "A choice of film or sealant",
+                "Surface cleaning",
+                "Application on the chip-prone zones",
+                "Edge check"
+              ],
+              "signs": [
+                "Stone chips on the hood nose of a motorway car.",
+                "Fresh paint that needs covering.",
+                "Clearcoat starting to open under the mirrors and on the sills."
+              ],
+              "advantages": [
+                "The product matches the panel",
+                "Film is not put on glass that hurts the sight line",
+                "The surface is measured",
+                "Edge lift is checked at handover"
+              ]
+            }
+          },
+          {
+            "slug": "ozon-ile-dezenfeksiyon",
+            "title": "Ozone Disinfection",
+            "description": "The cabin is treated with ozone for a cleaner, fresher interior.",
+            "iconName": "Wind",
+            "image": "https://images.unsplash.com/photo-1547731269-e4073e054f12?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Empty cabin suited to an ozone treatment",
+            "content": {
+              "duration": "1–2 hrs",
+              "overview": "The cabin is closed, ozone time is set to the volume, and the car is aired after. If the cabin filter is dirty or the evaporator smells, the source is cleaned first.",
+              "how": "The cabin is emptied, the windows are shut, and the time follows the volume. Nobody stays inside. After the cycle the car is ventilated until the ozone has cleared. If the smell is a wet filter or the evaporator, ozone alone does not close the job card.",
+              "why": "Smell usually lives in a wet cabin filter and the evaporator. With the source still there, ozone only leaves a short freshness.",
+              "steps": [
+                "Filter and the smell source are checked.",
+                "The cabin is emptied and closed.",
+                "Ozone runs for the volume.",
+                "The car is aired before handover."
+              ],
+              "includes": [
+                "Timed ozone",
+                "An empty cabin during the cycle",
+                "Ventilation afterward",
+                "Filter check"
+              ],
+              "signs": [
+                "Smoke or pet smell held in the trim.",
+                "Mildew at first A/C start, if the filter will be checked too.",
+                "A cabin hygiene pass before handover."
+              ],
+              "advantages": [
+                "Time follows the volume",
+                "The cycle does not run with people inside",
+                "Airing is part of handover",
+                "Ozone is not sold alone when the filter is the source"
+              ]
+            }
+          },
+          {
+            "slug": "motor-ve-jant-temizligi",
+            "title": "Engine Bay and Wheel Clean",
+            "description": "Dirt in the engine bay and on the wheels is removed with a method that does not harm the parts.",
+            "iconName": "Wrench",
+            "image": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Wash water crossing a wheel and the rear panel",
+            "content": {
+              "duration": "1–3 hrs",
+              "overview": "The engine is washed cold, with connectors covered. Wheels are cleaned with a product meant for brake dust. Abrasive is not held on a sensor or a disc.",
+              "how": "Electrical connectors and open air inlets are masked. Degreaser goes on a cold engine and is rinsed at low pressure. Wheel acid stays only long enough to lift brake dust. It is not left on the caliper and the tire shoulder. Any leak found afterward is noted. An engine wash is not a diagnosis.",
+              "why": "Pressure-washing a hot engine and an open connector turns the warning lamp on. Cold metal and masking are required.",
+              "steps": [
+                "A cold engine and the connectors are confirmed.",
+                "Connectors are masked and degreaser is applied.",
+                "Wheels are cleaned for brake dust.",
+                "Leaks seen after the rinse are noted."
+              ],
+              "includes": [
+                "Cold engine wash",
+                "Connector protection",
+                "Wheel and brake-dust cleaning",
+                "A leak observation"
+              ],
+              "signs": [
+                "Oil vapor and dust on the engine cover.",
+                "Brake dust stuck in the wheel spokes.",
+                "An engine and wheel presentation before a sale."
+              ],
+              "advantages": [
+                "A hot engine is not washed",
+                "Connectors are masked",
+                "Acid is not left sitting",
+                "A leak that shows up is written down"
+              ]
+            }
+          },
+          {
+            "slug": "koltuk-temizligi",
+            "title": "Seat Cleaning",
+            "description": "Stains and dirt in the seat faces are cleaned deeply, with a method matched to the material.",
+            "iconName": "Sofa",
+            "image": "https://images.unsplash.com/photo-1652860316277-370ca5b1b1df?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Light leather seats suited to a deep clean",
+            "content": {
+              "duration": "2–5 hrs",
+              "overview": "Leather and cloth are separated. A stain is tested first, deep dirt is lifted by extraction, and leather is fed at the end. Household foam is not used.",
+              "how": "Stitching, bolsters and the cushion are treated apart. Extraction pulls dirty water out of cloth. A leather cleaner of the right pH is tried in a hidden corner first. Alkaline foam cracks leather and leaves rings in cloth. The surface is dried, leather is fed, and cloth is not handed over damp.",
+              "why": "The wrong foam spreads the stain. Dirt left in the stitching brings the smell back.",
+              "steps": [
+                "Leather and cloth are separated and the stain is tested.",
+                "Extraction lifts the deep dirt.",
+                "The surface is dried.",
+                "Leather is fed and cloth moisture is checked."
+              ],
+              "includes": [
+                "Material separation",
+                "Cleaning after a test",
+                "Extraction",
+                "Leather feed"
+              ],
+              "signs": [
+                "A darkened cushion on light leather.",
+                "Dust and smell held in cloth stitching.",
+                "Crushing and stains after a child seat."
+              ],
+              "advantages": [
+                "No household foam",
+                "A test patch comes first",
+                "Cloth is not left damp",
+                "Leather is fed at the end"
+              ]
+            }
+          },
+          {
+            "slug": "cam-filmi",
+            "title": "Window Film",
+            "description": "Window film cuts the sun load and protects the cabin, without ignoring the legal tint limit.",
+            "iconName": "Layers",
+            "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Blue hatchback with side glass suited to window film",
+            "content": {
+              "duration": "Same day",
+              "overview": "The glass is measured, the film is shaped with heat, and it goes on without water or dust trapped under it. Legal light transmission on the windshield and front doors is checked on its own.",
+              "how": "The inside of the glass is cleaned. Film is heated on the outside to the curve, then applied inside. The edge clearance does not fight the seal. Heater lines on the rear glass are not scratched. Film dark enough to hurt night vision and inspection is not put on the forward sight line. Dry time is stated, and the glass stays up the first day.",
+              "why": "Over-dark film ruins night driving and the inspection result. Transmission comes before comfort.",
+              "steps": [
+                "Glass is measured and the legal transmission is discussed.",
+                "Film is heat-shaped.",
+                "It is applied without trapped dust or water.",
+                "Dry time and a do-not-lower note are given."
+              ],
+              "includes": [
+                "Measure and cut",
+                "Heat shaping",
+                "Dust-free application",
+                "Legal transmission check"
+              ],
+              "signs": [
+                "A request for sun control and privacy on the side glass.",
+                "Old film that has purpled or bubbled.",
+                "A rear-glass renewal that must leave the heater lines alone."
+              ],
+              "advantages": [
+                "The forward sight line is measured",
+                "Film is heat-formed",
+                "Heater lines are not damaged",
+                "Dry time is stated at handover"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "The shop",
+    "title": "From two lifts to fourteen provinces",
+    "lead": "We opened in Maslak in 2008 with two lifts and a pit. The same job-card language now runs in Istanbul, Ankara, Izmir and eleven more provinces.",
+    "paragraphs": [
+      "Demo Garaj is not a dealer workshop. We specialise independently in Volkswagen Group, BMW, Mercedes-Benz, Toyota, Ford, Fiat and Renault. The part code, the labor time and the reason for the replacement are said in the same sentence.",
+      "Our technicians take brand training, and we still refuse to diagnose from a memorised fault code. The cover stays off until compression, pressure, parasitic draw or paint microns are on the card.",
+      "We do not take heavy trucks. Passenger cars, SUVs and light commercials up to 3.5 tonnes are the floor. Anything else is pointed to the right address."
+    ],
+    "image": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1800&q=80",
+    "imageAlt": "A technician's hands on an open engine",
+    "gallery": [
+      {
+        "image": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Workshop exterior with the bay door open",
+        "caption": "Workshop exterior"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Technician working on an open engine",
+        "caption": "Engine detail"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Passenger car raised on a workshop lift",
+        "caption": "Car on the lift"
+      }
+    ],
+    "valuesTitle": "Three rules that do not leave the bench",
+    "values": [
+      {
+        "title": "Measure, then unbolt",
+        "text": "Parts are not changed on a hunch. The number goes on the job card."
+      },
+      {
+        "title": "One owner",
+        "text": "The car has one advisor. You do not explain the same fault to three people."
+      },
+      {
+        "title": "Photographed handover",
+        "text": "The old part, the new part and the road test live in the same folder."
+      }
+    ],
+    "stats": {
+      "eyebrow": "The numbers",
+      "title": "Work that stayed on the bench",
+      "items": [
+        { "value": 15, "prefix": "", "suffix": "+", "label": "Years of experience" },
+        { "value": 14, "prefix": "", "suffix": "", "label": "Provinces served" },
+        { "value": 10000, "prefix": "", "suffix": "+", "label": "Happy customers" },
+        { "value": 100, "prefix": "", "suffix": "%", "label": "Guaranteed work" }
+      ]
+    },
+    "why": {
+      "eyebrow": "The choice",
+      "title": "Why choose us?",
+      "subtitle": "Four lines that do not leave the job card. Parts, warranty, roadside help and the price sit on the same page.",
+      "items": [
+        {
+          "icon": "Package",
+          "title": "Genuine OEM parts",
+          "text": "Genuine, OEM and approved equivalent are separate lines. A part does not leave the shelf without its code."
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "2-year labor warranty",
+          "text": "Labor is covered for two years or 30,000 km, whichever comes first. It holds at every Demo Garaj point."
+        },
+        {
+          "icon": "LifeBuoy",
+          "title": "24/7 roadside help",
+          "text": "Flatbed and recovery roll at night too. If the car comes to a Demo Garaj bay, the tow fee comes off the job card."
+        },
+        {
+          "icon": "Receipt",
+          "title": "Transparent pricing",
+          "text": "No price is invented before the strip-down. Inspection, your approval, and only then the key."
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Handover notes",
+      "title": "Customer notes",
+      "prev": "Previous note",
+      "next": "Next note",
+      "items": [
+        {
+          "name": "Selin Acar",
+          "vehicle": "Volkswagen Golf",
+          "stars": 5,
+          "text": "For the DSG clunk they brought the oil and adaptation report first, the parts list second. What changed, why, and the handover hour were on the same sheet. I collected the car on day two."
+        },
+        {
+          "name": "Emre Kaya",
+          "vehicle": "BMW 320i",
+          "stars": 5,
+          "text": "On the head-gasket job they showed compression numbers before unbolting anything. The labor warranty was written under the job card, not said in the waiting room. I left Maslak with the folder."
+        },
+        {
+          "name": "Deniz Uçar",
+          "vehicle": "Toyota Corolla",
+          "stars": 5,
+          "text": "I broke down at night and the flatbed arrived in 40 minutes. Next morning the parasitic-draw test and the new battery closed with the same advisor. The price matched what they said on the road."
+        },
+        {
+          "name": "Mert Aslan",
+          "vehicle": "Ford Focus",
+          "stars": 5,
+          "text": "Hail across three panels. Paint that had not cracked stayed paintless, the one cracked panel went to paint. The micron map was on my phone at handover. No guesswork."
+        },
+        {
+          "name": "Ayşe Demir",
+          "vehicle": "Renault Megane",
+          "stars": 5,
+          "text": "At the service they did not replace the timing set because the mileage ‘was due’. They photographed the belt crack and asked before opening the job. I had not seen a service note that plain."
+        }
+      ]
+    },
+    "map": {
+      "eyebrow": "The field",
+      "title": "Service points across Turkey",
+      "subtitle": "Hover a marker. The province opens with its bay count and what work runs there.",
+      "pointLabel": "{count} Service Points",
+      "workshopOne": "Workshop",
+      "workshopMany": "Workshops",
+      "locations": [
+        {
+          "id": "istanbul",
+          "name": "Istanbul",
+          "lon": 29,
+          "lat": 41.05,
+          "count": 5,
+          "detail": "Maslak, Ataşehir, Beylikdüzü, Pendik, Hadımköy"
+        },
+        {
+          "id": "ankara",
+          "name": "Ankara",
+          "lon": 32.85,
+          "lat": 39.93,
+          "count": 2,
+          "detail": "Söğütözü, Ostim"
+        },
+        {
+          "id": "izmir",
+          "name": "Izmir",
+          "lon": 27.14,
+          "lat": 38.42,
+          "count": 3,
+          "detail": "Bornova, Gaziemir, Çiğli"
+        },
+        {
+          "id": "bursa",
+          "name": "Bursa",
+          "lon": 29.06,
+          "lat": 40.19,
+          "count": 2,
+          "detail": "Nilüfer, Osmangazi"
+        },
+        {
+          "id": "antalya",
+          "name": "Antalya",
+          "lon": 30.7,
+          "lat": 36.9,
+          "count": 2,
+          "detail": "Kepez, Muratpaşa"
+        },
+        {
+          "id": "adana",
+          "name": "Adana",
+          "lon": 35.32,
+          "lat": 37,
+          "count": 2,
+          "detail": "Seyhan, Yüreğir"
+        },
+        {
+          "id": "trabzon",
+          "name": "Trabzon",
+          "lon": 39.72,
+          "lat": 41,
+          "count": 1,
+          "detail": "Ortahisar"
+        },
+        {
+          "id": "gaziantep",
+          "name": "Gaziantep",
+          "lon": 37.38,
+          "lat": 37.06,
+          "count": 2,
+          "detail": "Şehitkamil, Şahinbey"
+        },
+        {
+          "id": "konya",
+          "name": "Konya",
+          "lon": 32.49,
+          "lat": 37.87,
+          "count": 1,
+          "detail": "Selçuklu"
+        },
+        {
+          "id": "diyarbakir",
+          "name": "Diyarbakır",
+          "lon": 40.23,
+          "lat": 37.91,
+          "count": 1,
+          "detail": "Kayapınar"
+        }
+      ]
+    }
+  },
+  "blog": {
+    "eyebrow": "The log",
+    "title": "Notes from the workshop",
+    "subtitle": "Winter prep, brake fluid, warning lamps. Not sales copy — jobs we actually see on the bench.",
+    "read": "read",
+    "posts": [
+      {
+        "slug": "kisa-hazirlik",
+        "title": "Prepare your car for winter",
+        "excerpt": "Battery voltage, antifreeze strength, tread depth and washer fluid. Four lines, one afternoon. Most roadside failures start on this list.",
+        "category": "Season",
+        "date": "12 November 2025",
+        "minutes": 6,
+        "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Black car parked in the dark"
+      },
+      {
+        "slug": "fren-hidroligi",
+        "title": "When brake fluid actually needs changing",
+        "excerpt": "The two-year habit does not fit every car. When the boiling point drops, the pedal goes soft. We measure before we replace, and we do not postpone the result.",
+        "category": "Brakes",
+        "date": "3 October 2025",
+        "minutes": 5,
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Orange sports car, a nod to brake performance"
+      },
+      {
+        "slug": "ariza-lambasi",
+        "title": "When the engine warning lamp comes on",
+        "excerpt": "An amber lamp and a red lamp are not the same event. One lets you drive to the shop. The other means key off and call a flatbed.",
+        "category": "Engine",
+        "date": "18 September 2025",
+        "minutes": 7,
+        "image": "https://images.unsplash.com/photo-1493238792000-8113da705763?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Passenger car in profile at night"
+      },
+      {
+        "slug": "dsg-bakim",
+        "title": "Why a DSG service should not wait",
+        "excerpt": "A wet clutch and a dry clutch do not share an oil interval. A DQ250 that skips 37,000 miles becomes a mechatronics invoice.",
+        "category": "Gearbox",
+        "date": "2 August 2025",
+        "minutes": 8,
+        "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Front view of a Porsche, drivetrain presence"
+      },
+      {
+        "slug": "lastik-gecisi",
+        "title": "Switching from summer tires to winter tires",
+        "excerpt": "Below 7°C you are in winter-tire country. A winter tire under 4 mm of tread is not a new tire.",
+        "category": "Tires",
+        "date": "21 July 2025",
+        "minutes": 4,
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Sports car close to a wet surface"
+      },
+      {
+        "slug": "filo-plan",
+        "title": "A service plan for fleet vehicles",
+        "excerpt": "Past ten vehicles the calendar falls apart. A fleet that does not keep plate, mileage and inspection on one board meets the failure in the field.",
+        "category": "Fleet",
+        "date": "9 June 2025",
+        "minutes": 6,
+        "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Dark BMW with a fleet-car presence"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "Contact",
+    "title": "Get in touch",
+    "subtitle": "Write for a general question, parts or a fleet account. Use the booking page for a service time.",
+    "form": {
+      "name": "Name",
+      "email": "Email",
+      "subject": "Subject",
+      "subjectPlaceholder": "Choose a subject",
+      "subjects": [
+        { "id": "general", "label": "General question" },
+        { "id": "quote", "label": "Parts and pricing" },
+        { "id": "fleet", "label": "Fleet account" },
+        { "id": "career", "label": "Careers" },
+        { "id": "other", "label": "Other" }
+      ],
+      "message": "Message",
+      "messagePlaceholder": "Write a short note about what you need.",
+      "submit": "Send message",
+      "sending": "Sending",
+      "successTitle": "Message received",
+      "successText": "An advisor will reply to your email during shop hours.",
+      "another": "New message",
+      "errors": {
+        "name": "Name should be at least 2 characters.",
+        "email": "Enter a valid email address.",
+        "subject": "Choose a subject.",
+        "message": "Message should be at least 12 characters."
+      }
+    },
+    "infoTitle": "Maslak main shop",
+    "mapTitle": "Demo Garaj Maslak map",
+    "faq": {
+      "eyebrow": "FAQ",
+      "title": "What the bench gets asked most",
+      "items": [
+        {
+          "q": "Do you fit original parts?",
+          "a": "Three options: original, OEM, and an approved equivalent. Whichever we fit is written on the job card with its code. We do not swap in an equivalent without saying so."
+        },
+        {
+          "q": "How long does an engine repair take?",
+          "a": "A head gasket is usually one day. A rebuild with rings and pistons is two to five days, depending on parts. The window is fixed after the measurement, not before."
+        },
+        {
+          "q": "Is the diagnostic fee credited against the repair?",
+          "a": "Yes. If the same job card turns into a repair, the diagnostic fee comes off the labor. A scan-only visit keeps the fee."
+        },
+        {
+          "q": "Which brands do you take?",
+          "a": "The core is Volkswagen Group, BMW, Mercedes-Benz, Toyota, Ford, Fiat and Renault. We also accept other passenger cars and light commercials up to 3.5 tonnes."
+        },
+        {
+          "q": "Do you work on diesel and hybrid cars?",
+          "a": "Diesel particulate filters, EGR and injectors are daily work. Hybrids are opened only by a technician cleared for high voltage, and only after an insulation test."
+        },
+        {
+          "q": "Is there a courtesy car?",
+          "a": "Heavy repairs and fleet contracts get a replacement. Same-day jobs do not — we tell you the duration up front instead."
+        },
+        {
+          "q": "How does towing work?",
+          "a": "0850 440 27 27 is open 24/7. We ask for location, plate, and whether the car can roll in neutral. If it is coming to a Demo Garaj bay, the tow fee is credited on the job card."
+        },
+        {
+          "q": "How long is the labor warranty?",
+          "a": "Labor is two years or 30,000 km, whichever comes first. Parts follow the maker’s terms and sit on their own line of the handover sheet."
+        }
+      ]
+    }
+  },
+  "appointment": {
+    "metaTitle": "Book a bay",
+    "metaDescription": "A plate and a symptom are enough. Open the job card at the Maslak shop; the advisor states the window and the inspection fee plainly.",
+    "eyebrow": "Booking",
+    "title": "Open the job card here",
+    "subtitle": "A plate and a symptom are enough. The advisor calls back with the window and the inspection fee, stated plainly.",
+    "workshop": "Maslak main shop",
+    "addressLine1": "Maslak Mah. Ahi Evran Cad. No:6",
+    "addressLine2": "Sariyer / Istanbul",
+    "hours": "Weekdays 08:00–20:00 Saturday 09:00–18:00 Emergency line 24/7",
+    "mapTitle": "Demo Garaj Maslak map",
+    "wizard": {
+      "progress": "Step {current} / 5",
+      "back": "Back",
+      "next": "Next",
+      "steps": {
+        "service": {
+          "question": "Which service do you need?",
+          "options": [
+            {
+              "id": "periodic",
+              "title": "Scheduled service",
+              "text": "Oil, filters, brakes and mileage service."
+            },
+            {
+              "id": "engine",
+              "title": "Engine & mechanical",
+              "text": "Engine, gearbox, power loss and mechanical faults."
+            },
+            {
+              "id": "body",
+              "title": "Damage & bodywork",
+              "text": "Impact, paint and panel repair."
+            },
+            {
+              "id": "diagnostic",
+              "title": "Fault diagnosis",
+              "text": "Fault codes, leaks and electronic diagnosis."
+            }
+          ],
+          "error": "Choose a service."
+        },
+        "complaint": {
+          "question": "What is the main problem with the car?",
+          "placeholder": "Describe the symptom in your own words.",
+          "pills": {
+            "periodic": ["Oil change is due", "Brakes are noisy", "Service mileage is up"],
+            "engine": ["Engine is making a noise", "Power has dropped", "Brakes are not holding"],
+            "body": ["There is impact damage", "Paint is lifting", "A door will not close"],
+            "diagnostic": ["The warning light is on", "Power has dropped", "It shakes at idle"]
+          },
+          "error": "Pick a symptom or write at least 8 characters."
+        },
+        "tow": {
+          "question": "Can the car be driven, or should we send a tow truck?",
+          "needTow": "No, I need a tow truck (location will be taken)",
+          "self": "Yes, I will bring it myself",
+          "locating": "Getting your location",
+          "located": "Location received",
+          "locationDenied": "Location permission was denied. The advisor will take the address when they call.",
+          "error": "Choose one option."
+        },
+        "schedule": {
+          "question": "Which day and time work for you?",
+          "flexible": "My dates are flexible, please call me",
+          "note": "Note",
+          "notePlaceholder": "Afternoons work. Early mornings do not.",
+          "prevMonth": "Previous month",
+          "nextMonth": "Next month",
+          "weekdays": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+          "slots": ["09:00", "11:00", "13:00", "15:00", "17:00"],
+          "timeLabel": "Time",
+          "error": "Pick a day and time, or tick the flexible date box."
+        },
+        "details": {
+          "title": "Last step: your contact details",
+          "name": "Full name",
+          "phone": "Phone",
+          "plate": "License plate",
+          "plateHint": "Enter the plate correctly so you can track the car in the system",
+          "submit": "Confirm and send the booking",
+          "sending": "Sending",
+          "errors": {
+            "name": "Name should be at least 2 characters.",
+            "phone": "Enter a valid phone number.",
+            "plate": "Use a plate like 34 ABC 123."
+          }
+        }
+      },
+      "successTitle": "Booking received",
+      "successText": "An advisor will call during shop hours. For a breakdown, use the line beside the map.",
+      "another": "New booking"
+    }
+  },
+  "vehicle": {
+    "metaTitle": "Vehicle Status",
+    "metaDescription": "Look up which bay a car is in by plate. The lookup service opens shortly.",
+    "eyebrow": "Tracking",
+    "title": "Vehicle status",
+    "subtitle": "Enter a plate to see which bay the job card is in. This page opens when the lookup service is connected.",
+    "searchLabel": "Plate / job card no.",
+    "placeholder": "34 ABC 123",
+    "submit": "Look up",
+    "panelEyebrow": "Job card",
+    "vehicleName": "BMW 320i",
+    "workOrderLabel": "No.",
+    "workOrder": "OT-4821",
+    "statusDone": "Complete",
+    "statusActive": "Active",
+    "statusWaiting": "Waiting",
+    "steps": [
+      { "title": "Vehicle intake and job card opened", "detail": "" },
+      { "title": "Fault finding and report", "detail": "" },
+      { "title": "Repair / parts replacement", "detail": "Estimated finish: tomorrow 16:00" },
+      { "title": "Wash and quality check", "detail": "" },
+      { "title": "Ready for handover", "detail": "" }
+    ]
+  },
+  "notFound": {
+    "title": "This bay is empty",
+    "text": "The page has moved, or it was never opened.",
+    "back": "Back to the floor"
+  },
+  "partners": [
+    "Castrol",
+    "Bosch",
+    "Mobil 1",
+    "Shell",
+    "NGK",
+    "Brembo",
+    "Mann-Filter",
+    "Valeo",
+    "Continental",
+    "Michelin",
+    "Liqui Moly",
+    "Mahle"
+  ]
+}

@@ -1,0 +1,2218 @@
+{
+  "meta": {
+    "siteName": "Demo Garaj",
+    "title": "Demo Garaj | Ağır Bakım, Motor ve Diagnostik",
+    "description": "İstanbul merkezli Demo Garaj; motor revizyonu, şanzıman, diagnostik ve 7/24 çekici hizmetini 14 ilde aynı iş emri disipliniyle yürütür."
+  },
+  "topbar": {
+    "slogans": [
+      "Yolda mı kaldınız? 7/24 çekici",
+      "Gece vardiyası Maslak’ta açık",
+      "Arıza kodu 30 dakikada okunur",
+      "Filo araçlarına aynı gün randevu"
+    ]
+  },
+  "nav": {
+    "home": "Ana Sayfa",
+    "services": "Hizmetlerimiz",
+    "about": "Hakkımızda",
+    "blog": "Blog",
+    "contact": "İletişim",
+    "vehicleStatus": "Araç Durum Sorgulama",
+    "cta": "Randevu Al",
+    "openMenu": "Menüyü aç",
+    "closeMenu": "Menüyü kapat",
+    "corporate": "Kurumsal",
+    "megaServicesTitle": "Atölyede yapılan iş",
+    "megaCorporateTitle": "Demo Garaj",
+    "viewAll": "Tüm hizmetler",
+    "viewCorporate": "Kurumsal sayfa",
+    "servicesMenu": [
+      {
+        "title": "Mini Onarım",
+        "text": "Boyasız göçük, lokal boya ve tampon. Panel sökülmeden kapanan işler.",
+        "href": "hizmetlerimiz/boyasiz-gocuk-duzeltme",
+        "icon": "Hammer"
+      },
+      {
+        "title": "Mobil Onarım",
+        "text": "Radyatör, far, jant ve klima. Ekip araca gelir, iş sahada kapanır.",
+        "href": "hizmetlerimiz/radyator-onarimi",
+        "icon": "Truck"
+      },
+      {
+        "title": "Hasar Onarımı",
+        "text": "Şasi ölçümü, panel değişimi ve fırın boya aynı holde yürür.",
+        "href": "hizmetlerimiz/hasar-onarimi",
+        "icon": "CarFront"
+      },
+      {
+        "title": "Dolu Hasarı",
+        "text": "Çok panelli dolu izi. Boyasız ve boyalı plan aynı dosyada açılır.",
+        "href": "hizmetlerimiz/dolu-hasar-onarimi",
+        "icon": "CloudRain"
+      },
+      {
+        "title": "Mekanik Bakım",
+        "text": "Periyodik bakım, fren, debriyaj, triger ve diagnostik.",
+        "href": "hizmetlerimiz/periyodik-bakim",
+        "icon": "Wrench"
+      },
+      {
+        "title": "Oto Bakım",
+        "text": "İç-dış temizlik, seramik, boya koruma ve cam filmi.",
+        "href": "hizmetlerimiz/detayli-ic-ve-dis-temizlik",
+        "icon": "Sparkles"
+      }
+    ],
+    "corporateMenu": [
+      {
+        "title": "Hakkımızda",
+        "text": "İki liftten on dört ile uzanan atölye ağı.",
+        "href": "hakkimizda",
+        "icon": "Building2"
+      },
+      {
+        "title": "Hikaye ve vizyon",
+        "text": "Kuruluş, şeffaf iş emri ve usta kalitesi.",
+        "href": "hakkimizda#hikaye",
+        "icon": "BookOpen"
+      },
+      {
+        "title": "Hizmet noktaları",
+        "text": "İstanbul, Ankara, İzmir ve diğer illerdeki atölyeler.",
+        "href": "hakkimizda#harita",
+        "icon": "MapPin"
+      },
+      {
+        "title": "Kariyer",
+        "text": "Usta, danışman ve mobil ekip kadrosu.",
+        "href": "iletisim",
+        "icon": "Briefcase"
+      },
+      {
+        "title": "Müşteri yorumları",
+        "text": "Teslim tutanağını kapatan araç sahipleri.",
+        "href": "hakkimizda#yorumlar",
+        "icon": "MessageSquareQuote"
+      }
+    ]
+  },
+  "lang": {
+    "label": "Dil seçimi"
+  },
+  "emergency": {
+    "label": "Yolda Kaldım!",
+    "hint": "7/24 çekici hattı",
+    "phoneDisplay": "0850 440 27 27",
+    "phoneHref": "tel:+908504402727"
+  },
+  "footer": {
+    "aboutTitle": "Hakkımızda",
+    "about": "Premium araç bakım ağı. Arıza kodu değil, kapanmış iş emri üretiyoruz.",
+    "linksTitle": "Hızlı Linkler",
+    "servicesTitle": "Hizmetlerimiz",
+    "corporateTitle": "Kurumsal",
+    "contactTitle": "İletişim",
+    "address": "Maslak Mah. Ahi Evran Cad. No:6, Sarıyer / İstanbul",
+    "email": "servis@demogaraj.com",
+    "phone": "0850 440 27 27",
+    "hours": "Hafta içi 08:00–20:00 · Cumartesi 09:00–18:00 · Acil hat 7/24",
+    "rights": "Tüm hakları saklıdır.",
+    "emergencyLabel": "7/24 Acil Hat",
+    "newsletterText": "Kampanya ve kışlık bakım hatırlatmaları için e-posta bırakın",
+    "newsletterPlaceholder": "E-posta adresiniz",
+    "newsletterSubmit": "E-bültene abone ol",
+    "newsletterSuccess": "Adresiniz alındı. Kışlık bakım notlarını size ileteceğiz.",
+    "newsletterInvalid": "Geçerli bir e-posta yazın.",
+    "services": [
+      { "label": "Periyodik Bakım", "slug": "periyodik-bakim" },
+      { "label": "Hasar Onarımı", "slug": "hasar-onarimi" },
+      { "label": "Bilgisayarlı Arıza Tespiti", "slug": "diagnostik" },
+      { "label": "Fren", "slug": "fren" },
+      { "label": "Boyasız Göçük Düzeltme", "slug": "boyasiz-gocuk-duzeltme" },
+      { "label": "Triger Kayışı / Zinciri", "slug": "triger-kayisi-zinciri" }
+    ],
+    "corporateLinks": [
+      { "label": "Hakkımızda", "href": "hakkimizda" },
+      { "label": "Araç Durum Sorgulama", "href": "arac-sorgulama" },
+      { "label": "Blog (Atölyeden Notlar)", "href": "blog" },
+      { "label": "Kariyer", "href": "iletisim" },
+      { "label": "İletişim", "href": "iletisim" }
+    ],
+    "legalLinks": [
+      { "label": "Gizlilik Politikası", "href": "politikalar/gizlilik" },
+      { "label": "Çerez Politikası", "href": "politikalar/cerez" },
+      { "label": "Kullanım Koşulları", "href": "politikalar/kullanim" }
+    ],
+    "social": [
+      { "id": "instagram", "label": "Instagram", "href": "https://www.instagram.com/demogaraj" },
+      { "id": "whatsapp", "label": "WhatsApp", "href": "https://wa.me/908504402727" },
+      { "id": "mail", "label": "Mail", "href": "mailto:servis@demogaraj.com" }
+    ]
+  },
+  "policies": {
+    "items": [
+      {
+        "slug": "gizlilik",
+        "title": "Gizlilik Politikası",
+        "paragraphs": [
+          "Randevu, iletişim ve e-bülten formlarında bıraktığınız ad, telefon, e-posta ve plaka yalnızca iş emrini açmak, size dönüş yapmak ve bakım hatırlatması göndermek için kullanılır.",
+          "Bu bilgiler satılmaz. Çekici, parça tedariki veya yasal zorunluluk dışında üçüncü taraflarla paylaşılmaz.",
+          "Kaydınızın düzeltilmesi veya silinmesi için servis@demogaraj.com adresine yazmanız yeterlidir."
+        ]
+      },
+      {
+        "slug": "cerez",
+        "title": "Çerez Politikası",
+        "paragraphs": [
+          "Site, dili hatırlamak ve sayfanın düzgün açılması için zorunlu çerezler kullanır. Reklam profili oluşturulmaz.",
+          "Tarayıcı ayarınızdan çerezleri silebilirsiniz. Zorunlu çerez kapanırsa dil seçimi bir sonraki ziyarette sıfırlanır."
+        ]
+      },
+      {
+        "slug": "kullanim",
+        "title": "Kullanım Koşulları",
+        "paragraphs": [
+          "Sitedeki süre ve fiyat bilgisi ön bilgidir. Kesin kapsam, araç görüldükten sonra iş emrine yazılır.",
+          "Randevu talebi, danışman onayından sonra kesinleşir. Acil çekici hattı 7/24 açıktır. Atölye çalışma saatleri iletişim sayfasında durur."
+        ]
+      }
+    ]
+  },
+  "home": {
+    "hero": {
+      "eyebrow": "İstanbul merkezli · 14 ilde servis",
+      "title": "Arıza kodu değil,",
+      "highlight": "kapanmış iş emri.",
+      "subtitle": "Motor revizyonu, şanzıman adaptasyonu, filo bakımı ve gece çekici aynı tezgahta buluşur. Parça, işçilik ve teslim saati iş emrine yazılır.",
+      "primary": "Servis randevusu",
+      "secondary": "Hizmetleri incele",
+      "dragHint": "Parçayı sürükleyerek inceleyin",
+      "chips": [
+        "Orijinal ve OEM parça",
+        "Yazılı iş emri",
+        "2 yıl işçilik güvencesi"
+      ]
+    },
+    "servicesEyebrow": "Atölye",
+    "servicesTitle": "Tezgahta ne yapılır",
+    "servicesSubtitle": "Diagnostikten kaportaya, her kart gerçek bir iş kalemidir. Süre, parça tipi ve teslim taahhüdü baştan konuşulur.",
+    "servicesCta": "Tüm hizmetler",
+    "servicesBenchTab": "Tezgah",
+    "servicesBenchContinued": "Tezgahın devamı",
+    "servicesPrev": "Önceki",
+    "servicesNext": "Sonraki",
+    "servicesProgress": "Tezgah sırası",
+    "servicesNextCue": "Sıradaki",
+    "servicesRestart": "Başa Dön",
+    "why": {
+      "eyebrow": "Neden Demo Garaj",
+      "title": "Ustalık, ölçülebilir olsun",
+      "subtitle": "Güzel bir bekleme salonu yetmez. Biz işi kompresyon testi, adaptasyon raporu ve fotoğraflı teslim tutanağıyla kapatırız.",
+      "points": [
+        {
+          "title": "Yazılı kapsam",
+          "text": "Sökmeden fiyat uydurmayız. Ön kontrol, onayınız ve ancak ondan sonra anahtar."
+        },
+        {
+          "title": "Aynı gün teşhis",
+          "text": "Arıza lambası, kaçak ve şanzıman tepkisi için ayrı cihaz, ayrı teknisyen."
+        },
+        {
+          "title": "Parça izi",
+          "text": "OEM, orijinal veya muadil seçeneği koduyla birlikte iş emrine düşer."
+        },
+        {
+          "title": "Teslim disiplini",
+          "text": "Söz verilen saat kayarsa sizi biz ararız. Araç yıkanmış ve raporlu çıkar."
+        }
+      ],
+      "stats": [
+        {
+          "value": 18,
+          "suffix": "",
+          "label": "yıllık tezgah tecrübesi"
+        },
+        {
+          "value": 42000,
+          "suffix": "+",
+          "label": "kapanmış iş emri"
+        },
+        {
+          "value": 14,
+          "suffix": "",
+          "label": "ilde hizmet noktası"
+        },
+        {
+          "value": 98,
+          "suffix": "%",
+          "label": "ilk seferde çözüm"
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Teslim tutanağı",
+      "title": "Araç sahipleri ne diyor",
+      "prev": "Önceki yorum",
+      "next": "Sonraki yorum",
+      "items": [
+        {
+          "name": "Deniz Aksoy",
+          "role": "Passat 1.5 TSI",
+          "city": "İstanbul",
+          "text": "Zincir sesi için üç servis gezdik. Demo Garaj kompresyon ve zamanlama raporunu aynı gün çıkardı, motoru söktürmeden çözdü.",
+          "stars": 5
+        },
+        {
+          "name": "Merve Kılıç",
+          "role": "Filo sorumlusu, 40 araç",
+          "city": "Ankara",
+          "text": "Periyodik bakımı plaka bazlı takvime bağladılar. Lastik, balata ve yağ tek faturada, sürpriz kalem yok.",
+          "stars": 5
+        },
+        {
+          "name": "Hakan Yüce",
+          "role": "Sprinter 316",
+          "city": "Bursa",
+          "text": "TEM’de gece yolda kaldık. Çekici 40 dakikada geldi, sabah şanzıman adaptasyonu bitmişti.",
+          "stars": 5
+        },
+        {
+          "name": "Selin Arı",
+          "role": "RAV4 Hybrid",
+          "city": "İzmir",
+          "text": "Hibritte yüksek voltaj tarafına el süren az yer var. İzolasyon testi ve inverter kontrolü düzgün anlatıldı.",
+          "stars": 5
+        },
+        {
+          "name": "Cemre Usta",
+          "role": "Focus ST",
+          "city": "Antalya",
+          "text": "Balata ve disk birlikte değişti, yol testi videosu telefona düştü. İşçilik böyle belgelenince güven geliyor.",
+          "stars": 5
+        }
+      ]
+    },
+    "partners": {
+      "title": "Tezgahta duran markalar"
+    },
+    "cta": {
+      "title": "Aracı getirin, iş emrini birlikte açalım.",
+      "text": "Plaka, şikayet ve müsait olduğunuz saati bırakın. Danışman aynı gün dönüş yapar.",
+      "button": "Hemen Randevu Al"
+    }
+  },
+  "services": {
+    "eyebrow": "Hizmetler",
+    "title": "Hizmetlerimiz",
+    "subtitle": "Mini onarımdan mekanik bakıma, kaporta hasarından mobil müdahaleye. Kategoriyi seçin, iş kalemini açın.",
+    "empty": "Bu grupta kayıtlı hizmet yok.",
+    "durationLabel": "Süre",
+    "filters": [
+      {
+        "id": "all",
+        "label": "Tümü"
+      },
+      {
+        "id": "engine",
+        "label": "Motor"
+      },
+      {
+        "id": "chassis",
+        "label": "Yürüyen"
+      },
+      {
+        "id": "electric",
+        "label": "Elektrik"
+      },
+      {
+        "id": "body",
+        "label": "Kaporta"
+      },
+      {
+        "id": "roadside",
+        "label": "Yol yardım"
+      }
+    ],
+    "items": [
+      {
+        "id": "engine-repair",
+        "category": "engine",
+        "title": "Motor Tamiri",
+        "summary": "Segman, supap, turbo ve zamanlama. Söküm öncesi ölçüm, teslimde kompresyon raporu.",
+        "description": "Yağ yakma, soğukta zor çalışma ve metalik ses için önce kaçak ve kompresyon. Gerekiyorsa kapak, piston veya turbo tek başına değişir; komple revizyon ancak ölçüm zorlarsa açılır.",
+        "duration": "1–5 gün",
+        "tag": "Ölçümlü revizyon",
+        "image": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Açık motor kapağı ve silindir kapağı üzerinde çalışan teknisyen"
+      },
+      {
+        "id": "heavy-service",
+        "category": "engine",
+        "title": "Ağır Bakım",
+        "summary": "Triger, devirdaim, debriyaj ve volan. Kilometre değil, parçanın gerçek ömrü esas.",
+        "description": "120 bin km kuralını ezberlemiyoruz. Kayış çatlağı, su pompası salgısı ve debriyaj boşluğu ölçülür. Set halinde değişen parçalar fotoğraflanır.",
+        "duration": "1–2 gün",
+        "tag": "Set değişimi",
+        "image": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Motor bölmesinde ağır bakım yapan usta"
+      },
+      {
+        "id": "diagnostics",
+        "category": "electric",
+        "title": "Bilgisayarlı Diagnostik",
+        "summary": "Marka yazılımı, canlı veri ve yol testi. Arıza lambası tek başına teşhis değildir.",
+        "description": "VAG, ISTA, XENTRY ve Toyota Techstream ile modül taraması. Silinen kod, donanım kanıtı olmadan kapanmaz. Teşhis ücreti onarımdan düşülür.",
+        "duration": "45–90 dk",
+        "tag": "Canlı veri",
+        "image": "https://images.unsplash.com/photo-1549317661-bd32c8ce0db2?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Gösterge paneli ve direksiyon, diagnostik için hazır araç"
+      },
+      {
+        "id": "transmission",
+        "category": "engine",
+        "title": "Şanzıman",
+        "summary": "DSG, ZF ve CVT. Yağ spesifikasyonu, mekatronik ve adaptasyon aynı dosyada.",
+        "description": "Vuruntu, gecikmeli kavram ve kızgınken boşa düşme için önce yağ ve adaptasyon. Mekatronik veya kavrama seti ancak basınç testi doğrularsa değişir.",
+        "duration": "1–3 gün",
+        "tag": "Adaptasyon raporu",
+        "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Gece ışığında farları yanan koyu renkli binek araç"
+      },
+      {
+        "id": "brakes",
+        "category": "chassis",
+        "title": "Fren Sistemi",
+        "summary": "Disk, balata, kaliper ve hidrolik. Yol testinde sapma kabul edilmez.",
+        "description": "Ön-arka aşınma ayrı ölçülür. ABS halkası ve sensör boşluğu kontrol edilir. Hidrolik yağı kaynama noktasına göre değiştirilir, kilometre tahminiyle değil.",
+        "duration": "Aynı gün",
+        "tag": "Yol testi",
+        "image": "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Jant ve fren diski yakın plan"
+      },
+      {
+        "id": "electrical",
+        "category": "electric",
+        "title": "Elektrik ve Elektronik",
+        "summary": "Kaçak akım, beyin, sensör ve tesisat. Kablo onarımı lehim ve ısı büzüşmeli makaronla.",
+        "description": "Sabah biten akü, rastgele yanan arıza ve cam-kilit sorunları için kaçak akım ölçümü. Tesisat şeması olmadan kablo kesilmez.",
+        "duration": "2 saat–2 gün",
+        "tag": "Kaçak akım",
+        "image": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Far detayı öne çıkan koyu renk spor otomobil"
+      },
+      {
+        "id": "body",
+        "category": "body",
+        "title": "Kaporta ve Boya",
+        "summary": "Panel değişimi, punto ve fırın boya. Macun kalınlığı mikronla ölçülür.",
+        "description": "Sigorta dosyası ve özel iş aynı kabinde yürür. Renk, spektrofotometre ile okunur. Teslimde boya kalınlık haritası verilir.",
+        "duration": "2–6 gün",
+        "tag": "Fırın boya",
+        "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Parlak boyalı sedan, kaporta hattı görünür"
+      },
+      {
+        "id": "towing",
+        "category": "roadside",
+        "title": "7/24 Çekici",
+        "summary": "Kayar kasa ve kurtarıcı. İstanbul içinde ortalama varış 35–50 dakika.",
+        "description": "Şanzımanı yere bırakılamayan araçlar kayar kasaya alınır. Çekici ücreti, araç Demo Garaj noktasına geliyorsa iş emrinden mahsup edilir.",
+        "duration": "7/24",
+        "tag": "Kayar kasa",
+        "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Gece yolda direksiyon başında sürücü"
+      },
+      {
+        "id": "suspension",
+        "category": "chassis",
+        "title": "Süspansiyon",
+        "summary": "Amortisör, salıncak, rot ve rotbaşı. Kamber-toe ayarı liftten inmeden kapanmaz.",
+        "description": "Lastik içten yemesi ve direksiyon titremesi için önce burç boşluğu. Rot ayarı, parça değişmeden yapılmaz; aksi halde bir haftada bozulur.",
+        "duration": "Aynı gün",
+        "tag": "Rot ayarı dahil",
+        "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Alçak açıyla çekilmiş sedan, yürüyen aksam hattı"
+      },
+      {
+        "id": "climate",
+        "category": "electric",
+        "title": "Klima",
+        "summary": "Gaz, kaçak, kompresör ve polen filtresi. Kabin kokusu ayrı bir iş kalemidir.",
+        "description": "Basınç değerleri dolum öncesi kayda geçer. Kaçak varsa boya ve UV ile bulunur, gaz boşa basılmaz. Evaporatör temizliğini de aynı gün kapatırız.",
+        "duration": "2–6 saat",
+        "tag": "Kaçak testi",
+        "image": "https://images.unsplash.com/photo-1544636331-e26879cd4d9b?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Gece çekilmiş performans otomobili"
+      },
+      {
+        "id": "tires",
+        "category": "chassis",
+        "title": "Lastik ve Balans",
+        "summary": "Sök-tak, balans, rotasyon ve nitrojen. Jant eğriliği ayrıca raporlanır.",
+        "description": "Yaz-kış geçişinde depolama rafta, plakaya işlenmiş kasada tutulur. Balans kurşunu yerine yapışkan ağırlık, jant yüzeyi çizilmesin diye.",
+        "duration": "40–70 dk",
+        "tag": "Depolama",
+        "image": "https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Yol üzerinde giden gümüş renkli otomobil"
+      },
+      {
+        "id": "fleet",
+        "category": "roadside",
+        "title": "Filo Bakımı",
+        "summary": "Plaka takvimi, tek cari ve yedek araç. 10 araçtan itibaren sözleşme.",
+        "description": "Yağ, balata, lastik ve muayene tek panelde. Arıza aracı aynı gün ikame ile değiştirilir, saha ekibi durmaz.",
+        "duration": "Sözleşmeli",
+        "tag": "Tek fatura",
+        "image": "https://images.unsplash.com/photo-1511919884226-fd3cad34687c?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Sıra halinde park etmiş servis araçları"
+      }
+    ],
+    "tabsLabel": "Hizmet kategorileri",
+    "prev": "Önceki",
+    "next": "Sonraki",
+    "nextCue": "Sıradaki",
+    "restart": "Başa Dön",
+    "progress": "Kategori sırası",
+    "seo": {
+      "title": "Oto Servis Hizmetleri",
+      "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&w=1800&q=80",
+      "imageAlt": "Kaporta holünde panel üzerinde çalışan Demo Garaj teknisyeni",
+      "paragraphs": [
+        "Demo Garaj, 2008’den beri binek ve hafif ticari araçlarda mini onarım, mobil müdahale, kaporta hasarı, mekanik bakım ve detaylı oto bakımını aynı iş emri disiplininde yürütür. İstanbul’daki ana atölye ile 14 ildeki noktalar aynı ölçüm dilini kullanır.",
+        "Mini onarımda boyaya dokunmadan göçük alınır, lokal boyada renk spektrofotometre ile okunur. Mobil ekip radyatör, tampon, far ve jant işini sahada kapatır. Ağır hasar ve dolu göçükleri kaporta holünde şasi ölçümüyle planlanır.",
+        "Mekanik tarafta periyodik bakım, fren, amortisör, debriyaj ve triger seti teşhis notuyla açılır. İşçilik güvencesi iki yıl veya 30 bin km, hangisi önce dolarsa, Türkiye’deki tüm Demo Garaj noktalarında geçerlidir."
+      ]
+    },
+    "detail": {
+      "howTitle": "Nasıl yapılır",
+      "whyTitle": "Neden önemli",
+      "advantagesTitle": "Avantajlar",
+      "bookTitle": "Bu hizmet için hemen randevu alın",
+      "bookText": "Plaka ve kısa bir not bırakın. Danışman aynı gün dönüş yapar, süreyi ve ön kontrolü net söyler.",
+      "bookCta": "Randevu Al",
+      "whatsapp": "WhatsApp Destek",
+      "whatsappHref": "https://wa.me/908504402727",
+      "whatsappText": "Merhaba, {title} için randevu almak istiyorum.",
+      "relatedTitle": "İlgili Diğer Hizmetler",
+      "back": "Tüm hizmetler",
+      "stepsTitle": "İşin adımları",
+      "includesTitle": "İş emrine girenler",
+      "signsTitle": "Ne zaman gelin"
+    },
+    "categories": [
+      {
+        "id": "tezgah",
+        "label": "Tezgah",
+        "items": [
+          {
+            "slug": "motor-tamiri",
+            "title": "Motor Tamiri",
+            "description": "Yağ yakma, soğukta zor çalışma ve metalik ses için önce kaçak ve kompresyon. Gerekiyorsa kapak, piston veya turbo tek başına değişir; komple revizyon ancak ölçüm zorlarsa açılır.",
+            "iconName": "Cog",
+            "image": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Açık motor kapağı ve silindir kapağı üzerinde çalışan teknisyen",
+            "content": {
+              "duration": "1–5 gün",
+              "overview": "Segman, supap, turbo ve zamanlama, sökümden önce ölçülür. Kapak, piston veya turbo, rakam tutarsa tek başına değişir. Komple revizyon ancak kompresyon ve kaçak bunu zorlarsa açılır.",
+              "how": "İş, kompresyon ve kaçak testiyle açılır. Yağ tüketimi, soğuk marş ve sesin geldiği devir iş emrine yazılır. Segman, supap, turbo ve zamanlama ayrı satırdır. Parça, ölçüm tutmadan değişmez. Teslimde kompresyon raporu verilir.",
+              "why": "Komple motor açmak, tek arızalı parçanın faturasını büyütür. Önce ölçüm, sonra söküm.",
+              "steps": [
+                "Kompresyon ve kaçak ölçülür.",
+                "Yağ yakma, soğuk marş ve ses iş emrine yazılır.",
+                "Kapak, piston veya turbo ancak rakam tutarsa değişir.",
+                "Teslimde kompresyon raporu verilir."
+              ],
+              "includes": [
+                "Kompresyon ve kaçak testi",
+                "Segman, supap, turbo ve zamanlama değerlendirmesi",
+                "Ölçüm tutan parçanın değişimi",
+                "Teslim kompresyon raporu"
+              ],
+              "signs": [
+                "Yağ eksiltme veya egzozdan mavi duman.",
+                "Soğukta zor çalışma, ısınınca düzelen ses.",
+                "Metalik vuruntu veya turbo ıslığı."
+              ],
+              "advantages": [
+                "Söküm öncesi ölçüm yapılır",
+                "Tek parça, komple revizyondan önce değerlendirilir",
+                "Komple revizyon ancak rakam zorlarsa açılır",
+                "Teslimde kompresyon raporu verilir"
+              ]
+            }
+          },
+          {
+            "slug": "agir-bakim",
+            "title": "Ağır Bakım",
+            "description": "Triger, devirdaim, debriyaj ve volan. Kilometre değil, parçanın gerçek ömrü esas. Set halinde değişen parçalar fotoğraflanır.",
+            "iconName": "Wrench",
+            "image": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Motor bölmesinde ağır bakım yapan usta",
+            "content": {
+              "duration": "1–2 gün",
+              "overview": "Triger, devirdaim, debriyaj ve volan, yuvarlak bir kilometreyle değil parçanın ölçülen haliyle değişir. Set halinde çıkan parçalar fotoğraflanır, parça kodu iş emrine yazılır.",
+              "how": "Kayış çatlağı, su pompası salgısı ve debriyaj boşluğu ayrı ölçülür. 120 bin km kuralı tek başına iş emri açmaz. Set değişiminde eski parçalar fotoğraflanır. Montaj sonrası kaçak ve ses kontrol edilir, volan salgısı limit dışındaysa sete girer.",
+              "why": "Yarım bırakılan triger veya debriyaj, ikinci sökümün işçiliğini müşteriye bindirir. Devirdaim rulmanı, kayıştan önce bitebilir.",
+              "steps": [
+                "Kayış, pompa salgısı ve debriyaj boşluğu ölçülür.",
+                "Set halinde değişecek parçalar yazılır.",
+                "Eski parçalar fotoğraflanır, kodlar iş emrine girer.",
+                "Kaçak ve ses kontrolüyle teslim edilir."
+              ],
+              "includes": [
+                "Triger, gergi ve devirdaim değerlendirmesi",
+                "Debriyaj boşluğu ve volan salgısı",
+                "Set değişiminde fotoğraf kaydı",
+                "Montaj sonrası kaçak ve ses kontrolü"
+              ],
+              "signs": [
+                "Üretici aralığı dolmuş kayış veya soğukta zincir sesi.",
+                "Devirdaim veya gergiden uğultu.",
+                "Kavramada kaçırma, yokuşta devir yükselmesi."
+              ],
+              "advantages": [
+                "Kilometre ezberiyle parça değişmez",
+                "Set yarım bırakılmaz",
+                "Eski parçalar fotoğraflanır",
+                "Volan ölçülmeden iş kapanmaz"
+              ]
+            }
+          },
+          {
+            "slug": "sanziman",
+            "title": "Şanzıman",
+            "description": "DSG, ZF ve CVT. Yağ spesifikasyonu, mekatronik ve adaptasyon aynı dosyada. Kavram seti ancak basınç testi doğrularsa değişir.",
+            "iconName": "Settings2",
+            "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Şanzıman işinin açıldığı kapalı atölye holü",
+            "content": {
+              "duration": "1–3 gün",
+              "overview": "DSG, ZF ve CVT için yağ spesifikasyonu, mekatronik ve adaptasyon aynı dosyada durur. Vuruntu ve gecikmeli kavram, basınç testi doğrulamadan parça değişimine gitmez.",
+              "how": "Kızgınken boşa düşme, vuruntu ve gecikme önce yağ ve adaptasyonla ayrılır. Basınç testi mekatronik veya kavrama setini işaret ederse parça değişir. Yağ, üretici spesifikasyonundan yazılır. Adaptasyon raporu teslim evrakına eklenir.",
+              "why": "Yanlış yağ ve atlanan adaptasyon, yeni kavramayı da bozar. Kod silmek, basınç kaçağını kapatmaz.",
+              "steps": [
+                "Yağ, seviye ve spesifikasyon yazılır.",
+                "Adaptasyon ve basınç testi yapılır.",
+                "Mekatronik veya kavrama seti ancak test tutarsa değişir.",
+                "Adaptasyon raporu teslim evrakına eklenir."
+              ],
+              "includes": [
+                "Yağ spesifikasyonu kaydı",
+                "Adaptasyon kontrolü",
+                "Basınç testi",
+                "Teslimde adaptasyon raporu"
+              ],
+              "signs": [
+                "Kalkışta vuruntu veya gecikmeli kavram.",
+                "Kızgınken vitesin boşa düşmesi.",
+                "DSG veya CVT’de devir yükselip hızın gelmemesi."
+              ],
+              "advantages": [
+                "Yağ spesifikasyonu dosyadadır",
+                "Parça, basınç testinden önce değişmez",
+                "Mekatronik ve adaptasyon aynı iş emrindedir",
+                "Rapor teslimde verilir"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mini-onarim",
+        "label": "Mini Onarım",
+        "items": [
+          {
+            "slug": "boyasiz-gocuk-duzeltme",
+            "title": "Boyasız Göçük Düzeltme",
+            "description": "Yüzey boyasına zarar vermeden küçük ve orta ölçekli göçükleri hızlı şekilde düzeltiyoruz.",
+            "iconName": "Hammer",
+            "image": "https://images.unsplash.com/photo-1618843479313-40f8afb4b4d8?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Boyası korunarak düzeltilen parlak gri gövde paneli",
+            "content": {
+              "duration": "Aynı gün",
+              "overview": "Kapı, çamurluk ve kaputtaki küçük ile orta göçükler, boya filmi çatlamamışsa panelin arkasından veya tutkal sistemiyle dışarı alınır. Amaç orijinal katı yerinde bırakmak, paneli boyamamak.",
+              "how": "İş, boya mikronu ve panel kalınlığı ölçülerek açılır. Çubuk erişen göçük içeriden itilir, erişmeyen noktaya tutkal tabancası ve köprü kullanılır. Boya çatlamış, keskin kırık veya sac incelmişse boyasız iş kapanmaz, boya onarımına devredilir. Teslimde mikron değeri iş emrine yazılır.",
+              "why": "Küçük bir göçük için tüm paneli boyamak renk farkı ve değer kaybı üretir. Boyasız düzeltme orijinal katı korur ve çoğu binek araçta aynı gün biter.",
+              "steps": [
+                "Göçük çapı, derinliği ve boya çatlağı işaretlenir.",
+                "Panel mikronu ve sac kalınlığı ölçülür.",
+                "Çubuk veya tutkal sistemiyle göçük kademeli alınır.",
+                "Işık altında son kontrol yapılır, mikron iş emrine yazılır."
+              ],
+              "includes": [
+                "Görünen göçüklerin boyasız düzeltmesi",
+                "Öncesi ve sonrası mikron ölçümü",
+                "Işık tünelinde yüzey kontrolü",
+                "Boya çatlarsa işin boyaya devri"
+              ],
+              "signs": [
+                "Park sürtmesi veya market arabası izi, boya hâlâ bütün.",
+                "Kapıda parmak ucuyla hissedilen ama rengi açılmamış göçük.",
+                "Dolu sonrası tek panelde birkaç yuvarlak iz."
+              ],
+              "advantages": [
+                "Orijinal boya korunur",
+                "Çoğu iş aynı gün kapanır",
+                "Mikron ölçümü iş emrine yazılır",
+                "Çatlayan boyada zorla boyasız işlem yapılmaz"
+              ]
+            }
+          },
+          {
+            "slug": "boya-onarimi",
+            "title": "Boya Onarımı",
+            "description": "Lokal boya işlemlerinde renk uyumu hedeflenerek çizik ve yüzey hasarları onarılır.",
+            "iconName": "Paintbrush",
+            "image": "https://images.unsplash.com/photo-1550355291-bbee04a92027?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Lokal boya için yakın çekilmiş kırmızı çamurluk ve tampon",
+            "content": {
+              "duration": "1–3 gün",
+              "overview": "Çizik, taş izi ve sınırlı panel hasarında renk spektrofotometre ile okunur, boya yalnızca hasarlı bölgeye uygulanır. Komşu panele taşan vernik geçişi kabul edilmez.",
+              "how": "Hasar sınırlanır, zımpara ve macun payı mikronla takip edilir. Astar, baz kat ve vernik fırında kürlenir. Renk, aracın kodundan değil, panelin gerçek okumasından hazırlanır. Solmuş veya daha önce boyanmış yüzey ayrıca not edilir. Teslimde boya kalınlık haritası verilir.",
+              "why": "Açıkta kalan sac kısa sürede paslanır. Tüm kapıyı boyamak ise renk farkını büyütür. Lokal boya korozyonu durdurur ve orijinal alanın çoğunu yerinde bırakır.",
+              "steps": [
+                "Hasar sınırı ve eski boya kalınlığı ölçülür.",
+                "Renk spektrofotometre ile okunur.",
+                "Astar, baz ve vernik fırında uygulanır.",
+                "Kalınlık haritası teslim evrakına eklenir."
+              ],
+              "includes": [
+                "Lokal zımpara, astar ve boya",
+                "Spektrofotometre renk okuması",
+                "Fırın kürlemesi",
+                "Teslimde kalınlık notu"
+              ],
+              "signs": [
+                "Kapı kenarında saca inmiş çizik.",
+                "Tampon veya çamurlukta taş izi kümesi.",
+                "Daha önceki boyada renk kayması veya portakal kabuğu."
+              ],
+              "advantages": [
+                "Renk panelden okunur",
+                "Uygulama lokal kalır",
+                "Fırın sonrası kalınlık notu verilir",
+                "Komşu panele vernik taşırılmaz"
+              ]
+            }
+          },
+          {
+            "slug": "plastik-tampon-onarimi",
+            "title": "Plastik Tampon Onarımı",
+            "description": "Tampon çatlak, sürtme ve deformasyonlarında onarım veya değişim ihtiyacını kontrol sonrası planlıyoruz.",
+            "iconName": "Puzzle",
+            "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Ön tamponu ve ızgarası yakın planda duran koyu renk binek araç",
+            "content": {
+              "duration": "1–2 gün",
+              "overview": "Çatlak, sürtme ve kırık pabuç önce plastik tipine göre ayrılır. Onarım tutmuyorsa sensör yuvası ve klips ölçüsü bozulmadan parça değişimine geçilir.",
+              "how": "Tamponun içindeki PP, ABS veya PUR işareti okunur. Çatlak, o plastiğe uygun kaynak veya yapıştırma ile toparlanır. Park sensörü, kamera ve yıkama fıskiyesi sökülüp yuvası kontrol edilir. Kırık kulak ölçü dışındaysa macunla doldurulmaz, parça değişir. Boya gerekiyorsa iş boya kabinine devredilir.",
+              "why": "Tampon, sensör ve kamerayla birlikte çalışır. Körlemesine macun, park mesafesini ve şerit kamerasının açısını bozar.",
+              "steps": [
+                "Plastik tipi ve sensör listesi okunur.",
+                "Çatlak kaynak veya yapıştırma ile kapatılır.",
+                "Sensör, kamera ve klips yuvaları ölçülür.",
+                "Boya gerekiyorsa kabin planına yazılır."
+              ],
+              "includes": [
+                "Plastik tipine göre onarım",
+                "Sensör ve kamera yuvası kontrolü",
+                "Kırık klips değerlendirmesi",
+                "Gerekirse boya planı"
+              ],
+              "signs": [
+                "Park sürtmesinde boyadan içeri inmiş çatlak.",
+                "Sensörün oturmadığı veya oynayan yuva.",
+                "Kırık bağlantı kulağı yüzünden tamponun bir köşesi açıkta."
+              ],
+              "advantages": [
+                "Plastik tipi okunarak onarılır",
+                "Sensör yuvası ayrıca kontrol edilir",
+                "Değişim kararı ölçüyle verilir",
+                "Boya, onarımdan ayrı satırdır"
+              ]
+            }
+          },
+          {
+            "slug": "leke-cikarma",
+            "title": "Leke Çıkarma",
+            "description": "İç ve dış yüzeylerdeki leke türlerini malzemeye uygun yöntemlerle değerlendirip temizliyoruz.",
+            "iconName": "Droplets",
+            "image": "https://images.unsplash.com/photo-1449965408869-eaa3f722e40d?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Konsol ve döşeme yüzeyleri görünen araç kabini",
+            "content": {
+              "duration": "2–6 saat",
+              "overview": "Kahve, mürekkep, zift, reçine ve demir tozu aynı kimyasalla alınmaz. Leke önce yüzeye göre ayrılır, çözücü görünmeyen bir köşede denenir, sonra uygulanır.",
+              "how": "İçeride deri, kumaş, alcantara ve piyano siyahı plastik ayrı satırlardır. Dışarıda zift, reçine, demir tozu ve su lekesi de ayrı adımlarla çözülür. Asit veya ev tipi çözücü, test görmeden panele sürülmez. İş bitince yüzey nötr ürünle durulanır ve deriyse beslenir.",
+              "why": "Yanlış kimyasal deriyi çatlatır, boyayı matlaştırır, ekranı buğular. Önce leke türü, sonra yöntem.",
+              "steps": [
+                "Leke ve yüzey tipi yazılır.",
+                "Çözücü gizli bir köşede denenir.",
+                "Leke kademeli alınır, yüzey nötrlenir.",
+                "Deri veya boya koruması gerekiyorsa ayrıca önerilir."
+              ],
+              "includes": [
+                "İç yüzey leke analizi",
+                "Dışarıda zift, reçine ve demir tozu",
+                "Test sonrası uygulama",
+                "Nötr durulama"
+              ],
+              "signs": [
+                "Koltuk veya konsolda halka halinde kahve ya da mürekkep.",
+                "Eşik ve kaputta zift, reçine veya fren tozu.",
+                "Açık renk deride su halkası."
+              ],
+              "advantages": [
+                "Kimyasal yüzeye göre seçilir",
+                "Önce gizli test yapılır",
+                "İç ve dış leke aynı iş emrinde yürür",
+                "Deri işlem sonunda beslenir"
+              ]
+            }
+          },
+          {
+            "slug": "on-cam-onarimi",
+            "title": "Ön Cam Onarımı",
+            "description": "Ön cam taş izi ve çatlaklarında onarım veya değişim ihtiyacını güvenlik odağıyla değerlendiriyoruz.",
+            "iconName": "AppWindow",
+            "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Taş izi onarımına konu olabilecek geniş ön cam",
+            "content": {
+              "duration": "45 dk – 1 gün",
+              "overview": "Taş izi, görüş hattının dışındaysa ve kenara ulaşmamışsa reçine ile doldurulur. Görüş hattındaki çatlak, kenara inmiş kırık ve kamera bölgesindeki hasar onarılmaz, cam değişir.",
+              "how": "Hasar çapı, konumu ve katman sayısı ölçülür. Uygun taş izi vakumlanıp reçine ile doldurulur, UV ile sertleştirilir. Değişim gereken camda söküm, yapıştırıcı kür süresi ve varsa şerit, yağmur, tabela kamerasının kalibrasyonu iş emrine ayrı satır yazılır. Kalibrasyon yapılmadan araç teslim edilmez.",
+              "why": "Ön cam, yolcu hava yastığının dayanak yüzeyidir ve sürüş destek kamerasını taşır. Görüş hattındaki çatlak hem muayeneyi hem gece görüşünü bozar.",
+              "steps": [
+                "Hasarın çapı, katmanı ve görüş hattı ölçülür.",
+                "Uygun iz reçine ve UV ile kapatılır.",
+                "Değişimde yapıştırıcı kür süresi beklenir.",
+                "Kamera kalibrasyonu kapanışta yapılır."
+              ],
+              "includes": [
+                "Taş izi uygunluk kontrolü",
+                "Reçineli onarım veya cam değişim kararı",
+                "Yapıştırıcı kür kaydı",
+                "Varsa kamera kalibrasyonu"
+              ],
+              "signs": [
+                "Camda yıldız veya boğa gözü taş izi.",
+                "Silecek hattında uzayan çatlak.",
+                "Kamera veya yağmur sensörü hizasında kırık."
+              ],
+              "advantages": [
+                "Uygun taş izi aynı gün kapanır",
+                "Görüş hattı ayrıca değerlendirilir",
+                "Değişimde kalibrasyon plana yazılır",
+                "Kür bitmeden cam teslim edilmez"
+              ]
+            }
+          },
+          {
+            "slug": "ic-doseme-onarimi",
+            "title": "İç Döşeme Onarımı",
+            "description": "Koltuk ve iç trim alanlarındaki deformasyonları malzemeye uygun tekniklerle yeniliyoruz.",
+            "iconName": "Armchair",
+            "image": "https://images.unsplash.com/photo-1682858110563-3f609263d418?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Deri koltuk ve orta konsol trimi görünen araç içi",
+            "content": {
+              "duration": "1–3 gün",
+              "overview": "Yırtık deri, sökülmüş dikiş, çökmüş sünger ve kırık trim klipsi ayrı iş kalemleridir. Kılıf değiştirmek, altındaki süngeri gizlemez.",
+              "how": "Deri, vinil ve kumaş ayrılır. Yırtık lokal onarılır, dikiş aynı iplik adımıyla kapatılır. Çökmüş yan destek ölçülür, sünger desteklenir veya değişir. Kırık konsol ve kapı klipsi parça koduyla takılır. Isıtmalı koltuk varsa tesisat, döşeme kapanmadan kontrol edilir.",
+              "why": "Koltuk yan desteği sürüş konumunu tutar. Kırık klips ise hava yastığı kapağının ve trim boşluğunun yerini bozar.",
+              "steps": [
+                "Malzeme ve hasar satır satır yazılır.",
+                "Deri veya dikiş lokal onarılır.",
+                "Sünger ve yan destek ölçülür.",
+                "Trim klipsi koduyla kapanır, ısıtma varsa test edilir."
+              ],
+              "includes": [
+                "Deri, vinil ve kumaş ayrımı",
+                "Lokal yırtık ve dikiş onarımı",
+                "Sünger kontrolü",
+                "Orijinal klips kodu"
+              ],
+              "signs": [
+                "Kapı veya konsolda içeri kaçan kırık trim.",
+                "Yan destekte çökme ve deride gerilme.",
+                "Dikişin açıldığı koltuk kenarı."
+              ],
+              "advantages": [
+                "Malzeme cinsine göre onarılır",
+                "Sünger ayrıca kontrol edilir",
+                "Klips kodla değişir",
+                "Isıtmalı koltuk tesisatı kapanışta test edilir"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mobil-onarim",
+        "label": "Mobil Onarım",
+        "items": [
+          {
+            "slug": "radyator-onarimi",
+            "title": "Radyatör Onarımı",
+            "description": "Soğutma sistemi arızalarında radyatör kaynaklı kaçak ve performans sorunlarını sahada çözüyoruz.",
+            "iconName": "Thermometer",
+            "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Radyatör peteği üzerinde çalışan teknisyenin elleri",
+            "content": {
+              "duration": "Aynı gün – 1 gün",
+              "overview": "Hararet şikayetinde önce kaçak noktası basınç testiyle ayrılır. Hortum, depo, petek ve fan ayrı satırdır. Radyatör, teşhis yazılmadan değişmez.",
+              "how": "Soğutma sistemi soğukken basınç altına alınır. Kaçak petekte, plastik depoda, hortumda veya kapağın tutmadığı basınçta olabilir. Tıkanık petek, fan açılmama ve termostat ayrı kontrol edilir. Değişim gerekiyorsa parça, araç çekilmeden planlanır. Hava alma ve fan devreye girme testi kapanışta yapılır.",
+              "why": "Süregelen hararet, silindir kapağı contasına ve kapak yüzeyine yürür. Erken müdahale motoru tezgahtan kurtarır.",
+              "steps": [
+                "Soğuk sistemde basınç testi yapılır.",
+                "Petek, depo, hortum ve kapak ayrılır.",
+                "Fan ve termostat ayrıca kontrol edilir.",
+                "Onarım veya değişimden sonra hava alınır, fan izlenir."
+              ],
+              "includes": [
+                "Sahada veya atölyede basınç testi",
+                "Hortum ve petek ayrımı",
+                "Fan ve kapak kontrolü",
+                "Hava alma ile teslim"
+              ],
+              "signs": [
+                "Hararet ibresi yükseliyor veya fan geç devreye giriyor.",
+                "Park yerinde yeşil veya pembe sıvı izi.",
+                "Kalorifer geç ısınıyor, genleşme kabı boşalıyor."
+              ],
+              "advantages": [
+                "Kaçak görülmeden parça değişmez",
+                "Fan ve kapak aynı dosyada",
+                "Parça, çekici beklemeden planlanır",
+                "Hava alma kapanış testidir"
+              ]
+            }
+          },
+          {
+            "slug": "tampon-ve-plastik-parca-onarimi",
+            "title": "Tampon ve Plastik Parça Onarımı",
+            "description": "Plastik parçalardaki kırık ve çatlakları mobil ekip ile yerinde onarıma uygun şekilde gideriyoruz.",
+            "iconName": "Puzzle",
+            "image": "https://images.unsplash.com/photo-1632823469850-2f77dd9c7f93?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Ön tampon ve far çevresinde yerinde çalışan teknisyen",
+            "content": {
+              "duration": "Aynı gün",
+              "overview": "Mobil ekip, atölyeye alınmadan kapanabilecek çatlak, kırık pabuç ve sürtme izini yerinde değerlendirir. Boya veya kalıp düzeltmesi gerekiyorsa araç atölyeye alınır, sahada macunla kapatılmaz.",
+              "how": "Plastik tipi ve hasar boyutu sahada ölçülür. Kaynak veya yapıştırma ile tutacak çatlak yerinde onarılır. Sensörlü tamponlarda yuva bozulmuşsa parça planı çıkarılır. Far kulağı, panjur klipsi ve tampon alt muhafazası aynı ziyarette ayrılır. Boya işi mobil dosyadan çıkar, kabin planına yazılır.",
+              "why": "Küçük bir plastik çatlak için aracı günlerce bırakmak gerekmez. Uygun iş, aracın durduğu yerde biter.",
+              "steps": [
+                "Hasar ve plastik tipi sahada yazılır.",
+                "Tutacak çatlak yerinde kaynaklanır.",
+                "Sensör ve klips yuvası kontrol edilir.",
+                "Boya gereken iş atölye planına alınır."
+              ],
+              "includes": [
+                "Yerinde tespit",
+                "Sahada plastik kaynak veya yapıştırma",
+                "Klips ve sensör kontrolü",
+                "Boya işinin atölyeye ayrılması"
+              ],
+              "signs": [
+                "İş yerinde veya sitede kalan, boyası bütün küçük çatlak.",
+                "Kırık panjur veya alt muhafaza klipsi.",
+                "Sensör hâlâ çalışan, yalnızca kulağı ayrılmış tampon."
+              ],
+              "advantages": [
+                "Uygun iş yerinde biter",
+                "Sensör yuvası sahada da kontrol edilir",
+                "Boya sahada yapılmaz",
+                "Atölyeye yalnızca tutmayan hasar gelir"
+              ]
+            }
+          },
+          {
+            "slug": "klima-kompresoru-onarimi",
+            "title": "Klima Kompresörü Onarımı",
+            "description": "Klima performansını düşüren kompresör sorunlarını hızlı tespit ve onarım süreciyle toparlıyoruz.",
+            "iconName": "Fan",
+            "image": "https://images.unsplash.com/photo-1625047509248-ec889cbff17f?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Motor bölmesinde klima hattına bakan teknisyen",
+            "content": {
+              "duration": "Aynı gün – 2 gün",
+              "overview": "Kompresör, basınç kaydı ve kaçak testi olmadan değişmez. Sistemde talaş varsa kondenser ve hatlar yıkanır, gaz gelişigüzel basılmaz.",
+              "how": "Alçak ve yüksek basınç, kavrama sesi ve kaçak ölçülür. Arıza kavramada, rulmanda, supapta veya hat kaçırıyorsa kompresörün kendisinde olmayabilir. Parça değişiminde sistem yıkanır, kurutucu filtre ve doğru gaz miktarı iş emrine yazılır. Kavrama hava boşluğu ayarlanır, yol testinde üfleme sıcaklığı kayda geçer.",
+              "why": "Kaçağa gaz basmak kompresörü yağsız bırakır. Talaşlı eski parça, yeni kompresörü de aynı gün bitirir.",
+              "steps": [
+                "Basınç, ses ve kaçak kayda alınır.",
+                "Kavrama, rulman ve hat ayrılır.",
+                "Değişimde sistem yıkanır, filtre ve gaz yazılır.",
+                "Üfleme sıcaklığı yol testinde ölçülür."
+              ],
+              "includes": [
+                "Basınç ve kaçak kaydı",
+                "Kavrama ve rulman kontrolü",
+                "Sistem yıkama",
+                "Doğru gaz miktarı"
+              ],
+              "signs": [
+                "Klima düğmesi açıkken kavramanın çekmemesi.",
+                "Motor bölmesinden gelen sürtme veya rulman sesi.",
+                "Bir süre soğutup sonra üflemenin ısınması."
+              ],
+              "advantages": [
+                "Basınç görmeden parça değişmez",
+                "Talaş varsa sistem yıkanır",
+                "Gaz miktarı spesifikasyona göre basılır",
+                "Üfleme sıcaklığı teslim notudur"
+              ]
+            }
+          },
+          {
+            "slug": "far-onarimi-cam-ve-kasa-degisimi",
+            "title": "Far Onarımı, Cam ve Kasa Değişimi",
+            "description": "Far grubu hasarlarında onarım veya parça değişimini aracın ihtiyacına göre planlıyoruz.",
+            "iconName": "Lightbulb",
+            "image": "https://images.unsplash.com/photo-1542282088-fe8426682b8f?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Cam ve kasa değişimine konu olabilecek yakın far detayı",
+            "content": {
+              "duration": "Aynı gün – 1 gün",
+              "overview": "Kırık cam, buğulanmış kasa, matlaşmış yüzey ve kırık kulak aynı parça değildir. Onarım tutmuyorsa far, parça koduyla değişir. Kapanışta ayar, varsa adaptif kalibrasyon yapılır.",
+              "how": "Su girişi, soket oksidi ve kulak çatlağı ayrılır. Cam değişecekse kasa contası ve iç ayna yüzeyi kontrol edilir. Mat far, ölçülü pasta ile açılır. Çatlak kasa veya kırık kulak yapıştırılarak yola bırakılmaz. LED ve adaptif sistemlerde kodlama ile far ayarı teslimden önce kapanır.",
+              "why": "Dağınık ışık hem sizi hem karşı şeridi kör eder. Buğu, soketi ve far beynini ıslatır.",
+              "steps": [
+                "Cam, kasa, kulak ve buğu ayrılır.",
+                "Tutacak onarım yapılır veya kodla parça değişir.",
+                "Soket ve conta kontrol edilir.",
+                "Far ayarı ve varsa kalibrasyon kapanır."
+              ],
+              "includes": [
+                "Cam, kasa ve ayar ayrımı",
+                "Mat yüzeyde ölçülü pasta",
+                "Parça koduyla değişim",
+                "Kapanışta far ayarı"
+              ],
+              "signs": [
+                "Farın içi buğulu, kısa far dağınık.",
+                "Taş iziyle delinmiş far camı.",
+                "Kulak kırıldığı için farın bir köşesi içeri kaçmış."
+              ],
+              "advantages": [
+                "Cam ile kasa karıştırılmaz",
+                "Çatlak kasa yapıştırılarak gönderilmez",
+                "Parça kodu iş emrindedir",
+                "Ayar teslimden önce yapılır"
+              ]
+            }
+          },
+          {
+            "slug": "jant-onarimi",
+            "title": "Jant Onarımı",
+            "description": "Jant eğrilik, çizik ve darbe kaynaklı hasarlarını sürüş güvenliğini koruyacak şekilde onarıyoruz.",
+            "iconName": "Disc",
+            "image": "https://images.unsplash.com/photo-1603386329225-868f9b1ee6c9?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Onarılacak alaşım jantı görünen mavi coupe",
+            "content": {
+              "duration": "Aynı gün",
+              "overview": "Eğrilik ve bordür çizikleri ölçülür. Düzeltilebilir salgı tezgahta alınır. Çatlak jant, güvenlik gerekçesiyle onarılmaz. Lastik sökülüp yeniden balanslanır.",
+              "how": "Jant, lastik sökülmeden salgı ve çatlak kontrolünden geçer. İç dudağa inmiş kırık ve kaynak isteyen çatlak reddedilir. Düzeltilebilir eğrilik hidrolik tezgahta alınır, çizik yüzey astar ve boya ile kapanır. İş bitince lastik takılır, balans yapışkan ağırlıkla tamamlanır, jant yüzü çizilmez.",
+              "why": "Eğri jant direksiyonu titretir, lastik omzunu yer ve rot dengesini bozar. Çatlak jant yolda açılır.",
+              "steps": [
+                "Salgı ve çatlak ölçülür.",
+                "Çatlak iş reddedilir.",
+                "Eğrilik tezgahta alınır, çizik kapatılır.",
+                "Lastik takılır, balansla teslim edilir."
+              ],
+              "includes": [
+                "Salgı ölçümü",
+                "Çatlak kontrolü ve gerekirse iş reddi",
+                "Tezgah düzeltme",
+                "Balans ile teslim"
+              ],
+              "signs": [
+                "Direksiyon belirli hızda titriyor.",
+                "Bordür sonrası jant dudağında ezik.",
+                "Lastiğin bir omzu diğerinden hızlı aşınıyor."
+              ],
+              "advantages": [
+                "Çatlakta iş açılmaz",
+                "Salgı rakamla yazılır",
+                "Balans teslimin parçasıdır",
+                "Jant yüzüne kurşun ağırlık vurulmaz"
+              ]
+            }
+          },
+          {
+            "slug": "cnc-ile-jant-yuzey-isleme",
+            "title": "CNC ile Jant Yüzey İşleme",
+            "description": "CNC uygulamasıyla jant yüzeyini estetik ve ölçüsel standartlara uygun hale getiriyoruz.",
+            "iconName": "Gauge",
+            "image": "https://images.unsplash.com/photo-1616422285623-13ff0162193c?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Elmas uçla işlenmeye uygun parlak alaşım jantlı beyaz sedan",
+            "content": {
+              "duration": "1–2 gün",
+              "overview": "Jant yüzeyi CNC tornada elmas uçla işlenir. Dudak kalınlığı ve kenar payı işlemden önce ölçülür. Pay yetmiyorsa tezgah açılmaz.",
+              "how": "Jant sökülür, salgı ve çatlak elenir. Kalan et kalınlığı mikrometre ile yazılır. Elmas uç, yalnızca payı olan yüzeyi alır. İşlem sonrası yüzey temizlenir, belirtildiği gibi vernik veya toz boya ile kapatılır. Lastik balanslanarak takılır.",
+              "why": "Zımparayla alınan yüzey jantın dengesini ve conta yuvasını bozar. CNC, alınan talaşı ölçülü tutar.",
+              "steps": [
+                "Salgı, çatlak ve et kalınlığı ölçülür.",
+                "Pay yoksa iş açılmaz.",
+                "Yüzey elmas uçla işlenir.",
+                "Koruma katı ve balans ile teslim edilir."
+              ],
+              "includes": [
+                "Ölçü öncesi kontrol",
+                "Elmas uç işleme",
+                "Yüzey koruma katı",
+                "Balans"
+              ],
+              "signs": [
+                "Jant yüzünde dağınık bordür izi, dudak hâlâ kalın.",
+                "Önceki cilada dalga ve mat halka.",
+                "Elmas kesim istenen, çatlaksız jant."
+              ],
+              "advantages": [
+                "Pay ölçülmeden kesim yok",
+                "Alınan talaş kayıtlıdır",
+                "Yetersiz payda tezgah açılmaz",
+                "Balans ile teslim"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "hasar-onarimi",
+        "label": "Hasar Onarımı",
+        "items": [
+          {
+            "slug": "hasar-onarimi",
+            "title": "Hasar Onarımı",
+            "description": "Kaza sonrası oluşan gövde ve kaporta hasarlarını profesyonel süreçle toparlıyor, teslimata hazır hale getiriyoruz.",
+            "iconName": "CarFront",
+            "image": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Kaporta holünde hasar onarımına alınmış, kapısı açık araç",
+            "content": {
+              "duration": "2–6 gün",
+              "overview": "Kaza sonrası gövde, şasi ölçümü ve panel planı olmadan çekilmez. Punto, panel değişimi ve boya aynı iş emrinde, fotoğraflı yürür.",
+              "how": "Şasi noktaları ve panel boşlukları ölçülür. Çekme, ancak referans değer tutmuyorsa açılır. Değişecek panel punto kaynakla, yapıştırma ve perçin üreticinin tarifine göre kapanır. Boya spektrofotometre ve fırın ile biter. Teslimde boşluk fotoğrafı, punto görüntüsü ve boya kalınlık notu verilir.",
+              "why": "Göz kararı çekme kapı boşluğunu, bagaj kapağını ve sürüş geometrisini bozar. Hasar dosyası ölçümle açılır.",
+              "steps": [
+                "Şasi ve panel boşlukları ölçülür.",
+                "Çekme ve parça planı yazılır.",
+                "Punto, yapıştırma veya perçin tarifine göre kapanır.",
+                "Boya ve kalınlık notu ile teslim edilir."
+              ],
+              "includes": [
+                "Şasi ölçümü",
+                "Panel ve punto planı",
+                "Fotoğraflı söküm",
+                "Fırın boya ve kalınlık notu"
+              ],
+              "signs": [
+                "Kapı veya bagaj kapağı artık aynı boşlukla kapanmıyor.",
+                "Çarpışma sonrası far veya tampon hizası kaçmış.",
+                "Sigorta dosyası açılmış gövde hasarı."
+              ],
+              "advantages": [
+                "Çekme ölçümle açılır",
+                "Punto fotoğraflanır",
+                "Boya kalınlığı teslim notudur",
+                "Geometri, boyadan önce kapanır"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "dolu-hasar-onarimi",
+        "label": "Dolu Hasar Onarımı",
+        "items": [
+          {
+            "slug": "dolu-hasar-onarimi",
+            "title": "Dolu Hasar Onarımı",
+            "description": "Dolu yağışı sonrası panel yüzeylerinde oluşan çoklu göçükleri boya işlemi gerektirmeden değerlendiriyoruz.",
+            "iconName": "CloudRain",
+            "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Panelinde çoklu göçük bulunan turuncu araç",
+            "content": {
+              "duration": "1–4 gün",
+              "overview": "Dolu, kaput, tavan ve bagajda onlarca küçük göçük bırakır. Her iz boya çatlağına göre ayrılır. Sağlam boya boyasız alınır, çatlayan nokta lokal boyaya bırakılır.",
+              "how": "Paneller ışık altında numaralanır. Çap, derinlik ve boya durumu tek tek yazılır. Boyasız alınabilecek izler çubuk ve tutkal ile toparlanır. Keskin kırık ve çatlamış boya boya planına geçer. Tüm tavanı boyamak, kalınlığı artıracağı için ilk seçenek değildir.",
+              "why": "Dolu izini komple boyamak rengi kaydırır ve mikronu yükseltir. Sağlam kat yerinde kalmalıdır.",
+              "steps": [
+                "Göçükler panel panel numaralanır.",
+                "Boya çatlağı olanlar ayrılır.",
+                "Sağlam boya boyasız düzeltilir.",
+                "Çatlak noktalar lokal boyaya yazılır."
+              ],
+              "includes": [
+                "Işık altında göçük sayımı",
+                "Boyasız düzeltme",
+                "Çatlak noktada lokal boya planı",
+                "Panel mikron notu"
+              ],
+              "signs": [
+                "Kaput ve tavanda yuvarlak, sık göçük.",
+                "Dolu sonrası boyası bütün, yalnızca ezik görünen panel.",
+                "Birkaç noktada boyası açılmış, geri kalanı sağlam yüzey."
+              ],
+              "advantages": [
+                "Göçük göçük ayrılır",
+                "Boyasız yöntem önce gelir",
+                "Çatlak nokta lokal boyanır",
+                "Tüm panel boyası ilk seçenek değildir"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "mekanik-bakim",
+        "label": "Mekanik Bakım ve Onarım",
+        "items": [
+          {
+            "slug": "periyodik-bakim",
+            "title": "Periyodik Bakım",
+            "description": "Araç üretici bakım planına uygun periyodik kontrollerle güvenli kullanım ve performans sürekliliği sağlıyoruz.",
+            "iconName": "ClipboardCheck",
+            "image": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Periyodik bakımda motor yağını değiştiren teknisyen",
+            "content": {
+              "duration": "Aynı gün",
+              "overview": "Yağ, filtre ve sıvılar üretici aralığı ile ölçülen duruma göre değişir. Kilometre dolmamış olsa bile sıvı görevini bitirmişse bekletilmez. Yapılan iş plakaya işlenir.",
+              "how": "Motor yağı ve filtresi, hava filtresi, polen filtresi, yakıt filtresi ve sıvı seviyeleri kontrol listesine yazılır. Fren hidroliği kaynama noktasına, soğutma sıvısı donma derecesine göre değerlendirilir. Aşınan kayış, silecek ve aydınlatma aynı ziyarette not edilir. Parça kodu ve yağ spesifikasyonu iş emrindedir.",
+              "why": "Atlanan yağ ve filtre, motor ve şanzıman faturasını büyütür. Takvim plakada durursa bir sonraki geliş tahminle açılmaz.",
+              "steps": [
+                "Kilometre, üretici planı ve sıvı durumu okunur.",
+                "Yağ ve filtreler spesifikasyona göre değişir.",
+                "Hidrolik ve soğutma sıvısı ölçülür.",
+                "Sonraki bakım plakaya işlenir."
+              ],
+              "includes": [
+                "Motor yağı ve yağ filtresi",
+                "Hava, polen ve gereken yakıt filtresi",
+                "Sıvı ölçümü",
+                "Plakaya işlenen sonraki tarih"
+              ],
+              "signs": [
+                "Bakım lambası yanmış veya yağ ömrü dolmuş.",
+                "Uzun süre aynı yağla kullanılan araç.",
+                "Muayene öncesi sıvı ve aydınlatma kontrolü."
+              ],
+              "advantages": [
+                "Üretici planı esas alınır",
+                "Kötü sıvı kilometre bekletilmez",
+                "Yağ spesifikasyonu yazılır",
+                "Sonraki geliş takvime bağlanır"
+              ]
+            }
+          },
+          {
+            "slug": "fren",
+            "title": "Fren",
+            "description": "Fren sistemi bileşenlerini kontrol ederek sürüş güvenliği odağında bakım ve onarım ihtiyaçlarını gideriyoruz.",
+            "iconName": "Disc",
+            "image": "https://images.unsplash.com/photo-1502877338535-766e1452684a?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Mavi kaliperleri görünen alaşım jant ve fren hattı",
+            "content": {
+              "duration": "Aynı gün",
+              "overview": "Disk kalınlığı, balata payı ve hidrolik kaçak ayrı ölçülür. İnce diskin üzerine yeni balata takılmaz. Yol testinde sağa sola sapma kabul edilmez.",
+              "how": "Ön ve arka aşınma ayrı yazılır. Disk minimum kalınlığın altındaysa disk ve balata birlikte değişir. Kaliper pimi, hortum şişmesi ve ABS halkası kontrol edilir. Fren hidroliği kaynama noktası düşünce değiştirilir. Montajdan sonra pedal hissi yol testiyle kapanır.",
+              "why": "İnce disk yeni balatayı çabuk bitirir ve pedalı uzatır. Tek taraf aşınması, kaliperin tuttuğunu gösterir.",
+              "steps": [
+                "Disk, balata ve hidrolik ayrı ölçülür.",
+                "Limit altı disk, balatayla birlikte değişir.",
+                "Kaliper, hortum ve ABS halkası bakılır.",
+                "Yol testinde sapma kontrol edilir."
+              ],
+              "includes": [
+                "Disk ve balata ölçümü",
+                "Hidrolik ve kaliper kontrolü",
+                "Gerekirse hidrolik değişimi",
+                "Yol testi"
+              ],
+              "signs": [
+                "Fren pedalında titreme veya uzama.",
+                "Frenlemede aracın bir yana çekmesi.",
+                "Jantın içine taşmış metalik ses."
+              ],
+              "advantages": [
+                "Ön ve arka ayrı ölçülür",
+                "İnce diske yeni balata takılmaz",
+                "Hidrolik kaynama noktasına göre değişir",
+                "Sapma varsa araç teslim edilmez"
+              ]
+            }
+          },
+          {
+            "slug": "amortisor",
+            "title": "Amortisör",
+            "description": "Amortisör kaynaklı sürüş konforu ve yol tutuş sorunlarını tespit edip onarımını sağlıyoruz.",
+            "iconName": "Activity",
+            "image": "https://images.unsplash.com/photo-1605559424843-9e4c228bf1c2?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Yol tutuş hattı görünen alçak sarı spor otomobil",
+            "content": {
+              "duration": "Aynı gün",
+              "overview": "Amortisör yağ kaçağı, salgı ve takoz boşluğu liftte kontrol edilir. Değişim çifttir. Tek taraf yenilenmez, çünkü frenlemede aracı yatırır.",
+              "how": "Körük, mil pası ve takoz yırtığı görsel olarak ayrılır. Zıplama ve sekme yol testinde doğrulanır. Amortisör, takoz ve körük birlikte değerlendirilir. Tek tarafın diğerinden yeni olması kabul edilmez. Montaj torku ve gerekirse rot ayarı kapanışta yapılır.",
+              "why": "Yorgun amortisör fren mesafesini uzatır, lastiği dalgalı yer ve virajda gövdeyi geç bırakır.",
+              "steps": [
+                "Kaçak, salgı ve takoz liftte bakılır.",
+                "Yol testinde sekme doğrulanır.",
+                "Amortisör çift ve takozuyla değişir.",
+                "Tork ve gerekirse rot ayarı kapanır."
+              ],
+              "includes": [
+                "Kaçak ve salgı kontrolü",
+                "Takoz değerlendirmesi",
+                "Çift değişim",
+                "Montaj tork kaydı"
+              ],
+              "signs": [
+                "Kasis sonrası aracın iki üç kez sekmesi.",
+                "Amortisör milinde yağ ıslaklığı.",
+                "Lastikte dalgalı, testere dişi aşınma."
+              ],
+              "advantages": [
+                "Tek taraf değişimi yok",
+                "Takoz aynı kararda",
+                "Yol testi ile doğrulanır",
+                "Tork kayda geçer"
+              ]
+            }
+          },
+          {
+            "slug": "suspansiyon-ve-direksiyon",
+            "title": "Süspansiyon ve Direksiyon",
+            "description": "Süspansiyon ve direksiyon bileşenlerinde oluşan arızaları güvenli sürüş odaklı gideriyoruz.",
+            "iconName": "Settings2",
+            "image": "https://images.unsplash.com/photo-1599256872237-5dcc0fbe9668?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Alt takımda somun sıkan teknisyenin elleri",
+            "content": {
+              "duration": "Aynı gün",
+              "overview": "Salıncak burcu, rot, rotbaşı ve tabla boşluğu ölçülür. Parça değişmeden rot ayarı yapılmaz. Ayar, liftten inmeden kapanır.",
+              "how": "Boşluk, levyeyle ve yol testindeki sesle doğrulanır. Burç yırtığı, rot körüğü ve rotbaşı salgısı ayrı satırdır. Değişen parça torklanır, sonra kamber ve toe ayarı yapılır. Lastik içten yemişse sebep yazılmadan ayar kapanmaz.",
+              "why": "Boş burç lastiği içten yer ve direksiyonu titretir. Yeni parçadan önce yapılan ayar bir haftada bozulur.",
+              "steps": [
+                "Burç, rot ve rotbaşı boşluğu ölçülür.",
+                "Değişecek parça iş emrine yazılır.",
+                "Montaj torklanır.",
+                "Rot ayarı liftten inmeden kapanır."
+              ],
+              "includes": [
+                "Boşluk ölçümü",
+                "Burç, rot ve rotbaşı kontrolü",
+                "Parça sonrası rot ayarı",
+                "Lastik aşınma notu"
+              ],
+              "signs": [
+                "Direksiyonda kasis sesi veya boşluk.",
+                "Lastiğin iç omzunun erimesi.",
+                "Düz yolda aracın bir yana akması."
+              ],
+              "advantages": [
+                "Ayar, parça değişiminden sonra yapılır",
+                "Boşluk rakamla yazılır",
+                "Lastik aşınmasının sebebi not edilir",
+                "Liftten inmeden ayar kapanır"
+              ]
+            }
+          },
+          {
+            "slug": "debriyaj",
+            "title": "Debriyaj",
+            "description": "Debriyaj sistemindeki performans kaybı ve parça aşınmalarını planlı bakım-onarım hizmeti veriyoruz.",
+            "iconName": "Cog",
+            "image": "https://images.unsplash.com/photo-1492144534655-ae79c964c9d7?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Debriyaj ve aktarma işinin açıldığı kapalı atölye holü",
+            "content": {
+              "duration": "1–2 gün",
+              "overview": "Kavramanın kaçırma noktası ve volan salgısı ölçülür. Baskı, balata ve bilya set halinde değişir. Yalnızca balata değiştirmek, eğilmiş volanı yerinde bırakır.",
+              "how": "Kaçırma, vites sertliği ve hidrolik merkez kaçağı ayrı yazılır. Volan salgısı limitin dışındaysa volan da sete girer. Şanzıman sökümünde keçeler ve merkez burcu kontrol edilir. Hidrolik kaçırıyorsa aynı iş emrindedir. Yol testinde kavrama noktası ve vites geçişi kayda geçer.",
+              "why": "Yarım değişen debriyaj erken döner. Hidrolik kaçak, yeni sete rağmen pedalı aşağıda bırakır.",
+              "steps": [
+                "Kaçırma noktası ve volan salgısı ölçülür.",
+                "Baskı, balata ve bilya set olarak planlanır.",
+                "Keçe ve hidrolik aynı sökümde bakılır.",
+                "Yol testinde kavrama noktası yazılır."
+              ],
+              "includes": [
+                "Set halinde değişim",
+                "Volan salgı ölçümü",
+                "Hidrolik kontrol",
+                "Yol testi"
+              ],
+              "signs": [
+                "Yokuşta veya yüksek devirde kavramanın kaçırması.",
+                "Vitesin özellikle 1 ve geriye sert geçmesi.",
+                "Pedalın yukarıda veya aşağıda kavraması."
+              ],
+              "advantages": [
+                "Balata tek başına değişmez",
+                "Volan ölçülür",
+                "Hidrolik aynı dosyadadır",
+                "Kavrama noktası teslim notudur"
+              ]
+            }
+          },
+          {
+            "slug": "triger-kayisi-zinciri",
+            "title": "Triger (Eksantrik) Kayışı / Zinciri",
+            "description": "Triger kayışı veya zinciri kontrol ve değişim süreçlerini motor sağlığını koruyacak şekilde yürütüyoruz.",
+            "iconName": "Link2",
+            "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Triger kayışı, gergi ve kasnakların yakın planı",
+            "content": {
+              "duration": "1 gün",
+              "overview": "Kayış çatlağı, gergi salgısı ve zincir uzaması ayrı ölçülür. Kayış, devirdaim ve gergiyle set halinde değişir. Yarım set kabul edilmez.",
+              "how": "Üretici aralığı ve parçanın gerçek hali birlikte bakılır. Kayışta çatlak, gergide ses, zincirde uzama değeri iş emrine yazılır. Devirdaim aynı sette değişir, çünkü rulmanı kayış ömründen kısa sürebilir. Zamanlama kilitlenir, montaj sonrası kaçak ve ses kontrol edilir.",
+              "why": "Kopan triger, supap ve pistonu aynı anda bitirir. Ertelenen zincir uzaması ise eksantrik ayarını kaydırır.",
+              "steps": [
+                "Çatlak, salgı veya uzama ölçülür.",
+                "Kayış, gergi ve devirdaim set yazılır.",
+                "Zamanlama kilitlenerek montaj yapılır.",
+                "Kaçak ve ses kontrolü ile teslim edilir."
+              ],
+              "includes": [
+                "Set değişimi",
+                "Devirdaim",
+                "Uzama veya çatlak kaydı",
+                "Zamanlama kontrolü"
+              ],
+              "signs": [
+                "Üretici kilometresi dolmuş kayış.",
+                "Soğukta bir iki saniye gelen zincir sesi.",
+                "Gergi veya devirdaim rulmanından uğultu."
+              ],
+              "advantages": [
+                "Set yarım değişmez",
+                "Devirdaim dahildir",
+                "Uzama değeri kayıtlıdır",
+                "Zamanlama kilitlenerek kapanır"
+              ]
+            }
+          },
+          {
+            "slug": "klima",
+            "title": "Klima",
+            "description": "Klima sisteminde soğutma performansı ve bileşen arızalarını planlı bakım ve onarım yapıyoruz.",
+            "iconName": "Snowflake",
+            "image": "https://images.unsplash.com/photo-1718629879709-35bebbf03212?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Hava ızgaraları ve klima kontrolleri görünen ön konsol",
+            "content": {
+              "duration": "2–6 saat",
+              "overview": "Basınç, polen filtresi ve evaporatör kokusu ayrı kalemlerdir. Kaçak UV ile bulunur. Gaz, kaçak dururken basılmaz.",
+              "how": "Sistem basıncı dolumdan önce kayda geçer. Polen filtresi tıkanıksa kompresör suçlanmaz, filtre değişir. Koku varsa evaporatör temizliği aynı güne yazılır. Kaçak boya ve UV lamba ile işaretlenir, sonra dolum yapılır. Üfleme sıcaklığı ölçülerek iş kapanır.",
+              "why": "Tıkalı filtre ve kokan evaporatör, sağlam kompresörün değişmesine yol açar. Önce filtre ve kaçak.",
+              "steps": [
+                "Basınç dolumdan önce yazılır.",
+                "Polen filtresi ve evaporatör ayrılır.",
+                "Kaçak UV ile bulunur.",
+                "Dolum sonrası üfleme sıcaklığı ölçülür."
+              ],
+              "includes": [
+                "Basınç kaydı",
+                "Polen filtresi kontrolü",
+                "UV kaçak testi",
+                "Evaporatör kokusu değerlendirmesi"
+              ],
+              "signs": [
+                "Üfleme ılık, kompresör sesi düzensiz.",
+                "İlk açılışta ekşi koku.",
+                "Cam buğusu geç açılıyor, filtre uzun süredir değişmemiş."
+              ],
+              "advantages": [
+                "Gaz boşa basılmaz",
+                "Filtre, kompresörden önce bakılır",
+                "Koku ayrı satırdır",
+                "Üfleme sıcaklığı ölçülür"
+              ]
+            }
+          },
+          {
+            "slug": "diagnostik",
+            "title": "Diagnostik",
+            "description": "Elektronik arıza tespiti için cihaz destekli diagnostik analiz yapıp doğru onarım planı çıkarıyoruz.",
+            "iconName": "ScanSearch",
+            "image": "https://images.unsplash.com/photo-1632733711679-529326f6db12?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Sigorta kutusunda ölçüm yapan teknisyenin elleri",
+            "content": {
+              "duration": "45–90 dk",
+              "overview": "Arıza lambası teşhis değildir. Marka yazılımıyla modül taranır, canlı veri yol testiyle doğrulanır. Silinen kod, donanım kanıtı olmadan kapanmaz.",
+              "how": "VAG, ISTA, XENTRY ve Toyota Techstream gibi marka yazılımlarıyla modüller okunur. Donmuş kare, canlı veri ve kaçak akım aynı dosyada durur. Parça, ölçüm tutmadan değişmez. Teşhis ücreti, aynı iş emrinde onarıma dönen araçta işçilikten düşülür.",
+              "why": "Ezberlenen arıza kodu yanlış parçayı değiştirir. Canlı veri, kodun hangi şartta geldiğini gösterir.",
+              "steps": [
+                "Modüller marka yazılımıyla taranır.",
+                "Canlı veri ve donmuş kare okunur.",
+                "Şüpheli hat ölçülür, yol testi yapılır.",
+                "Kod, kanıt varken silinir ve rapor yazılır."
+              ],
+              "includes": [
+                "Marka yazılımı taraması",
+                "Canlı veri",
+                "Yol testi",
+                "Yazılı teşhis notu"
+              ],
+              "signs": [
+                "Motor, ABS veya hava yastığı lambası yanık.",
+                "Arıza bir gün var, ertesi gün yok.",
+                "Akü sabah bitiyor, kaçak akım şüphesi var."
+              ],
+              "advantages": [
+                "Kod, parça listesi değildir",
+                "Canlı veri yol testiyle doğrulanır",
+                "Teşhis ücreti onarımdan düşülür",
+                "Rapor iş emrine eklenir"
+              ]
+            }
+          }
+        ]
+      },
+      {
+        "id": "oto-bakim",
+        "label": "Oto Bakım",
+        "items": [
+          {
+            "slug": "detayli-ic-ve-dis-temizlik",
+            "title": "Detaylı İç ve Dış Temizlik",
+            "description": "Araç içi ve dış yüzeylerde detaylı temizlik uygulayarak ilk günkü görünümüne yakın sonuç sağlıyoruz.",
+            "iconName": "Sparkles",
+            "image": "https://images.unsplash.com/photo-1607860108855-64acf2078ed9?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Araç yüzeyini elde yıkayan teknisyen",
+            "content": {
+              "duration": "3–6 saat",
+              "overview": "Dışarıda yıkama, demir tozu ve kil; içeride malzemeye uygun fırça, buhar ve ekstraksiyon kullanılır. Motor bölümü bu kaleme dahil değildir.",
+              "how": "Boya önce durulanır, demir tozu çözülür, kil ile yüzeydeki tutunmuş kir alınır. Izgara, eşik, bagaj contası ve jant ayrı yıkanır. İçeride tavan, halı, plastik ve deri birbirine karıştırılmaz. İş, boyayı bir sonraki korumaya hazırlar. Çizik giderme ve seramik ayrı iş emridir.",
+              "why": "Kaba yıkama hologram ve matlık bırakır. Detay, kiri boyanın içine sürmeden alır.",
+              "steps": [
+                "Dış yüzey durulanır, demir tozu çözülür.",
+                "Kil ve jant temizliği yapılır.",
+                "İç mekân malzeme malzeme temizlenir.",
+                "Yüzey kurulur, koruma ayrıca önerilir."
+              ],
+              "includes": [
+                "El ile dış yıkama",
+                "Demir tozu ve kil",
+                "İç plastik, halı ve deri ayrımı",
+                "Cam ve eşik detayı"
+              ],
+              "signs": [
+                "Boya elle gezildiğinde pürüzlü.",
+                "Halı ve koltukta yerleşmiş toz ve koku.",
+                "Satış veya teslim öncesi genel temizlik."
+              ],
+              "advantages": [
+                "Otomatik fırça kullanılmaz",
+                "İç ve dış malzeme ayrılır",
+                "Motor bölümü bu işe karışmaz",
+                "Koruma, temizlikten ayrı teklif edilir"
+              ]
+            }
+          },
+          {
+            "slug": "seramik-kaplama",
+            "title": "Seramik Kaplama",
+            "description": "Boya yüzeyine uzun ömürlü koruma ve parlaklık sağlayan seramik kaplama işlemi uyguluyoruz.",
+            "iconName": "Shield",
+            "image": "https://images.unsplash.com/photo-1617814076367-b759c7d7e738?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Seramik kaplamaya hazır derin parlaklıktaki koyu gövde",
+            "content": {
+              "duration": "1–2 gün",
+              "overview": "Seramik, çizik boyayı gizlemez. Yüzey ölçülür, gerekirse pasta ile düzeltilir, panel panel silinir ve kürlenmeye bırakılır.",
+              "how": "Boya kalınlığı pasta öncesi yazılır. Hologram ve hafif çizik, kalan vernik payı yetiyorsa alınır. Panel yağsız hale getirilir, kaplama satır satır uygulanır, kür süresi boyunca tozdan uzak tutulur. Jant, cam ve trim ancak ayrıca istenirse aynı dosyaya girer. Kirli araca doğrudan kaplama yapılmaz.",
+              "why": "Kirin ve çizğin üzerine sürülen katman, hatayı kilitler. Önce yüzey, sonra katman.",
+              "steps": [
+                "Mikron ve yüzey hataları yazılır.",
+                "Gerekirse pasta yapılır.",
+                "Panel panel kaplama uygulanır.",
+                "Kür süresi tamamlanınca teslim edilir."
+              ],
+              "includes": [
+                "Yüzey ölçümü",
+                "Gerekli pasta düzeltmesi",
+                "Panel panel seramik",
+                "Kür kaydı"
+              ],
+              "signs": [
+                "Yeni veya yeni boyanmış, çiziksiz yüzey.",
+                "Pasta sonrası kalıcı koruma isteği.",
+                "Sık yıkanan araçta su iticiliği kaybı."
+              ],
+              "advantages": [
+                "Çizik boyaya doğrudan kaplama yok",
+                "Mikron pasta öncesi yazılır",
+                "Kür bitmeden teslim yok",
+                "Jant ve cam ayrıca yazılır"
+              ]
+            }
+          },
+          {
+            "slug": "boya-koruma",
+            "title": "Boya Koruma",
+            "description": "Boya yüzeyini dış etkenlere karşı koruyan uygulamalarla aracın görünümünü daha uzun süre koruyoruz.",
+            "iconName": "SprayCan",
+            "image": "https://images.unsplash.com/photo-1553440569-bcc63803a83d?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Boya korumasına uygun parlak kırmızı gövde",
+            "content": {
+              "duration": "Aynı gün – 2 gün",
+              "overview": "Koruma, panelin kullanımına göre sealant veya film olarak seçilir. Kaput ucu, ayna altı, eşik ve far gibi taş izine açık bölgeler önceliklidir.",
+              "how": "Yüzey temizlenir, mikron yazılır. Film uygulanacaksa parça kalıbı araca göre kesilir, hava ve toz arada bırakılmaz. Sealant, pasta gerekiyorsa düzeltmeden sonra sürülür. Yasal görüşü etkileyecek cam bölgelerine film çekilmez. Kenar kalkması ilk kontrolde bakılır.",
+              "why": "Taş izi verniği deler ve sacı açar. Koruma, sonradan yapılacak boya onarımından daha küçük bir iştir.",
+              "steps": [
+                "Taş izine açık bölgeler işaretlenir.",
+                "Yüzey ölçülür ve temizlenir.",
+                "Film veya sealant uygulanır.",
+                "Kenar ve görüş kontrolü ile teslim edilir."
+              ],
+              "includes": [
+                "Film veya sealant seçimi",
+                "Yüzey temizliği",
+                "Taş izine açık bölge uygulaması",
+                "Kenar kontrolü"
+              ],
+              "signs": [
+                "Otoyol kullanan araçta kaput ucu taş izi.",
+                "Yeni boyanın korunması.",
+                "Eşik ve ayna altında açılmaya başlayan vernik."
+              ],
+              "advantages": [
+                "Ürün, panele göre seçilir",
+                "Görüşü bozan cama film çekilmez",
+                "Yüzey ölçülür",
+                "Kenar kalkması teslimde bakılır"
+              ]
+            }
+          },
+          {
+            "slug": "ozon-ile-dezenfeksiyon",
+            "title": "Ozon ile Dezenfeksiyon",
+            "description": "Araç kabininde ozon desteğiyle hijyen ve ferahlık sağlayan etkili dezenfeksiyon uyguluyoruz.",
+            "iconName": "Wind",
+            "image": "https://images.unsplash.com/photo-1547731269-e4073e054f12?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Ozon uygulamasına uygun boş araç kabini",
+            "content": {
+              "duration": "1–2 saat",
+              "overview": "Kabin kapatılır, ozon süresi hacme göre ayarlanır, işlem bitince araç havalandırılır. Polen filtresi kirliyse veya evaporatör kokuyorsa önce kaynak temizlenir.",
+              "how": "Kabin boşaltılır, pencereler kapanır, süre araç hacmine göre tutulur. İşlem sırasında kabinde kimse bulunmaz. Süre bitince ozon dağılana kadar havalandırma yapılır. Koku ıslak filtreden veya evaporatörden geliyorsa ozon tek başına iş emrini kapatmaz.",
+              "why": "Koku çoğu zaman ıslak polen filtresi ve evaporatördedir. Kaynak dururken ozon geçici ferahlık bırakır.",
+              "steps": [
+                "Filtre ve koku kaynağı kontrol edilir.",
+                "Kabin boşaltılır ve kapatılır.",
+                "Ozon süresi hacme göre uygulanır.",
+                "Araç havalandırılarak teslim edilir."
+              ],
+              "includes": [
+                "Süreye bağlı ozon",
+                "İşlem sırasında boş kabin",
+                "Sonrasında havalandırma",
+                "Filtre kontrolü"
+              ],
+              "signs": [
+                "Sigara veya evcil hayvan kokusunun döşemeye sinmesi.",
+                "Klima ilk açıldığında gelen küf kokusu, filtre de kontrol edilecekse.",
+                "Araç teslimi öncesi kabin hijyeni."
+              ],
+              "advantages": [
+                "Süre hacme göre ayarlanır",
+                "Kabin doluyken işlem yok",
+                "Havalandırma teslimin parçasıdır",
+                "Kaynak filtredeyse ozon tek başına satılmaz"
+              ]
+            }
+          },
+          {
+            "slug": "motor-ve-jant-temizligi",
+            "title": "Motor ve Jant Temizliği",
+            "description": "Motor bölümü ve jantlarda biriken kir ve kalıntıları uygun yöntemlerle güvenli biçimde temizliyoruz.",
+            "iconName": "Wrench",
+            "image": "https://images.unsplash.com/photo-1520340356584-f9917d1eea6f?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Jant ve arka panel üzerinden yıkama suyu geçen araç",
+            "content": {
+              "duration": "1–3 saat",
+              "overview": "Motor soğukken ve soketler korunarak yıkanır. Jant, balata tozuna uygun ürünle temizlenir. Sensöre ve diske aşındırıcı tutulmaz.",
+              "how": "Elektrik soketleri ve açık hava girişleri maskelenir. Yağ çözücü, soğuk motora uygulanır, düşük basınçla durulanır. Jantta asit, balata tozunu çözecek kadar tutulur, kaliper ve lastik omzuna uzun süre bırakılmaz. İş bitince kaçak izi varsa ayrıca not edilir. Motor yıkama, arıza teşhisi değildir.",
+              "why": "Sıcak motora ve açık sokete basınçlı su kaçınca arıza lambası yanar. Soğuk motor ve maskeleme şarttır.",
+              "steps": [
+                "Motorun soğuk olduğu ve soketler doğrulanır.",
+                "Soketler maskelenir, çözücü uygulanır.",
+                "Jant, balata tozuna göre temizlenir.",
+                "Durulama sonrası kaçak izi not edilir."
+              ],
+              "includes": [
+                "Soğuk motor yıkama",
+                "Soket koruması",
+                "Jant ve balata tozu temizliği",
+                "Kaçak gözlemi"
+              ],
+              "signs": [
+                "Motor kapağında yağ buharı ve toz tabakası.",
+                "Jant kollarında yapışmış balata tozu.",
+                "Satış öncesi motor ve jant görünümü."
+              ],
+              "advantages": [
+                "Sıcak motora su tutulmaz",
+                "Soketler maskelenir",
+                "Aside uzun temas yok",
+                "Görülen kaçak ayrıca yazılır"
+              ]
+            }
+          },
+          {
+            "slug": "koltuk-temizligi",
+            "title": "Koltuk Temizliği",
+            "description": "Koltuk yüzeyindeki leke ve kirleri malzeme tipine uygun tekniklerle derinlemesine temizliyoruz.",
+            "iconName": "Sofa",
+            "image": "https://images.unsplash.com/photo-1652860316277-370ca5b1b1df?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Derin temizliğe uygun açık renk deri koltuklar",
+            "content": {
+              "duration": "2–5 saat",
+              "overview": "Deri ve kumaş ayrılır. Leke önce test edilir, derin kir ekstraksiyonla alınır. Deri, işlem sonunda beslenir. Ev tipi köpük kullanılmaz.",
+              "how": "Dikiş, yan destek ve oturak ayrı bakılır. Kumaşta ekstraksiyon, kirli suyu dışarı alır. Deride pH’ı uygun temizleyici, gizli köşede denendikten sonra uygulanır. Alkali köpük deriyi çatlatır, kumaşta halka bırakır. İş bitince yüzey kurutulur, deri beslenir, kumaş nemli teslim edilmez.",
+              "why": "Yanlış köpük lekeyi büyütür. Derin kir dikişin içinde kalırsa koku geri gelir.",
+              "steps": [
+                "Deri ve kumaş ayrılır, leke test edilir.",
+                "Ekstraksiyonla derin kir alınır.",
+                "Yüzey kurutulur.",
+                "Deri beslenir, kumaş nemi kontrol edilir."
+              ],
+              "includes": [
+                "Malzeme ayrımı",
+                "Test sonrası temizlik",
+                "Ekstraksiyon",
+                "Deri beslemesi"
+              ],
+              "signs": [
+                "Açık deride koyulaşmış oturak.",
+                "Kumaş dikişinde yerleşmiş toz ve koku.",
+                "Çocuk koltuğu sonrası ezilme ve leke."
+              ],
+              "advantages": [
+                "Ev tipi köpük yok",
+                "Önce test yüzeyi",
+                "Kumaş nemli bırakılmaz",
+                "Deri işlem sonunda beslenir"
+              ]
+            }
+          },
+          {
+            "slug": "cam-filmi",
+            "title": "Cam Filmi",
+            "description": "Cam filmi uygulamasıyla güneş etkisini azaltıp sürüş konforu ve iç mekân korumasını güçlendiriyoruz.",
+            "iconName": "Layers",
+            "image": "https://images.unsplash.com/photo-1541899481282-d53bffe3c35d?auto=format&fit=crop&w=1800&q=80",
+            "imageAlt": "Cam filmi uygulanabilecek yan camları görünen mavi hatchback",
+            "content": {
+              "duration": "Aynı gün",
+              "overview": "Cam ölçülür, film ısıyla şekillendirilir, su ve toz arada kalmadan uygulanır. Ön cam ve ön kapılarda yasal ışık geçirgenliği ayrıca kontrol edilir.",
+              "how": "Camın iç yüzeyi temizlenir, film dışarıda ısıtılarak cama oturtulur, içeri alınır. Kenar payı cam contasını zorlamayacak şekilde bırakılır. Isıtmalı arka camda hatlar çizilmez. Koyu film, gece görüşünü ve muayeneyi bozacağı için ön görüş alanına ölçüsüz çekilmez. Kuruma süresi müşteriye söylenir, cam ilk gün indirilmez.",
+              "why": "Aşırı koyu film gece sürüşünü ve muayene sonucunu bozar. Geçirgenlik, konfordan önce gelir.",
+              "steps": [
+                "Cam ölçülür, yasal geçirgenlik konuşulur.",
+                "Film ısıyla şekillendirilir.",
+                "Toz ve su arada bırakılmadan yapıştırılır.",
+                "Kuruma süresi ve camı indirmeme notu verilir."
+              ],
+              "includes": [
+                "Ölçü ve kesim",
+                "Isıyla şekillendirme",
+                "Tozsuz uygulama",
+                "Yasal geçirgenlik kontrolü"
+              ],
+              "signs": [
+                "Yan camlarda güneş ve mahremiyet isteği.",
+                "Eskimiş, morarmış veya kabarcıklı eski film.",
+                "Arka camda buğu hattını bozmayan yenileme."
+              ],
+              "advantages": [
+                "Ön görüş alanı ölçülür",
+                "Film ısıyla oturtulur",
+                "Isıtmalı hatta zarar verilmez",
+                "Kuruma süresi teslimde söylenir"
+              ]
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "about": {
+    "eyebrow": "Atölye",
+    "title": "İki liften, on dört ile",
+    "lead": "2008’de Maslak’ta iki lift ve bir çukurla açıldık. Bugün aynı iş emri diliyle İstanbul, Ankara, İzmir ve on bir ilde daha çalışıyoruz.",
+    "paragraphs": [
+      "Demo Garaj bir yetkili servis değildir. Volkswagen Grubu, BMW, Mercedes, Toyota, Ford, Fiat ve Renault için bağımsız uzmanlık yürütürüz. Parça kodunu, işçilik süresini ve neden o parçayı değiştirdiğimizi müşteriye aynı cümlede anlatırız.",
+      "Ustalarımız marka eğitimi alır, ama teşhisi ezberlenen arıza koduna bırakmayız. Kompresyon, basınç, kaçak akım ve boya mikronu ölçülmeden kapak kapanmaz.",
+      "Ağır vasıtaya girmeyiz. Binek, SUV ve 3.5 tona kadar hafif ticari bizim sahadır. Onun dışında gelen aracı doğru adrese yönlendiririz."
+    ],
+    "image": "https://images.unsplash.com/photo-1487754180451-c456f719a1fc?auto=format&fit=crop&w=1800&q=80",
+    "imageAlt": "Motor kapağı üzerinde çalışan ustanın elleri",
+    "gallery": [
+      {
+        "image": "https://images.unsplash.com/photo-1486006920555-c77dcf18193c?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Servis atölyesinin dış cephesi ve açık kapı",
+        "caption": "Servis dış görünümü"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1486262715619-67b85e0b08d3?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Açık motor üzerinde çalışan teknisyen",
+        "caption": "Motor detayı"
+      },
+      {
+        "image": "https://images.unsplash.com/photo-1619642751034-765dfdf7c58e?auto=format&fit=crop&w=1600&q=80",
+        "alt": "Liftte yükseltilmiş binek araç",
+        "caption": "Liftteki araba"
+      }
+    ],
+    "valuesTitle": "Tezgahta değişmeyen üç kural",
+    "values": [
+      {
+        "title": "Ölç, sonra sök",
+        "text": "Tahminle parça değişmez. Rakam iş emrine yazılır."
+      },
+      {
+        "title": "Tek sorumlu",
+        "text": "Aracın bir danışmanı vardır. Üç kişiye aynı şeyi anlatmazsınız."
+      },
+      {
+        "title": "Fotoğraflı teslim",
+        "text": "Sökülen parça, yeni parça ve yol testi aynı klasörde durur."
+      }
+    ],
+    "stats": {
+      "eyebrow": "Rakamlar",
+      "title": "Tezgahta biriken iş",
+      "items": [
+        { "value": 15, "prefix": "", "suffix": "+", "label": "Yıl Deneyim" },
+        { "value": 14, "prefix": "", "suffix": "", "label": "İl'de Hizmet" },
+        { "value": 10000, "prefix": "", "suffix": "+", "label": "Mutlu Müşteri" },
+        { "value": 100, "prefix": "%", "suffix": "", "label": "Garantili İşlem" }
+      ]
+    },
+    "why": {
+      "eyebrow": "Tercih",
+      "title": "Neden bizi seçmelisiniz?",
+      "subtitle": "Dört kalem iş emrinin dışında kalmaz. Parça, güvence, yol yardım ve fiyat aynı sayfada durur.",
+      "items": [
+        {
+          "icon": "Package",
+          "title": "Orijinal OEM Parça",
+          "text": "Orijinal, OEM ve onaylı muadil ayrı satırdadır. Kod yazılmadan parça rafa çıkmaz."
+        },
+        {
+          "icon": "ShieldCheck",
+          "title": "2 Yıl İşçilik Güvencesi",
+          "text": "İşçilik iki yıl veya 30 bin km, hangisi önce dolarsa. Tüm Demo Garaj noktalarında geçerlidir."
+        },
+        {
+          "icon": "LifeBuoy",
+          "title": "7/24 Yol Yardım",
+          "text": "Kayar kasa ve kurtarıcı gece de çıkar. Araç Demo Garaj noktasına geliyorsa çekici ücreti iş emrinden düşülür."
+        },
+        {
+          "icon": "Receipt",
+          "title": "Şeffaf Fiyatlandırma",
+          "text": "Sökmeden fiyat uydurulmaz. Ön kontrol, onay ve ancak ondan sonra anahtar."
+        }
+      ]
+    },
+    "testimonials": {
+      "eyebrow": "Teslim tutanağı",
+      "title": "Müşteri yorumları",
+      "prev": "Önceki yorum",
+      "next": "Sonraki yorum",
+      "items": [
+        {
+          "name": "Selin Acar",
+          "vehicle": "Volkswagen Golf",
+          "stars": 5,
+          "text": "DSG vuruntusu için önce yağ ve adaptasyon raporu geldi, parça listesi sonra. Ne değiştiği, neden değiştiği ve teslim saati aynı kâğıttaydı. İkinci günde arabayı aldım."
+        },
+        {
+          "name": "Emre Kaya",
+          "vehicle": "BMW 320i",
+          "stars": 5,
+          "text": "Kapak contası işinde kompresyon değerlerini sökmeden önce gösterdiler. İşçilik güvencesi sözlü değil, iş emrinin altında yazıyordu. Maslak’tan çıkışta klasör elimdeydi."
+        },
+        {
+          "name": "Deniz Uçar",
+          "vehicle": "Toyota Corolla",
+          "stars": 5,
+          "text": "Gece yolda kaldım, çekici 40 dakikada geldi. Ertesi sabah kaçak akım ölçümü ve yeni akü aynı danışmanda kapandı. Fiyat, yolda söylenenle tezgahta aynıydı."
+        },
+        {
+          "name": "Mert Aslan",
+          "vehicle": "Ford Focus",
+          "stars": 5,
+          "text": "Dolu sonrası üç panel. Boyası çatlamayanlar boyasız alındı, çatlayan tek panel boyaya girdi. Mikron haritası teslimde telefondaydı, tahmin yoktu."
+        },
+        {
+          "name": "Ayşe Demir",
+          "vehicle": "Renault Megane",
+          "stars": 5,
+          "text": "Periyodik bakımda triger setini ‘kilometre doldu’ diye değiştirmediler. Kayış çatlağını fotoğraflayıp onay istediler. Bu kadar net bir servis notu görmemiştim."
+        }
+      ]
+    },
+    "map": {
+      "eyebrow": "Saha",
+      "title": "Türkiye hizmet noktaları",
+      "subtitle": "Noktanın üzerine gelin. İldeki atölye sayısı ve hangi işlerin yürüdüğü açılır.",
+      "pointLabel": "{count} Hizmet Noktası",
+      "workshopOne": "Atölye",
+      "workshopMany": "Atölye",
+      "locations": [
+        {
+          "id": "istanbul",
+          "name": "İstanbul",
+          "lon": 29,
+          "lat": 41.05,
+          "count": 5,
+          "detail": "Maslak, Ataşehir, Beylikdüzü, Pendik, Hadımköy"
+        },
+        {
+          "id": "ankara",
+          "name": "Ankara",
+          "lon": 32.85,
+          "lat": 39.93,
+          "count": 2,
+          "detail": "Söğütözü, Ostim"
+        },
+        {
+          "id": "izmir",
+          "name": "İzmir",
+          "lon": 27.14,
+          "lat": 38.42,
+          "count": 3,
+          "detail": "Bornova, Gaziemir, Çiğli"
+        },
+        {
+          "id": "bursa",
+          "name": "Bursa",
+          "lon": 29.06,
+          "lat": 40.19,
+          "count": 2,
+          "detail": "Nilüfer, Osmangazi"
+        },
+        {
+          "id": "antalya",
+          "name": "Antalya",
+          "lon": 30.7,
+          "lat": 36.9,
+          "count": 2,
+          "detail": "Kepez, Muratpaşa"
+        },
+        {
+          "id": "adana",
+          "name": "Adana",
+          "lon": 35.32,
+          "lat": 37,
+          "count": 2,
+          "detail": "Seyhan, Yüreğir"
+        },
+        {
+          "id": "trabzon",
+          "name": "Trabzon",
+          "lon": 39.72,
+          "lat": 41,
+          "count": 1,
+          "detail": "Ortahisar"
+        },
+        {
+          "id": "gaziantep",
+          "name": "Gaziantep",
+          "lon": 37.38,
+          "lat": 37.06,
+          "count": 2,
+          "detail": "Şehitkamil, Şahinbey"
+        },
+        {
+          "id": "konya",
+          "name": "Konya",
+          "lon": 32.49,
+          "lat": 37.87,
+          "count": 1,
+          "detail": "Selçuklu"
+        },
+        {
+          "id": "diyarbakir",
+          "name": "Diyarbakır",
+          "lon": 40.23,
+          "lat": 37.91,
+          "count": 1,
+          "detail": "Kayapınar"
+        }
+      ]
+    }
+  },
+  "blog": {
+    "eyebrow": "Defter",
+    "title": "Atölyeden notlar",
+    "subtitle": "Kış hazırlığı, fren hidroliği, arıza lambası. Satış yazısı değil, tezgahta gördüğümüz işler.",
+    "read": "okuma",
+    "posts": [
+      {
+        "slug": "kisa-hazirlik",
+        "title": "Aracınızı kışa hazırlayın",
+        "excerpt": "Akü voltajı, antifriz derecesi, lastik dişi ve cam suyu. Dört kalem, bir öğleden sonra. Yolda kalmanın çoğu bu listeden çıkar.",
+        "category": "Mevsim",
+        "date": "12 Kasım 2025",
+        "minutes": 6,
+        "image": "https://images.unsplash.com/photo-1489824904134-891ab64532f1?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Karanlıkta park etmiş siyah otomobil"
+      },
+      {
+        "slug": "fren-hidroligi",
+        "title": "Fren hidroliği ne zaman değişir",
+        "excerpt": "İki yılda bir ezberi her araçta tutmaz. Kaynama noktası düşünce pedal yumuşar. Ölçmeden değiştirmeyiz, ölçünce de ertelemeyiz.",
+        "category": "Fren",
+        "date": "3 Ekim 2025",
+        "minutes": 5,
+        "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Turuncu spor otomobil, fren performansı çağrışımı"
+      },
+      {
+        "slug": "ariza-lambasi",
+        "title": "Motor arıza lambası yandığında",
+        "excerpt": "Sarı lamba ile kırmızı lamba aynı şey değildir. Birinde servise kadar gidebilirsiniz, diğerinde kontağı kapatıp çekici çağırırsınız.",
+        "category": "Motor",
+        "date": "18 Eylül 2025",
+        "minutes": 7,
+        "image": "https://images.unsplash.com/photo-1493238792000-8113da705763?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Gece profili çekilmiş binek araç"
+      },
+      {
+        "slug": "dsg-bakim",
+        "title": "DSG şanzıman bakımı neden ertelenmez",
+        "excerpt": "Islak kavrama ile kuru kavrama aynı yağ aralığını kullanmaz. 60 bin km’de değişmeyen DQ250, mekatronik faturasına döner.",
+        "category": "Şanzıman",
+        "date": "2 Ağustos 2025",
+        "minutes": 8,
+        "image": "https://images.unsplash.com/photo-1619767886558-efdc259cde1a?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Önden çekilmiş Porsche, performans aktarma hissi"
+      },
+      {
+        "slug": "lastik-gecisi",
+        "title": "Yaz lastiğinden kış lastiğine geçiş",
+        "excerpt": "7 derecenin altı kış lastiği bölgesidir. Diş derinliği 4 mm’nin altına inmiş kış lastiği, yeni lastik değildir.",
+        "category": "Lastik",
+        "date": "21 Temmuz 2025",
+        "minutes": 4,
+        "image": "https://images.unsplash.com/photo-1525609004556-c46c7d6cf023?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Islak zemine yakın spor otomobil"
+      },
+      {
+        "slug": "filo-plan",
+        "title": "Filo araçlarında periyodik bakım planı",
+        "excerpt": "On araçtan sonra takvim dağılır. Plaka, km ve muayene tarihini tek panoda tutmayan filo, arızayı sahada yaşar.",
+        "category": "Filo",
+        "date": "9 Haziran 2025",
+        "minutes": 6,
+        "image": "https://images.unsplash.com/photo-1563720223185-11003d516935?auto=format&fit=crop&w=1400&q=80",
+        "alt": "Filo hissi veren koyu renk BMW"
+      }
+    ]
+  },
+  "contact": {
+    "eyebrow": "İletişim",
+    "title": "Bizimle iletişime geçin",
+    "subtitle": "Genel soru, parça ve filo için yazın. Servis saati için randevu sayfasını kullanın.",
+    "form": {
+      "name": "Ad",
+      "email": "E-posta",
+      "subject": "Konu",
+      "subjectPlaceholder": "Bir konu seçin",
+      "subjects": [
+        { "id": "general", "label": "Genel bilgi" },
+        { "id": "quote", "label": "Parça ve fiyat" },
+        { "id": "fleet", "label": "Filo anlaşması" },
+        { "id": "career", "label": "Kariyer" },
+        { "id": "other", "label": "Diğer" }
+      ],
+      "message": "Mesaj",
+      "messagePlaceholder": "Kısaca ne sormak istediğinizi yazın.",
+      "submit": "Mesajı gönder",
+      "sending": "Gönderiliyor",
+      "successTitle": "Mesajınız alındı",
+      "successText": "Danışman mesai içinde e-posta adresinize dönecek.",
+      "another": "Yeni mesaj",
+      "errors": {
+        "name": "Ad en az 2 karakter olmalı.",
+        "email": "Geçerli bir e-posta yazın.",
+        "subject": "Bir konu seçin.",
+        "message": "Mesaj en az 12 karakter olmalı."
+      }
+    },
+    "infoTitle": "Maslak ana atölye",
+    "mapTitle": "Demo Garaj Maslak haritası",
+    "faq": {
+      "eyebrow": "SSS",
+      "title": "Tezgahta en çok sorulanlar",
+      "items": [
+        {
+          "q": "Orijinal parça mı kullanıyorsunuz?",
+          "a": "Üç seçenek sunarız: orijinal, OEM ve onaylı muadil. Hangisini taktığımız iş emrinde koduyla yazar. Farkı söylemeden muadil takmayız."
+        },
+        {
+          "q": "Motor tamiri ne kadar sürer?",
+          "a": "Kapak contası çoğu zaman bir gün. Segman ve pistonlu revizyon, parçanın gelişine göre iki ile beş gün. Süre, sökümden önce ölçümle netleşir."
+        },
+        {
+          "q": "Teşhis ücreti onarımdan düşülür mü?",
+          "a": "Evet. Aynı iş emrinde onarıma dönen teşhis, işçilikten mahsup edilir. Sadece okuma yapıp çıkan araçta ücret kalır."
+        },
+        {
+          "q": "Hangi markalara bakıyorsunuz?",
+          "a": "Volkswagen Grubu, BMW, Mercedes-Benz, Toyota, Ford, Fiat ve Renault ağırlıktadır. Diğer binek ve 3.5 tona kadar hafif ticari araçları da kabul ederiz."
+        },
+        {
+          "q": "Dizel ve hibrit araç alıyor musunuz?",
+          "a": "Dizel partikül, EGR ve enjektör bizim günlük işimiz. Hibritte yüksek voltaj prosedürü olan teknisyen bakar; izolasyon testi olmadan kapak açılmaz."
+        },
+        {
+          "q": "İkame araç var mı?",
+          "a": "Ağır bakım ve filo sözleşmelerinde ikame çıkar. Aynı gün bitecek işlerde ikame vermeyiz, süreyi baştan söyleriz."
+        },
+        {
+          "q": "Çekici nasıl çalışır?",
+          "a": "0850 440 27 27 hattı 7/24 açıktır. Konum, plaka ve vitesin boşa alınıp alınmadığı sorulur. Araç Demo Garaj noktasına gelecekse çekici bedeli iş emrinden düşülür."
+        },
+        {
+          "q": "İşçilik garantisi ne kadar?",
+          "a": "İşçilik iki yıl veya 30 bin km, hangisi önce dolarsa. Parça garantisi üretici şartına bağlıdır ve teslim evrakında ayrı satırdır."
+        }
+      ]
+    }
+  },
+  "appointment": {
+    "metaTitle": "Randevu",
+    "metaDescription": "Plaka ve şikayet yeter. Maslak ana atölyede iş emrini açın; danışman süreyi ve ön kontrol ücretini net söyler.",
+    "eyebrow": "Randevu",
+    "title": "İş emrini buradan açın",
+    "subtitle": "Plaka ve şikayet yeter. Danışman dönüşünde süreyi ve ön kontrol ücretini net söyler.",
+    "workshop": "Maslak ana atölye",
+    "addressLine1": "Maslak Mah. Ahi Evran Cad. No:6",
+    "addressLine2": "Sarıyer / İstanbul",
+    "hours": "Hafta içi 08:00-20:00 Cumartesi 09:00-18:00 Acil hat 7/24",
+    "mapTitle": "Demo Garaj Maslak haritası",
+    "wizard": {
+      "progress": "Adım {current} / 5",
+      "back": "Geri",
+      "next": "İleri",
+      "steps": {
+        "service": {
+          "question": "Hangi hizmetimizden faydalanmak istiyorsunuz?",
+          "options": [
+            {
+              "id": "periodic",
+              "title": "Periyodik Bakım",
+              "text": "Yağ, filtre, fren ve kilometre bakımı."
+            },
+            {
+              "id": "engine",
+              "title": "Motor & Mekanik",
+              "text": "Motor, şanzıman, çekiş ve mekanik arıza."
+            },
+            {
+              "id": "body",
+              "title": "Hasar & Kaporta",
+              "text": "Çarpma, boya ve panel onarımı."
+            },
+            {
+              "id": "diagnostic",
+              "title": "Arıza Tespiti",
+              "text": "Arıza kodu, kaçak ve elektronik teşhis."
+            }
+          ],
+          "error": "Bir hizmet seçin."
+        },
+        "complaint": {
+          "question": "Aracınızdaki temel sorun nedir?",
+          "placeholder": "Belirtiyi kendi cümlelerinizle yazın.",
+          "pills": {
+            "periodic": ["Yağ değişimi zamanı", "Frenlerden ses geliyor", "Periyodik km doldu"],
+            "engine": ["Motordan ses geliyor", "Çekiş düştü", "Frenler tutmuyor"],
+            "body": ["Çarpışma izi var", "Boya kalkmış", "Kapı tam kapanmıyor"],
+            "diagnostic": ["Arıza lambası yandı", "Çekiş düştü", "Rölantide titreme var"]
+          },
+          "error": "Bir belirti seçin veya en az 8 karakter yazın."
+        },
+        "tow": {
+          "question": "Aracınız yürür durumda mı, çekici yönlendirelim mi?",
+          "needTow": "Hayır, Çekici İstiyorum (Konum Alınacak)",
+          "self": "Evet, Kendim Getireceğim",
+          "locating": "Konum alınıyor",
+          "located": "Konum alındı",
+          "locationDenied": "Konum izni verilmedi. Danışman sizi arayınca adres alınacak.",
+          "error": "Bir seçenek işaretleyin."
+        },
+        "schedule": {
+          "question": "Hangi gün ve saat sizin için uygun?",
+          "flexible": "Tarih esnek, siz beni arayın",
+          "note": "Not",
+          "notePlaceholder": "Öğleden sonra uygunum, sabah erken olmaz.",
+          "prevMonth": "Önceki ay",
+          "nextMonth": "Sonraki ay",
+          "weekdays": ["Pt", "Sa", "Ça", "Pe", "Cu", "Ct", "Pz"],
+          "slots": ["09:00", "11:00", "13:00", "15:00", "17:00"],
+          "timeLabel": "Saat",
+          "error": "Bir gün ve saat seçin ya da esnek tarih kutusunu işaretleyin."
+        },
+        "details": {
+          "title": "Son Adım: İletişim Bilgileriniz",
+          "name": "Ad Soyad",
+          "phone": "Telefon",
+          "plate": "Plaka",
+          "plateHint": "Sistemden aracınızı takip edebilmeniz için plakanızı doğru giriniz",
+          "submit": "Randevuyu Onayla ve Gönder",
+          "sending": "Gönderiliyor",
+          "errors": {
+            "name": "Ad soyad en az 2 karakter olmalı.",
+            "phone": "Geçerli bir telefon yazın.",
+            "plate": "Plakayı 34 ABC 123 biçiminde yazın."
+          }
+        }
+      },
+      "successTitle": "Randevu alındı",
+      "successText": "Danışman mesai içinde sizi arayacak. Acil yol yardım için haritanın yanındaki hattı kullanın.",
+      "another": "Yeni randevu"
+    }
+  },
+  "vehicle": {
+    "metaTitle": "Araç Durum Sorgulama",
+    "metaDescription": "Plaka ile aracın hangi holde olduğunu sorgulayın. Sorgu hattı kısa süre içinde açılacak.",
+    "eyebrow": "Takip",
+    "title": "Araç durum sorgulama",
+    "subtitle": "Plakanızı girerek iş emrinin hangi holde olduğunu göreceksiniz. Sorgu servisi bağlandığında bu sayfa açılacak.",
+    "searchLabel": "Plaka / İş Emri No",
+    "placeholder": "34 ABC 123",
+    "submit": "Sorgula",
+    "panelEyebrow": "İş emri",
+    "vehicleName": "BMW 320i",
+    "workOrderLabel": "No",
+    "workOrder": "OT-4821",
+    "statusDone": "Tamamlandı",
+    "statusActive": "Aktif",
+    "statusWaiting": "Bekliyor",
+    "steps": [
+      { "title": "Araç Kabul ve İş Emri Açılışı", "detail": "" },
+      { "title": "Arıza Tespiti ve Raporlama", "detail": "" },
+      { "title": "Onarım / Parça Değişimi", "detail": "Tahmini Bitiş: Yarın 16:00" },
+      { "title": "Yıkama ve Kalite Kontrol", "detail": "" },
+      { "title": "Teslime Hazır", "detail": "" }
+    ]
+  },
+  "notFound": {
+    "title": "Bu hol boş",
+    "text": "Aradığınız sayfa taşınmış ya da hiç açılmamış.",
+    "back": "Ana sayfaya dön"
+  },
+  "partners": [
+    "Castrol",
+    "Bosch",
+    "Mobil 1",
+    "Shell",
+    "NGK",
+    "Brembo",
+    "Mann-Filter",
+    "Valeo",
+    "Continental",
+    "Michelin",
+    "Liqui Moly",
+    "Mahle"
+  ]
+}
