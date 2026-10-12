@@ -155,18 +155,18 @@ export function Navbar({
         </Link>
         <nav className="hidden items-center gap-4 xl:gap-7 lg:flex">
           <MegaTrigger
-            label={nav.services}
-            open={menu === "services"}
-            active={pathname.startsWith(hrefs.services)}
-            onOpen={() => setMenu("services")}
-            onToggle={() => toggleMenu("services")}
-          />
-          <MegaTrigger
             label={nav.corporate}
             open={menu === "corporate"}
             active={pathname.startsWith(hrefs.about)}
             onOpen={() => setMenu("corporate")}
             onToggle={() => toggleMenu("corporate")}
+          />
+          <MegaTrigger
+            label={nav.services}
+            open={menu === "services"}
+            active={pathname.startsWith(hrefs.services)}
+            onOpen={() => setMenu("services")}
+            onToggle={() => toggleMenu("services")}
           />
           <PlainLink href={plain[0].href} label={plain[0].label} active={pathname.startsWith(plain[0].href)} />
           <PlainLink href={plain[1].href} label={plain[1].label} active={pathname.startsWith(plain[1].href)} />
@@ -231,15 +231,6 @@ export function Navbar({
               {nav.home}
             </Link>
             <MobileGroup
-              label={nav.services}
-              open={mobileGroup === "services"}
-              onToggle={() => setMobileGroup((current) => (current === "services" ? null : "services"))}
-              items={nav.servicesMenu}
-              lang={lang}
-              viewAll={hrefs.services}
-              viewAllLabel={nav.viewAll}
-            />
-            <MobileGroup
               label={nav.corporate}
               open={mobileGroup === "corporate"}
               onToggle={() => setMobileGroup((current) => (current === "corporate" ? null : "corporate"))}
@@ -247,6 +238,15 @@ export function Navbar({
               lang={lang}
               viewAll={hrefs.about}
               viewAllLabel={nav.viewCorporate}
+            />
+            <MobileGroup
+              label={nav.services}
+              open={mobileGroup === "services"}
+              onToggle={() => setMobileGroup((current) => (current === "services" ? null : "services"))}
+              items={nav.servicesMenu}
+              lang={lang}
+              viewAll={hrefs.services}
+              viewAllLabel={nav.viewAll}
             />
             <Link href={hrefs.blog} className="py-2 text-lg text-white">
               {nav.blog}
